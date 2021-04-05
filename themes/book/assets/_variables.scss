@@ -3,9 +3,11 @@
 // @import "plugins/dark";
 
 $font-size-base: 18px;
-$font-size-12: 0.75rem !default;
-$font-size-14: 0.875rem !default;
-$font-size-16: 1rem !default;
+
+$body-min-width: 20rem !default;
+$container-max-width: 90rem;
+$menu-width: 14rem;
+$toc-width: 14rem;
 
 @mixin theme-dark {
   --gray-100: #212121;
