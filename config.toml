@@ -1,0 +1,23 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "adn's web page"
+theme = "book"
+
+disablePathToLower = true
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+  [markup.highlight]
+    lineNoStart = 1
+    lineNos = true
+    style = "native"
+    tabWidth = 2
+
+[params]
+  BookTheme = "dark"
+  BookToC = true
+  BookRepo = "https://github.com/a327ex/www"
+  BookDateFormat = "02/01/2006"
+  BookSearch = true
+  BookComments = false
