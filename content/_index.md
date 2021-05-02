@@ -1,41 +1,20 @@
 ---
 title: Introduction
 type: docs
+bookToC: false
 ---
 
-# Acerbo datus maxime
+Hello, I'm **adn**. I make replayable games where you can try lots of different builds.  
+Currently I'm making one game every ~1-3 months. To get notified on new releases:
 
-{{< columns >}}
-## Astris ipse furtiva
+Games: [follow me on steam](https://store.steampowered.com/dev/a327ex/)  
+Prototypes: [follow me on itch](https://a327ex.itch.io/)  
+Posts: [subscribe to my newsletter](https://tinyletter.com/a327ex)
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+## [SNKRX (May 2021)](https://store.steampowered.com/app/915310/SNKRX/)
 
-<--->
+{{< youtube eXxH-HAtYiM >}}
 
-## Suis quot vota
+## [BYTEPATH (Feb 2018)](https://store.steampowered.com/app/760330/BYTEPATH/)
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
-
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+{{< youtube vRC1F1BSW7E >}}
