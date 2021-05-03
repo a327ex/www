@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: home
 type: docs
 bookToC: false
 ---
