@@ -4,6 +4,7 @@ tags = [
     "indiedev",
     "postmortem",
 ]
+draft = true
 +++
 
 [SNKRX](https://store.steampowered.com/app/915310/SNKRX/) is the second game I've released on Steam
