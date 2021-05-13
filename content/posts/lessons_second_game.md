@@ -65,6 +65,9 @@ It's the kind of thing where I know what "better" looks like: something that has
 so that adding modules in those languages is a workflow supported by the framework itself. [LÖVR](https://lovr.org/) gets most of these things right,
 unfortunately it's very focused on 3D and I haven't played around with it enough to see how feasible it is to use it for 2D projects.
 
+The framework could also be C based, since I can just write the Lua bindings myself. There are lots of C frameworks, but their main problem is that because they're being written
+in C it's rarely the case that they bother to make the API nice and easy to use like LÖVE's. In general I'll have to deal with OpenGL type of code (I don't want any of that) which defeats the purpose of the thing.
+
 In any case, LÖVE works well enough for most things and I've gotten used to it for long enough that 
 it would be mostly a waste of time to try to redo it or get used to another framework/engine. LÖVE's web export is kinda buggy but it mostly works, the features
 it has are very complete, especially the graphics end of it, and while integrating C/C++ modules can be annoying it's also not really hard for the most part, and so... it just... works.
@@ -74,8 +77,8 @@ it has are very complete, especially the graphics end of it, and while integrati
 In the [previous post](https://github.com/a327ex/blog/issues/31) I made like this I had a lot of really hot opinions about many things, but one of them was pretty much
 my argument for making my own engine and how it would be great, and how Unity sucked, and all that. 
 
-In the end I managed to make a fairly OK initial version of the engine I wanted about 2 months after that post, and then 2 months after I realized that everything I wanted to fix about LÖVE was actually
-fairly doable without having to write much C code at all, which means that I could fix most of my problems with LÖVE without having to replace it.
+About 2 months after writing that post I managed to make a fairly OK initial version of the engine I wanted, and then 2 months llater I realized that everything I wanted to fix about LÖVE was actually
+fairly doable without having to rewrite most of LÖVE in C, meaning that I could fix most of my problems with LÖVE without having to replace it.
 
 But more importantly, LÖVE actually has a lot of graphics features that I would have to reimplement, and it turns out that I REALLY didn't like doing low level graphics code at all.
 So I just decided to go back to it, fix the things I wanted to fix with my new-found knowledge and then move on. It was a very fast and useful lesson about the actual value that the framework was providing
@@ -494,4 +497,76 @@ So in the future I will simply try to plan each project out more. Spend more tim
 
 ## Demo and wishlist building
 
+As previously stated, having a plan is good because you can clearly figure out what went wrong. Going into this game I had a fairly developed plan for how things would go:
+I'd make a playable web demo of the game, release it on itch.io and at the same time also release the game's Steam page. If the game's demo was well received then I'd get a boost in wishlists
+which would boost my game's page on Steam and I'd get tons of algorithm wishlists as a result.
+
+### Sound bugs
+
+After about 1 month of development I managed to finish the demo, but upon testing it was clear that there were a few bugs that I couldn't fix. Namely the sounds weren't playing properly.
+In my view sounds are really important and add a lot to this game, so while I could release a demo with buggy sounds I'd only do so if that really was the only problem the game had.
+
+### Poor reception
+
+But it was also clear that within a few hours of having a few people playtest the game that it just wasn't something I could release in good conscience. Most problems people pointed out from the demo
+were things that I knew were problems and that I knew I was going to fix before the game released, but the game just didn't work without those things being there.
+
+This was a clear case of the game in my head being one thing, and me thinking that even if I implemented half of it people would understand that the other half is missing because it's a demo. But it just didn't work
+out this way.
+
+Due to the very fast nature of development on a game like this, the half that was missing was fairly important to making the game work at all and playtesters made it clear to me that essentially what
+I had was garbage that didn't really work.
+
+### Changing plans
+
+So I pretty quickly decided to not release a demo at all and just release a Steam page. I spent quite a lot of effort making a trailer for it which in retrospect wasn't entirely necessary.
+I made a complete trailer with tons of cuts, the kind you expect from a game release, when a way easier one to make with fewer cuts and more gameplay being showcased would have worked just as well.
+
+[This article](https://www.derek-lieu.com/blog/2021/4/18/the-simplest-trailer-to-make-for-your-steam-page) goes over this a little. The main reason why looking back I would have done an easier trailer was because
+the effort was pointless. I released my Steam page, posted it everywhere I could and my game didn't really get any traction anywhere, which I should have predicted and assumed would happen.
+
+With my previous game, BYTEPATH, the same happened, and before release basically no one cared about the game and trying to get people to care was pretty pointless. Only after release did I manage to get traction
+with it anywhere, and I suspect that with this game it might be the same. I looked back on my Steamworks stats and BYTEPATH released with about 150 wishlists, and SNKRX has about 200 as of 5 days before release.
+
+### Future plans
+
+So for future games, especially these games that I'm making in 1-3 months, as soon as I have like 1-2 minutes of gameplay that can be recorded and be somewhat coherent (it doesn't even have to be a complete gameplay loop),
+I'm going to grab that, record it a little, cut it up into a trailer in a very minimal way, and then make the game's Steam page.
+This should probably be done in week 1 or so of development, since I want the page to be up for as long as possible.
+
+At the same time, I shouldn't worry at all about trying to build up my wishlist count once the page is up.
+If SNKRX goes like BYTEPATH, which is that it gets a good reception on places like reddit which drives quite a few sales on the first few days, then it's safe to assume that getting good posts on a few subreddits
+on release day works better than building wishlists for these smaller games.
+
+I guess I'll know how it goes once SNKRX releases. In case SNKRX doesn't get any good reception at all, then it will sell fairly poorly since 200-300 wishlists is basically nothing. In that case I don't think I have
+any plans other than making my next game better (especially visually) so that the chances people upvote it are higher.
+
+## Devlog
+
+One very positive thing about this game's development was that I kept a devlog of it. So after every day or every week I'd write what I did in that time frame and after a while of doing this
+it became pretty easy to see what was holding me back and what wasn't.
+
+I already went over these, but mainly it was that whenever I didn't have the next thing to do planned it would take me quite a while to get back to being productive on the project since I'd need to spend
+some time thinking about what to do next and for some reason that tended to consume a few days.
+
+Maybe on top of that devlog I should also have some kind of planning document. On the devlog it was often the case that I would write something like "and what I'm gonna do tomorrow is this". Maybe I should try
+to develop that spirit of "what I'm gonna do tomorrow" more and have it in a more organized manner in another document.
+
 ## Workload 
+
+Overall I'm fairly happy with how much I worked on this project. I definitely didn't overwork myself at all, but I also wasn't super omega lazy.
+
+As I'm writing this, 5 days before the game releases, there are still quite a few things to do but it feels very under control and I don't feel rushed at all. I only feel that my energy to work on this particular
+project has been decreasing over time, which is to be expected I think.
+
+With BYTEPATH I had a quite severe "post release depression" period, which I think is something that happens commonly with developers. I feel like with this game I won't really have that at all because I already
+know what I need to do next, which is to refactor my engine and then start working on the next game.
+
+# End
+
+I'd say I'm satisfied that I finally released another game and that I have an immediate plan to do more games in the near future. I hope I can keep myself to this ~2 months schedule.
+
+One of the hard things about releasing games is that it's very hard to get things up to a level you're happy with releasing. You don't want to let go of your standards completely because then
+you're just putting pure garbage into the world, but you also don't want the filter to be too strict otherwise you'll never release anything.
+
+Striking a balance that works for you personally can be very difficult, and I think I've finally managed to do it. Let's see if it works!
