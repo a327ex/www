@@ -13,10 +13,10 @@ Code: [follow me on github](https://github.com/a327ex)
 E-mail: [subscribe to my newsletter](https://buttondown.email/a327ex)  
 Other: [join my discord server](https://discord.gg/pufNcyfpJa)
 
-## [SNKRX (May 2021)](https://store.steampowered.com/app/915310/SNKRX/)
+## [SNKRX (May 2021, Steam)](https://store.steampowered.com/app/915310/SNKRX/)
 
-{{< youtube eXxH-HAtYiM >}}
+{{< youtube kfBCn4hn5UU >}}
 
-## [BYTEPATH (Feb 2018)](https://store.steampowered.com/app/760330/BYTEPATH/)
+## [BYTEPATH (Feb 2018, Steam)](https://store.steampowered.com/app/760330/BYTEPATH/)
 
 {{< youtube vRC1F1BSW7E >}}

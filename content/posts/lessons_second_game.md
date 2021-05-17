@@ -10,7 +10,7 @@ draft = true
 [SNKRX](https://store.steampowered.com/app/915310/SNKRX/) is the second game I've released on Steam and in this post I'll go over my thoughts on its development.
 
 For context, I made this game in the past 3 months as an ongoing dev challenge I have with myself to start making games more consistently every 2 months or so.
-I'll divide the contents of this post in 3 sections: programming, design and overall indiedev strategy.
+I'll divide the contents of this post in 4 sections: programming, design, strategy/business and a more general section for things that don't fit the others.
 
 <!--more-->
 
@@ -366,7 +366,7 @@ I don't know. I don't think I've thought about this enough to make my thoughts c
 Let's call it "a general feeling of stretching the game beyond its limits that feels forced".
 
 
-# Strategy
+# Strategy/Business
 
 ## A game every 2 months
 
@@ -561,6 +561,14 @@ project has been decreasing over time, which is to be expected I think.
 
 With BYTEPATH I had a quite severe "post release depression" period, which I think is something that happens commonly with developers. I feel like with this game I won't really have that at all because I already
 know what I need to do next, which is to refactor my engine and then start working on the next game.
+
+## Social media posting
+
+## Release expectations vs. results
+
+## Post-release depression
+
+##
 
 # End
 
