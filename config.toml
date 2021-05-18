@@ -21,3 +21,4 @@ disablePathToLower = true
   BookDateFormat = "02/01/2006"
   BookSearch = true
   BookComments = false
+  BookLogo = "logo.jpg"
