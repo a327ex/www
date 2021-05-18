@@ -4,7 +4,6 @@ tags = [
     "indiedev",
 ]
 date = "2021-05-18"
-images = ["logo.jpg"]
 +++
 
 [SNKRX](https://store.steampowered.com/app/915310/SNKRX/) is the second game I've released on Steam and in this post I'll go over my thoughts on its development and how it performed. I made this game in the past 3 months as a dev challenge to start making and releasing games more consistently.

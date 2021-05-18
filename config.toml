@@ -22,3 +22,4 @@ disablePathToLower = true
   BookSearch = true
   BookComments = false
   BookLogo = "logo.jpg"
+  images = ["logo.jpg"]
