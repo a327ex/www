@@ -63,6 +63,20 @@ response on release day and that seems to have shot it up in the algorithm's eye
 It's possible that SNKRX falls down the void of Steam and thus experiences a much more timid increase in sales over time in comparsion, which would decrease the results significantly.
 I guess I'll see what happens as time passes.
 
+## Updated values
+
+I've decided to keep track of these stats more closely and to compare them every once in a while to answer the question of if everything will remain equal in their trajectory or not.
+This "updated values" section is being updated over time, the rest of the article was written 1 day after the game's release.
+
+### Day 3 Comparison
+
+{{< figure src="https://i.imgur.com/CuQ8FHv.png" >}}
+
+{{< figure src="https://i.imgur.com/3U4qstS.png" >}}
+
+Based on these numbers the updated projection for SNKRX's performance is that it will do about half as well as BYTEPATH, which is an improvement from 1/3rd as well.
+This improves it from $4K over 3 years to $6K over 3 years, which is equivalent to about R$15K rather than R$10K.
+
 # Programming
 
 ## Engine
