@@ -101,11 +101,7 @@ Comparing where visits to the page are coming from for both games leads to some 
 Here we can see that in the first week BYTEPATH had a sizable number of visits from "external website", and most of that is from reddit.
 SNKRX on the other hand had very few popular social media posts, and most of its visits seem to come from the discovery queue.
 
-Why is it being shown a lot in the discovery queue? I have no idea. The game isn't being played for much longer than BYTEPATH. It has a better
-initial retention and maybe it has better longer retention as well but the difference doesn't seem that large to me. Sadly this is a stat
-I can't compare equally because Steam's hours played thingy doesn't let you go back in time to see what it was like for BYTEPATH in the first week.
-
-Either way, these are good week 1 results!
+Why is it being shown a lot in the discovery queue? I have no idea. Either way, these are good week 1 stats.
 
 # Programming
 
