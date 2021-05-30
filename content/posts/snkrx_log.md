@@ -116,10 +116,15 @@ By itself this is still pretty good, because it means that people aren't droppin
 But then you start adding streamers into the equation and you start getting these spikes in both concurrent players and purchases that you can see after May 26th. These 2 spikes at the end
 that happened today (May 30th) are both from Celerity and from [Retromation](https://www.youtube.com/watch?v=WBxd52qyULE) who released this video right as I'm writing this post.
 
-I'm not really sure what to make of all this other than "if the game is enjoyable people will play it a lot and it will spread naturally" and
-"smaller streamers with focused audiences are really good at converting viewers into players", which were things that I sort of already knew but I guess it's interesting to see it in action.
+These are very good numbers that I didn't expect at all and it's honestly kind of weird that people are responding to the game this positively.
+Before release both SNKRX and BYTEPATH had a really hard time getting any traction at all, both games released with 200 wishlists only, and for both of them most
+playtesters didn't seem to really enjoy the game that much.
 
-Either way, these are extremely good results for week two.
+But then after release both of them saw some version of success that was way better than the response before the game was released. This likely means that for these games I'm making
+that don't really have good graphics, all they have to rely on for marketing is people actually playing and enjoying them. So my previous strategy of going for a playable demo
+was likely right in this sense, although releasing an early broken demo is probably still not a good idea.
+
+Either way, these are really good week two results.
 
 ### Reviews
 
