@@ -5,7 +5,6 @@ tags = [
 ]
 date = "2021-05-30"
 images = ["https://cdn.cloudflare.steamstatic.com/steam/apps/915310/header.jpg"]
-draft = true
 +++
 
 This article contains post-release financial results, thoughts, plans and assorted data for SNKRX.
