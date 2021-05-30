@@ -63,46 +63,6 @@ response on release day and that seems to have shot it up in the algorithm's eye
 It's possible that SNKRX falls down the void of Steam and thus experiences a much more timid increase in sales over time in comparsion, which would decrease the results significantly.
 I guess I'll see what happens as time passes.
 
-## Updated values
-
-I've decided to keep track of these stats more closely and to compare them every once in a while to answer the question of if everything will remain equal in their trajectory or not.
-This "updated values" section is being updated over time, the rest of the article was written 1 day after the game's release.
-
-### Day 3 Comparison
-
-{{< figure src="https://i.imgur.com/CuQ8FHv.png" >}}
-
-{{< figure src="https://i.imgur.com/3U4qstS.png" >}}
-
-Based on these numbers the updated projection for SNKRX's performance is that it will do about half as well as BYTEPATH, which is an improvement from 1/3rd as well.
-This improves it from $4K over 3 years to $6K over 3 years, which is equivalent to about R$15K rather than R$10K.
-
-### Week 1 Comparison
-
-{{< figure src="https://i.imgur.com/yT5fpZy.png" >}}
-
-{{< figure src="https://i.imgur.com/YtoDOLK.png" >}}
-
-Now SNKRX is doing about 0.8 as well as BYTEPATH, which makes it go to ~10K over 3 years, equivalent to R$25K. This is significantly better than what it started with on day 1.
-I have no idea why the game keeps improving in performance.
-
-Yesterday it got a fairly good [Hacker News post](https://news.ycombinator.com/item?id=27254177) but that only improved its performance for that day by about 2X, which is not a lot.
-This HN post was similar in views to the most popular [social media post for BYTEPATH](https://www.reddit.com/r/pathofexile/comments/7zu9vz/i_made_a_small_game_inspired_by_poes_passive/),
-but it didn't generate nearly as many sales because it wasn't so focused on the specific audience the game is made for and it also links to a GitHub page rather than the Steam page:
-
-{{< figure src="https://i.imgur.com/rpKxWZf.png" >}}
-
-Comparing where visits to the page are coming from for both games leads to some answers:
-
-{{< figure src="https://i.imgur.com/j6GEzzQ.png" >}}
-
-{{< figure src="https://i.imgur.com/VR6rID2.png" >}}
-
-Here we can see that in the first week BYTEPATH had a sizable number of visits from "external website", and most of that is from reddit.
-SNKRX on the other hand had very few popular social media posts, and most of its visits seem to come from the discovery queue.
-
-Why is it being shown a lot in the discovery queue? I have no idea. Either way, these are good week 1 stats.
-
 # Programming
 
 ## Engine

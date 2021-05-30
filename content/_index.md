@@ -5,7 +5,7 @@ bookToC: false
 ---
 
 Hi, I'm **adn**. I make replayable games where you can try lots of different builds.  
-Currently I'm making one game every ~2 months. To get notified on new releases:
+Currently working on [SNKRX](https://store.steampowered.com/app/915310/SNKRX/). To get notified on new releases:
 
 Games: [follow me on steam](https://store.steampowered.com/dev/a327ex/)  
 Progress: [follow me on twitter](https://twitter.com/a327ex)  
