@@ -58,18 +58,18 @@ SNKRX on the other hand had very few popular social media posts, and most of its
 
 Why is it being shown a lot in the discovery queue? I have no idea. Either way, these are good week one stats.
 
-## Day 13
+## Day 14
 
 | Game | Units Sold | Total Revenue | Wishlists |
 | --- | --- | --- | --- |
-| BYTEPATH | 1696 | $3456| 1812 |
-| SNKRX | 2011 | $5195 | 1941 |
+| BYTEPATH | 1712 | $3488 | 1839 |
+| SNKRX | 2607 | $6944 | 2228 |
 
-{{< figure src="https://i.imgur.com/rSz0lok.png" >}}
+{{< figure src="https://i.imgur.com/fa1HlC9.png" >}}
 
-{{< figure src="https://i.imgur.com/Ns6wXoV.png" >}}
+{{< figure src="https://i.imgur.com/0t8vYT5.png" >}}
 
-SNKRX is now doing 1.5 times as well as BYTEPATH, making it go to about $18K over 3 years, equivalent to R$45K. Compared to my day 1 projections, which were at R$10K over 3 years, this is a very significant improvement.
+SNKRX is now doing 2 times as well as BYTEPATH, making it go to about $24K over 3 years, equivalent to R$60K. Compared to my day 1 projections, which were at R$10K over 3 years, this is a very significant improvement.
 The game is now doing WAY beyond any expectations I ever had for it and it's safely a huge success for me personally.
 
 Now, many things happened since day 7 which helped contribute to this improvement, and it's worth going over them one by one.
@@ -99,28 +99,41 @@ After that [Dan Gheesling](https://www.twitch.tv/videos/1036906438) played it du
 
 [SLEEPCYCLES](https://www.twitch.tv/videos/1037913794) was next and he seemed to like it too. Then [Wanderbot](https://www.twitch.tv/wanderbot/video/1039641591),
 who also seemed to like it but had [an unfortunate end](https://clips.twitch.tv/AgileClumsyYamDoritosChip-vhaxrTS8FDE3meNz) to his play session due to a design oversight on my end.
-And finally [Celerity](https://www.twitch.tv/videos/1040040791) who played it today (day 14), and who also seemed to enjoy it due to how long he played it for.
+And finally [Celerity](https://www.twitch.tv/videos/1040040791) who played it yesterday, and who also seemed to enjoy it due to how long he played it for.
 
 {{< hint info >}}
 If you're reading this in the future and the links above are all broken, they're just links to the Twitch VODs of each streamer playing the game.
 Twitch VODs get deleted automatically after a certain time.
 {{< /hint >}}
 
-Most (or all) of these streamers have audiences that are pretty focused on roguelites so the effect that they have on play numbers is pretty noticeable:
+All of these streamers have audiences that are pretty focused on roguelites so the effect that they have on play numbers is pretty noticeable:
 
-{{< figure src="https://i.imgur.com/8PGepqB.png" >}}
+{{< figure src="https://i.imgur.com/3rrihSw.png" >}}
 
 From May 17th to May 26th the game didn't really get played by any sizable streamers other than the Korean one, so the game's numbers are pretty flat, at around ~20 players consistently.
 By itself this is still pretty good, because it means that people aren't dropping the game as fast as I thought they would.
+But then you start adding streamers into the equation and you start getting these spikes in both concurrent players and purchases that you can see after May 26th.
 
-But then you start adding streamers into the equation and you start getting these spikes in both concurrent players and purchases that you can see after May 26th. These 2 spikes at the end
-that happened today (May 30th) are both from Celerity and from [Retromation](https://www.youtube.com/watch?v=WBxd52qyULE) who released this video right as I'm writing this post.
+### YouTube
 
-These are very good numbers that I didn't expect at all and it's honestly kind of weird that people are responding to the game this positively.
+This very big and slowly decaying rise at the end (May 30th) comes from [Retromation](https://www.youtube.com/watch?v=WBxd52qyULE) who released this video yesterday and drove quite a lot of sales to the game,
+making it the best performing day for it so far.
+
+It's also worth noting that Retromation is the first big YouTuber that played the game, and it makes sense that when a YouTuber with a suitable audience
+plays it it leads to a more constant improvement in numbers as compared to streamers, which seem to mostly lead to an improvement only when they're streaming the game.
+
+Based on a quick look on Retromation's channel, it seems that the videos perform better whenever it's the first upload for a new game, and then they slowly
+decay over time if more videos are made about the same game. So this was likely the best boost in sales the game will get out of this particular YouTuber, and I wonder if this
+relationship holds for any other YouTubers that end up making videos on the game as well.
+
+Thinking about it this makes sense too, since people will check out the first video to see what the game is about and then a portion
+will not watch any further videos on that game if they don't like it.
+
+In any case, these are very good numbers that I didn't expect at all and it's honestly kind of weird that people are responding to the game this positively.
 Before release both SNKRX and BYTEPATH had a really hard time getting any traction at all, both games released with 200 wishlists only, and for both of them most
 playtesters didn't seem to really enjoy the game that much.
 
-But then after release both of them saw some version of success that was way better than the response before the game was released. This likely means that for these games I'm making
+But then after release both of them saw some version of success that was way better than expected. This likely means that for these games I'm making
 that don't really have good graphics, all they have to rely on for marketing is people actually playing and enjoying them. So my previous strategy of going for a playable demo
 was likely right in this sense, although releasing an early broken demo is probably still not a good idea.
 
@@ -128,15 +141,15 @@ Either way, these are really good week two results.
 
 ### Reviews
 
-As a very sort of off-topic aside, despite the increase in raw numbers of players, there was not a correspondent increase in number of reviews or bug reports. Until streamers started playing it
-the increase in reviews and forum usage was pretty consistent with the increase in purchases, but after streamers that relationship was broken completely.
+As a very sort of off-topic aside, despite the increase in raw numbers of players, there was not a correspondent increase in number of reviews or bug reports. Until streamers/youtubers started playing it
+the increase in reviews and forum usage was pretty consistent with the increase in purchases, but after that the relationship was broken completely.
 
-This is probably due to the fact that before streamers, most people buying the game were coming from the discovery queue, as mentioned in the post from the previous days. People using the discovery
-queue are likely more used to using Steam features in general, and so they'll probably also review games and use the forums more frequently. Whereas people who are coming to the game from streamers are probably less accustomed
+This is probably due to the fact that before, most people buying the game were coming from the discovery queue, as mentioned in the post from the previous days. People using the discovery
+queue are likely more used to using Steam features in general, and so they'll probably also review games and use the forums more frequently. Whereas people who are coming to the game from Twitch/YouTube are probably less accustomed
 to leaving reviews or even using the forums for bug reports.
 
 This has no implications on anything other than the fact that when trying to estimate sales based on review numbers I can probably get a better guess based on where most of the audience for the game is coming from.
-If it's mostly coming from streamers then it's probably wise to increase multiplier.
+If it's mostly coming from Twitch/YouTube then it's probably safe to increase the multiplier.
 
 ### Future
 
@@ -150,9 +163,9 @@ On the other hand, the game's basic mechanics - building your snake and moving i
 
 There's some clear evidence for the game's long potential based on daily player numbers too, especially compared to BYTEPATH:
 
-{{< figure src="https://i.imgur.com/7bOPGzs.png" >}}
+{{< figure src="https://i.imgur.com/cMnXhDX.png" >}}
 
-{{< figure src="https://i.imgur.com/BfTOUic.png" >}}
+{{< figure src="https://i.imgur.com/vgSLiBo.png" >}}
 
 BYTEPATH had a fairly strong start but no retention at all, whereas SNKRX had a fairly weak start comparatively but seems to be retaining people a lot better.
 
@@ -163,7 +176,7 @@ on top of that and a few more general QoL improvements that the game needs, and 
 I really wanted to just move on to another game but I know myself well enough to know that I'll regret not improving this game in these ways and seeing where it goes. I can probably add everything
 I want in like 2 months, so even if nothing comes out of it it's still a fairly small amount of time "wasted" all things considered.
 
-So this is what I'm probably going to do next and sadly this means that my "a game every 2 months" plan, as well as my engine refactor, have to be put on hold for a little while >.<
+So this is what I'm probably going to do next and sadly this means that my "a game every 2 months" plan, as well as my engine refactor, have to be put on hold for a little while. >.<
 
 
 
