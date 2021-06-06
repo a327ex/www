@@ -285,5 +285,5 @@ to be able to do so much with a comparatively way lower amount of effort spent.
 I mentioned in the previous update that I'd have to give up doing my engine refactor to keep working on this game, but at this point I'm considering doing both things at the same time simply because I feel like
 I can handle the workload required. 
 
-The big update I'm planning to release 2-3 months from is substantial enough that it's basically like rewriting the game, so it makes sense to also redo the parts of the engine that I know need to be redone.
+The big update I'm planning to release 2-3 months from now is substantial enough that it's basically like rewriting the game, so it makes sense to also redo the parts of the engine that I know need to be redone.
 I may regret this decision but this is what I'm leaning towards right now.
