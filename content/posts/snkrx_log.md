@@ -15,7 +15,7 @@ these games are performing despite being released under very similar conditions.
 
 This article is also being updated over time and continues from the "financial results" section of the [lessons learned article](https://www.a327ex.com/posts/lessons_second_game/).
 
-## Day 3
+## Day 3 (21/05/19)
 
 | Game | Units Sold | Total Revenue | Wishlists |
 | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ This article is also being updated over time and continues from the "financial r
 Based on these numbers the updated projection for SNKRX's performance is that it will do about half as well as BYTEPATH, which is an improvement from 1/3rd as well.
 This improves it from $4K over 3 years to $6K over 3 years, which is equivalent to about R$15K rather than R$10K.
 
-## Day 7
+## Day 7 (21/05/23)
 
 | Game | Units Sold | Total Revenue | Wishlists |
 | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ SNKRX on the other hand had very few popular social media posts, and most of its
 
 Why is it being shown a lot in the discovery queue? I have no idea. Either way, these are good week one stats.
 
-## Day 14
+## Day 14 (21/05/30)
 
 | Game | Units Sold | Total Revenue | Wishlists |
 | --- | --- | --- | --- |
@@ -178,7 +178,112 @@ I want in like 2 months, so even if nothing comes out of it it's still a fairly 
 
 So this is what I'm probably going to do next and sadly this means that my "a game every 2 months" plan, as well as my engine refactor, have to be put on hold for a little while. >.<
 
+## Day 20 (21/06/05)
 
+| Game | Units Sold | Total Revenue | Wishlists |
+| --- | --- | --- | --- |
+| BYTEPATH | 1825 | $3716 | 2059 |
+| SNKRX | 6137 | $17290 | 3477 |
 
+{{< figure src="https://i.imgur.com/uJnJoqN.png" >}}
 
+{{< figure src="https://i.imgur.com/9KNDvB6.png" >}}
 
+SNKRX is now doing 4.6~ times as well as BYTEPATH, making it go to about $55K over 3 years, equivalent to ~R$140K.
+I'm not sure if this math even makes sense anymore as SNKRX has now surpassed BYTEPATH's lifetime revenue, which is about $12K.
+It just seems like its own thing and the comparisons with BYTEPATH are probably not that helpful anymore.
+
+One main reason for this is that SNKRX is a game that seems to last each individual longer, so whenever you get a bump in sales, that tends
+to generate a much better result than it did for BYTEPATH due to those individuals enjoying the game more and thus spreading it via word of mouth. So the actual
+projection over 3 years is likely way higher than the simple math above which is based on BYTEPATH's trajectory over its own 3 years.
+
+Either way, these are extremely good results that go way beyond anything I ever expected. Now, let's go over what happened in these past 6 days!
+
+### Player Numbers
+
+{{< figure src="https://i.imgur.com/zwMcMVX.png" >}}
+
+Starting from the left of this graph, the bump provided by [RETROMATION's](https://www.youtube.com/watch?v=WBxd52qyULE) video can be seen between May 30th and May 31st,
+and this is the last thing that I talked about in the last update. After that, no new big YouTubers or streamers picked up the game, but two of the ones that picked it up earlier, 
+[Dan Gheesling](https://www.twitch.tv/dangheesling) and [Wanderbot](https://www.youtube.com/user/wanderbots), made several videos about it and streamed the game again a couple of times.
+
+Concurrent player numbers for SNKRX seem to follow a predictable pattern: at 16/17:00 of a given day there's a peak, then it drops a little, and there's another peak at 22/23/00:00.
+It's useful to know this because then I can more easily notice any peak that's out place (which will generally mean a new big YouTuber/streamer is playing the game), as well as compare peaks of different days to see
+if it's dropping and by how much.
+
+For this past week SNKRX has been peaking at around ~150 concurrent each day, with an increase from May 31st to June 2nd (due to RETROMATION and others making their first videos about it) and a slight drop from then to June 5th.
+This can be more easily seen on another useful graph:
+
+{{< figure src="https://i.imgur.com/MXL7H4x.png" >}}
+
+The game grows in daily active users to 1500 by June 1st, and then remains there with a very small drop starting to form. By itself this is good, because it means that the game is gaining users at around the same
+pace that its losing them, and as long as this churn remains this slow it means that I have a better chance at keeping these numbers up and preventing the game from dying.
+
+With this in mind, one positive of no one new and big picking up the game is that now that these numbers have stabilized (from June 1st to June 5th), I can actually test what effect *I* can have on them.
+
+### Slay the Spire
+
+So during this week I was preparing an update that's bigger than the ones before it because it also added some new content. These flat numbers provided a perfect opportunity to clearly see what effect such an update would have.
+I've watched multiple GDC videos of different devs talking about their approach to updates:
+
+{{< youtubestartend tmuy9fyNUjY 450 >}}
+
+Here Chris mentions that PoE started with weekly updates and that for their game they noticed no effect. The main difference here is that their game at the time had 70K->10K concurrent users,
+which is about 2-3 orders of magnitude higher than my game which has like 100. While what they learned (that 3 month, bigger updates were better) isn't useless to me, it's less useful at this stage of my game than this:
+
+{{< youtubestartend j-5BaEoSU8Y 1895 >}}
+
+The start of this talk (before the timestamp above) resonates with me pretty well. One of the reasons why I didn't really do much marketing for this game other than posting on reddit, Hacker News, and a few other social media
+sites was because I've seen so many games that get results exactly like Slay the Spire got from all their effort that it just feels pointless.
+These guys sent out 600 e-mails for the game they worked on for 2 years and got 0 responses! 
+
+Coupled with my newfound detachment from necessarily having the things I do perform well online (which I described [here](https://www.a327ex.com/posts/lessons_second_game/#results)),
+this resulted in me simply not caring enough to put in that amount of effort into marketing.
+
+Rewatching this talk now and seeing that StS devs had a good experience with Keymailer
+(there are also other similar services available now), I should probably consider using these to send out a few keys to more streamers and YouTubers,
+given that they have a pretty good and consistent effect on the game's player numbers, and they're probably more likely to pick it up now that it has lots of reviews and most of them are positive.
+
+In any case, I linked the section where Casey talks about weekly updates because it's a good example of a game that started out slow but had good retention, had weekly patches, and grew substantially.
+From a quick glance at how much other developers in similar tags update their games, most devs seem to be slower than one sizable patch a week, and while this isn't a competition, it means
+that if I can keep this pace up and have good patches every week, chances are players will really like it above most other games, and that kind of good will has a way of generating good things in the long run.
+
+### Update
+
+So going into this week this was my thought process. I worked on the update and finished it in 3-4 days, and then [released it](https://steamcommunity.com/games/915310/announcements/detail/3042724733968112646)
+Friday night/Saturday morning. I tried to make sure that everything I did was communicated well and also shared my plan for weekly updates as well as a bigger update 2-3 months from now.
+
+I'm writing this 1 day after releasing it, so I have the effects of the immediate day after:
+
+{{< figure src="https://i.imgur.com/a21EIMK.png" >}}
+
+The picture above shows the most recent 3 days, with the last being the day after the update. While previous days were peaking at 150 concurrents, update day peaked at around 200, and the lows were also higher
+than previous days. Similarly, the number of daily active users saw an increase:
+
+{{< figure src="https://i.imgur.com/xgXPsMG.png" >}}
+
+While before DAU was at 1500, update day brought it up to 1800! Finally, one last piece of data:
+
+{{< figure src="https://i.imgur.com/9KNDvB6.png" >}}
+
+Here it's visible that the daily number of sales didn't increase at all, unlike when new YouTubers/streamers made videos about it. This means that this particular increase in player numbers was *entirely*
+due to the update, meaning that I did in fact get a pretty good idea of how such an update affects player numbers, and it seems to be about a 20-25% increase.
+
+Going into the following days I'll try to see how the numbers drop to see how long this increase lasts, but if it lasts 1 week or more then that would be amazing because it would mean that as long
+as I keep releasing updates the numbers won't go down, or will go down very slowly.
+
+And the more important thing is that this property probably holds if the game grows, meaning, if the game has 1000 DAU or 10000 DAU, an update should have a 20-25% increase regardless.
+These are very optimistic results and I'm looking forward to how it develops.
+
+### Productivity
+
+One thing I've noticed with doing updates for this game for about 2 weeks is that I'm way more productive now than I was when I was working on it before release.
+
+I don't know if this is because the game is succeeding and it gave me an extra productivity boost or if it's because it's easier to work on a project that's already established, but it feels really good
+to be able to do so much with a comparatively way lower amount of effort spent.
+
+I mentioned in the previous update that I'd have to give up doing my engine refactor to keep working on this game, but at this point I'm considering doing both things at the same time simply because I feel like
+I can handle the workload required. 
+
+The big update I'm planning to release 2-3 months from is substantial enough that it's basically like rewriting the game, so it makes sense to also redo the parts of the engine that I know need to be redone.
+I may regret this decision but this is what I'm leaning towards right now.
