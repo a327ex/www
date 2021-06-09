@@ -287,3 +287,53 @@ I can handle the workload required.
 
 The big update I'm planning to release 2-3 months from now is substantial enough that it's basically like rewriting the game, so it makes sense to also redo the parts of the engine that I know need to be redone.
 I may regret this decision but this is what I'm leaning towards right now.
+
+## Day 23 (21/06/08)
+
+| Game | Units Sold | Total Revenue | Wishlists |
+| --- | --- | --- | --- |
+| SNKRX | 10249 | $29535 | 4797 |
+
+### Northernlion
+
+[Northernlion played SNKRX](https://www.twitch.tv/videos/1048876762) 2 days ago on stream and then [uploaded a video](https://www.youtube.com/watch?v=kg_zXXW7oT0) about it yesterday to YouTube.
+I think NL is probably the best YouTuber/streamer who could have played the game because he's the biggest that generally plays roguelites and that ends up having a very focused effect on player numbers and sales.
+
+{{< figure src="https://i.imgur.com/fzbIejd.png" >}}
+
+From June 7th to 8th the peak when he streamed it is visible, and that was a peak of around 400 concurrents. At the end of June 8th there's the YouTube video peak, which was higher than the Twitch one by a substantial amount.
+Unfortunately Steam went down right as that was happening so the actual peak wasn't captured in this graph, but based on when I was looking at it on the Steamworks app it was around 600:
+
+{{< figure src="https://i.imgur.com/TrSbnma.png" >}}
+
+So here we have a pretty good and clean example of someone's effect on the game from both platforms, and it seems like YouTube is generally the better one.
+It could be argued that because NL has been on YouTube the longest that will naturally be the most valuable one, but this property seems to hold regardless of who the person is. 
+
+Based on previous YouTubers/streamers playing the game, it seems that YouTube videos just lead to more consistent results with a decline that's spread out over time,
+while streams have a sharp increase when the streamer is playing it, but also a sharp decline when the streamer stops. In any case:
+
+{{< figure src="https://i.imgur.com/4yc9IOK.png" >}}
+
+Daily active users also increased substantially. Stream took DAU from 1800 to 2200, and YouTube seems to have taken it to almost 3000.
+
+{{< figure src="https://i.imgur.com/6hbqOlF.png" >}}
+
+Sales also increased similarly, with the stream taking it from 500 to 1100, and YouTube taking it to 2500.
+
+It's also unknown how long it will take for the game to decline to previous levels from here, but based on previous similar bumps,
+should no other big YouTuber/streamer pick up the game, it should take a week for a decline to start to form from these new heights
+and then I'd assume a more general decline follows from there.
+
+### Productivity
+
+On an unrelated note, I mentioned in the previous post that I was more productive now than before releasing the game.
+
+I thought more about this and I think what's actually happening is that I'm not actually more productive, but I feel more productive.
+The reason is that now, each thing that I implement in the game has an actual value attached to it, whereas before this wasn't the case.
+
+For instance, fixing a bug now feels high value because I know that someone reported that bug and I'm making the game better for them, but also because I know that if 1 person
+reported a bug it means at least like 10 have also been affected by it before. And I know that if 5 people have reported a bug in the span of an hour, it's a bug that's literally affecting
+everyone, so fixing it feels very high value, despite most bug fixes taking like 5 minutes at most.
+
+This must one of the reasons why devs like Early Access and just generally having this feedback loop between dev and player so much.
+It just feels a lot better than developing the game mostly on your own.
