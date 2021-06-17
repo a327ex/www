@@ -337,3 +337,105 @@ everyone, so fixing it feels very high value, despite most bug fixes taking like
 
 This must one of the reasons why devs like Early Access and just generally having this feedback loop between dev and player so much.
 It just feels a lot better than developing the game mostly on your own.
+
+
+## Day 31 (21/06/16)
+
+| Game | Units Sold | Total Revenue | Wishlists |
+| --- | --- | --- | --- |
+| SNKRX | 32046 | $94216 | 9391 |
+
+### Northernlion
+
+NL played the game multiple times last week and posted multiple videos to his YouTube channel as well. Coupled with other YouTubers and streamers who also played it and posted more videos, this resulted
+in an absolutely massive increase in player numbers and sales.
+
+Concurrents peaked at 1223 on Sunday, June 13th, which was both after Friday's update and after NL released 2 weekend videos on the game:
+
+{{< figure src="https://i.imgur.com/7o6mpHB.png" >}}
+
+Peak DAU was on the next day at slightly over 10K users:
+
+{{< figure src="https://i.imgur.com/Y5GQpP4.png" >}}
+
+Peak sales were on June 9th at 3.7K, which was the day when NL released the first video of the game on his channel:
+
+{{< figure src="https://i.imgur.com/qmw27o9.png" >}}
+
+At around that day the game was also at the top of Steamcharts's trending games list:
+
+{{< figure src="https://i.imgur.com/QhI8CoQ.png" >}}
+
+So here we can see the full effect of what a big YouTuber constantly releasing videos on a game can do. If NL had only released 1 video on the game
+it likely would have peaked at slightly higher numbers than what I mentioned on day 23, but since it happened multiple times for an entire week it led to a gradual increase
+that doubled or tripled those initial values.
+
+I'm not sure if NL releasing even more videos will lead to further increases because at some point most of his audience that's interested will already have bought the game,
+but then there's also a secondary effect where NL playing it also convinces more streamers/YouTubers to play it, which leads to even more people trying it out and so on. That effect is harder/impossible
+to measure though.
+
+### New and trending
+
+Since the game released I've been checking both Steam's [roguelites](https://store.steampowered.com/tags/en/Roguelite/) and [deckbuilding](https://store.steampowered.com/tags/en/Deckbuilding/) pages:
+
+{{< figure src="https://i.imgur.com/vkLzUyi.png" >}}
+
+SNKRX has been at the top of both of these tags (as well as others I'd assume) since it released and I've always wondered how Valve's algorithm works and I feel like I have a pretty good grasp on it now.
+
+Before, I thought it mostly cared about how much money it was making Valve per view, so that, should everything remain equal, more expensive games would have an advantage. This would make sense because
+these are essentially ad spots, and if Valve wants to maximize their money made per ad view, if two games have the same conversion numbers, it's reasonable to put the more expensive game there. This was also
+roughly how it was explained in this video, so I assumed it was mostly correct:
+
+{{< youtube fUikS5ojUSk >}}
+
+And maybe this was more right 5 years ago, but now it seems slightly different. I think the money made per view thing still matters, but given how my (relatively cheap) game has gone up and down on this list over this month
+I'm pretty convinced now that the *amount of time people are playing the game for* matters A LOT. And it would make sense, because I never knew how Valve handled free games, and those games show up on new and trending lists often.
+
+Essentially, whenever the game got a higher number of concurrent players it would go up on the list, and whenever it got a lower number of concurrent players it would go down. Because it's a new and trending list there's also
+an age effect going on, but it seems that so far SNKRX has been able to offset the age parameter due to how much it's growing, which means it gets to stays there for a while.
+
+Overall I'm not sure what the impact of those lists for SNKRX is, because it seems like most visits to the game are still coming from the discovery queue:
+
+{{< figure src="https://i.imgur.com/RDWLnYS.png" >}}
+
+Quite a lot of impressions from these tag pages but not that many visits. This is likely due to the fact that the game looks bad though. And also these are sort of secondary lists,
+and I don't think SNKRX has done well enough to be on the main page new and trending, as that seems to be the one that can really drive sales.
+
+Overall SNKRX's performance on Steam seems to be OK, but if not for YouTubers I think the game would have "died" quite a while ago as Steam's traffic by itself doesn't seem to be able to drive player numbers up significantly,
+and this is likely due to
+
+### Graphics and retention
+
+A better game would have been able to take 1 week of NL exposure and turn it into a positive feedback loop where the YouTuber playing it gives it a better position on Steam, which makes more people play it, which makes more
+YouTubers play it, which gives it a better position on Steam, and so on.
+
+This happened to this game to some extent, but not like I've seen that it can happen to other games. And this is likely due to the two main problems that the game has: graphics and retention.
+
+Visually the game looks unnatractive to most people, and I know this for a fact because before release it was basically impossible to get anyone to care about it, which generally means that it looks like garbage.
+I'm not an artist so I'm fine with that, but if the game is to perform better then it simply needs a graphical update to make it look like a proper game. This is something I'm working on, and especially now that the game
+has done so well it shouldn't be hard to find someone who can make it look good.
+
+However, I think that graphics are a secondary problem, and the main one is retention:
+
+{{< figure src="https://i.imgur.com/T3qjjwg.png" >}}
+
+As it is, this game is really good at keeping people playing for 1-2 weeks maybe? But after they've explored enough there's a pretty consistent drop off that so far has only not been reflected in player numbers
+because new, bigger YouTubers keep playing it every week. Once that new influx of people stops though, the game will experience an overall drop in all numbers as people simply stop playing it.
+
+Most good roguelites that people play for hundreds of hours have much better retention than the numbers above (although I haven't been able to compare with anyone to know for sure),
+so I think this is the main problem that needs to be solved.
+
+I think I mentioned it before, but I intend on solving it by turning the game into a more "traditional roguelite", with a game mode that plays like a normal roguelite run and less like the arcade game that it is now.
+On top of that there can also be unlocks, more achievements, daily challenges, etc. Basically everything you'd expect from a normal roguelite.
+
+Doing all this takes time though, and so far I haven't been able to focus on this higher level goal because
+
+### Weekly updates
+
+I've been doing somewhat meaty weekly updates for the game for about 3 weeks now, and as the Slay the Spire devs said in the GDC talk I linked above, these updates
+are, in fact, pretty paralyzing. It's very hard to focus on anything else when you have to deliver something sizable every week.
+
+I'm happy with how it's going so far and I'm not overworking myself, but I think it's inevitable that eventually, as StS devs said, some weekly updates will have to be
+somewhat underwhelming so I can focus on actually doing the longer term work that needs to be done to make the game better.
+
+Overall though it seems like people are really enjoying the updates so I'll probably try to keep them with this kind of scope for a few more weeks at least.
