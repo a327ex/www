@@ -401,18 +401,18 @@ Overall I'm not sure what the impact of those lists for SNKRX is, because it see
 
 {{< figure src="https://i.imgur.com/RDWLnYS.png" >}}
 
-Quite a lot of impressions from these tag pages but not that many visits. This is likely due to the fact that the game looks bad though. And also these are sort of secondary lists,
-and I don't think SNKRX has done well enough to be on the main page new and trending, as that seems to be the one that can really drive sales.
+Quite a lot of impressions from these tag pages but not that many visits, but this is likely due to the fact that the game just looks bad. There's also the fact that these are sort of secondary lists,
+and I don't think SNKRX has done well enough to be on the main page new and trending, which seems to be the one that can really drive sales.
 
-Overall SNKRX's performance on Steam seems to be OK, but if not for YouTubers I think the game would have "died" quite a while ago as Steam's traffic by itself doesn't seem to be able to drive player numbers up significantly,
-and this is likely due to
+Overall SNKRX's performance on Steam seems to be OK, but if not for YouTubers and streamers I think the game would have "died" quite a while ago as Steam's traffic by itself
+doesn't seem to be able to drive player numbers up significantly, and this is likely due to
 
 ### Graphics and retention
 
 A better game would have been able to take 1 week of NL exposure and turn it into a positive feedback loop where the YouTuber playing it gives it a better position on Steam, which makes more people play it, which makes more
 YouTubers play it, which gives it a better position on Steam, and so on.
 
-This happened to this game to some extent, but not like I've seen that it can happen to other games. And this is likely due to the two main problems that the game has: graphics and retention.
+This happened to this game to some extent, but not like I've seen that it can happen to other games.
 
 Visually the game looks unnatractive to most people, and I know this for a fact because before release it was basically impossible to get anyone to care about it, which generally means that it looks like garbage.
 I'm not an artist so I'm fine with that, but if the game is to perform better then it simply needs a graphical update to make it look like a proper game. This is something I'm working on, and especially now that the game
