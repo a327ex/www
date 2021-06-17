@@ -383,7 +383,7 @@ Since the game released I've been checking both Steam's [roguelite](https://stor
 SNKRX has been at the top of both of these tags (as well as others I'd assume) since it released and I've always wondered how Valve's algorithm works and I feel like I have a pretty good grasp on it now.
 
 Before, I thought it mostly cared about how much money it was making Valve per view, so that, should everything remain equal, more expensive games would have an advantage. This would make sense because
-these are essentially ad spots, and if Valve wants to maximize their money made per ad view, if two games have the same conversion numbers, it's reasonable to put the more expensive game there. This was also
+these are essentially ad spots, and if Valve wants to maximize their money made per ad view, if two games have the same conversion numbers, it's reasonable to place the more expensive game higher. This was also
 roughly how it was explained in this video, so I assumed it was mostly correct:
 
 {{< youtube fUikS5ojUSk >}}
