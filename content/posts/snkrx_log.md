@@ -376,7 +376,7 @@ to measure though.
 
 ### New and trending
 
-Since the game released I've been checking both Steam's [roguelites](https://store.steampowered.com/tags/en/Roguelite/) and [deckbuilding](https://store.steampowered.com/tags/en/Deckbuilding/) pages:
+Since the game released I've been checking both Steam's [roguelite](https://store.steampowered.com/tags/en/Roguelite/) and [deckbuilding](https://store.steampowered.com/tags/en/Deckbuilding/) pages:
 
 {{< figure src="https://i.imgur.com/vkLzUyi.png" >}}
 
