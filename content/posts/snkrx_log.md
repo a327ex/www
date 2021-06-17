@@ -394,6 +394,9 @@ I'm pretty convinced now that the *amount of time people are playing the game fo
 Essentially, whenever the game got a higher number of concurrent players it would go up on the list, and whenever it got a lower number of concurrent players it would go down. Because it's a new and trending list there's also
 an age effect going on, but it seems that so far SNKRX has been able to offset the age parameter due to how much it's growing, which means it gets to stays there for a while.
 
+I also think that, for these tag pages especially, there's a heavy effect based on if the people playing the game generally also play games on that tag. So if most of the audience playing SNKRX mostly plays other
+games with the roguelite tag, then SNKRX will place better on the roguelite new and trending list.
+
 Overall I'm not sure what the impact of those lists for SNKRX is, because it seems like most visits to the game are still coming from the discovery queue:
 
 {{< figure src="https://i.imgur.com/RDWLnYS.png" >}}
