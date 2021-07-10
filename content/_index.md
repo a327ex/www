@@ -10,8 +10,7 @@ Currently working on [SNKRX](https://store.steampowered.com/app/915310/SNKRX/). 
 Games: [follow me on steam](https://store.steampowered.com/dev/a327ex/)  
 Progress: [follow me on twitter](https://twitter.com/a327ex)  
 Code: [follow me on github](https://github.com/a327ex)  
-E-mail: [subscribe to my newsletter](https://buttondown.email/a327ex)  
-Other: [join my discord server](https://discord.gg/pufNcyfpJa)
+Contact: a327ex@gmail.com
 
 ## [SNKRX (May 2021, Steam)](https://store.steampowered.com/app/915310/SNKRX/)
 
