@@ -981,11 +981,11 @@ To end this section, all of these thoughts regarding the community, my relations
 were things that I was forced to think about more clearly thanks to Dan's invitation.
 
 However simple it seems, one lesson I've definitely learned this year is if you're going to do something you should do it with a plan and you should do it consciously.
-Saying yes to Dan implies doing the personality thing consciously and trying to be really good at it. Saying no also implies not doing it, but not doing it consistently.
+Saying yes to Dan implies doing the personality thing consciously and trying to be really good at it. Saying no implies not doing it, but not doing it consciously and consistently.
 
-And essentially everything I've mentioned up until now was made more explicit and visible in my head after Dan's invitation. It was only after this that I decided that maybe I should delete my Discord server,
+And essentially everything I've mentioned up until now was made more explicit and visible in my head after the invitation. It was only after this that I decided that maybe I should delete my Discord server,
 because I actually don't want to be a personality so having a personal Discord server makes no sense. Similarly, that was when I started being more aware of my interactions with the community
-and paying attention if I was giving off the wrong signals or not.
+and paying more attention to if I was giving off the wrong signals or not.
 
 And to Dan's credit, he managed to salvage my no pretty well and still made a very good video on it, so give it a watch if you can:
 
@@ -998,7 +998,7 @@ Now to switch from all this stuff, one of the things that always gets brought up
 {{< figure src="https://i.imgur.com/lo7uyXO.png" >}}
 
 These are thoughts shared by many people when they look at what happened here and they try to understand it.
-Obviously NL playing your game is something that doesn't happen often, and so obviously when a game is made popular by him like this it was mostly down to luck, right?
+NL playing your game is something that doesn't happen often, and so when a game is made popular by him like this it was mostly down to luck, right?
 
 The problem with this kind of thinking is that it's one of those thoughts that doesn't lead anywhere. It's a thought-terminating thought.
 
@@ -1060,7 +1060,7 @@ Jonathan Blow has a [very good Hacker News comment](https://news.ycombinator.com
 
 And I deeply believe that luck-based thinking is one of those negative belief structures that people will defend vigorously even though it's obviously wrong.
 
-And it's worth nothing that successful people do this too. If you're someone who's successful and you make it, you're going to use luck as a way to justify your success so that you don't feel guilty about it.
+And it's worth noting that successful people do this too. If you're someone who's successful and you make it, you're going to use luck as a way to justify your success so that you don't feel guilty about it.
 If you don't fully understand why you succeeded you can't just say "it was all me" because that feels (and is) too wrong, you immediately think of all the people who seemingly work just as hard as you
 who didn't have this level of success, so saying there was some luck involved is a good way of softening that feeling of guilt.
 
