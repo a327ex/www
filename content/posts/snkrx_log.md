@@ -587,7 +587,8 @@ And this seems to be true, as I didn't really notice SNKRX having its presence o
 In any case, whatever this massive number of page visits happens to be, it remains a mystery.
 
 EDIT: as it turns out, a big Steam sale started on June 24th and a sale could explain traffic to my game's page that doesn't convert into sales, as my game wasn't discounted at all.
-Now the only mystery is why all traffic due to the sale was counted as "direct navigation" rather than from a normal source on Steam.
+Now the only mystery is why all traffic due to the sale was counted as "direct navigation" rather than from a normal source on Steam. Maybe this is traffic from other sites that list
+games during the summer sale and my game was placed there because it's so cheap, despite not being on sale.
 
 ### Updates
 
