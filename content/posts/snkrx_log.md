@@ -838,7 +838,7 @@ and gets out of my way. This has the added benefit that someone like me, from Br
 Coupled with a very fair marketplace based on an algorithm and not on things being hand-picked, which again comes back to connections and networking, makes Steam kind of the perfect place for me and so I really really like it.
 
 All of this to say that I don't want anything getting in the way of that process, and in a way streamers, YouTubers and basically anyone of "influence" sort of do, as they are essentially potential forms of connections
-and networking that I'd have to care about. So I tried to pretty much have a very low levels of direct interaction with them.
+and networking that I'd have to care about. So because of all this I tried to pretty much have a very low levels of direct interaction with influencers in general.
 
 There's another more practical reason to avoid this kind of behavior too much, which is that when you are a developer you can think of yourself as a power source.
 The power you have is that you can change the video game, and basically everyone wants to have this power because everyone secretly wants to be a game developer.
