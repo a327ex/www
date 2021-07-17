@@ -830,9 +830,17 @@ I think part of the reason why I feel this way has to do with it being unfair in
 Why should they get to play the game before anyone else? Pragmatically it's because they have an audience and they can obviously make the game popular, so it's a win-win trade. But it still just feels wrong to me
 from the perspective of a normal player.
 
-So I tried to pretty much have a very low levels of direct interaction with players, streamers, YouTubers or basically anyone of "influence" publicly like this.
+I also think a deeper reason has to do with my personality as well. One of the reasons I really like Steam is that I'm able to release my games on there without having to interact with any human being at Valve.
+It's just a completely automated process where I put my game in and then people can play it. This fits my personality very well because it means that I don't have to have "connections" to get things done.
 
-There's another more practical reason other than just irrationally not liking it to avoid this kind of behavior too much, which is that when you are a developer you can think of yourself as a power source.
+I don't think there's anything I dislike more than "connections" or "networking" or "you have to have a contact at company X" or those kinds of ideas. I just want to interact with a machine that lets me get things done
+and gets out of my way. This has the added benefit that someone like me, from Brazil, isn't at a disadvantage because they don't have the right connections to people in the US.
+Coupled with a very fair marketplace based on an algorithm and not on things being hand-picked, which again comes back to connections and networking, makes Steam kind of the perfect place for me and so I really really like it.
+
+All of this to say that I don't want anything getting in the way of that process, and in a way streamers, YouTubers and basically anyone of "influence" sort of do, as they are essentially potential forms of connections
+and networking that I'd have to care about. So I tried to pretty much have a very low levels of direct interaction with them.
+
+There's another more practical reason to avoid this kind of behavior too much, which is that when you are a developer you can think of yourself as a power source.
 The power you have is that you can change the video game, and basically everyone wants to have this power because everyone secretly wants to be a game developer.
 
 When you leak this power too much by favoring influencers with early copies of the game, showing up in their chat, interacting with certain community members too much over others, and so on, you end up
