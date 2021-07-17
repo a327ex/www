@@ -568,7 +568,7 @@ Because I didn't add Google Analytics to the game's page, I have no way of knowi
 
 {{< figure src="https://i.imgur.com/PrgFeOU.png" >}}
 
-I can only think of two possible reasons for this. One is that it's some kind of bug. 
+I can think of three possible reasons for this. One is that it's some kind of bug. 
 Steamworks was having issues during that week I think where daily active users numbers weren't being shown on the backend, so maybe this was related to that in some weird way.
 Maybe these numbers aren't even real and they were just logged there due to some mistake, as they had literally no effect on sales or daily number of players.
 
@@ -584,11 +584,14 @@ being heavily speculated by developers such as myself:
 And this seems to be true, as I didn't really notice SNKRX having its presence on the store lowered recently (I'm mostly tracking the
 [new and trending roguelites](https://store.steampowered.com/tags/en/Roguelite/#p=0&tab=NewReleases) page).
 
-In any case, whatever this massive number of page visits happens to be, it remains a mystery.
+The third reason, and honestly the most likely one, is because of the Steam Summer Sale. I only found out about this after writing the article, but apparently a sale started
+exactly on June 24th, and it could explain extra traffic to my game's page that doesn't convert into sales, as my game wasn't discounted at all.
 
-EDIT: as it turns out, a big Steam sale started on June 24th and a sale could explain traffic to my game's page that doesn't convert into sales, as my game wasn't discounted at all.
-Now the only mystery is why all traffic due to the sale was counted as "direct navigation" rather than from a normal source on Steam. Maybe this is traffic from other sites that list
-games during the summer sale and my game was placed there because it's so cheap, despite not being on sale.
+The only mystery with this theory is that all traffic due to the sale was counted as "direct navigation" rather than from a normal source on Steam. It's very unlikely that this is traffic
+from anywhere on the Internet, unless it's from a really big site that somehow listed my game despite not being discounted, but I find that really unlikely.
+
+What's more likely is that for one reason or another Steam generated a lot of visits on the game's page due to the sale and for one reason or another where those visits came from on Steam weren't logged correctly.
+Either way, if it is indeed Steam, the amount of traffic that it can generate can get pretty crazy.
 
 ### Updates
 
