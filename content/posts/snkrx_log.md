@@ -920,10 +920,13 @@ There are multiple reasons why this made sense to me and I could probably write 
 but in [my favorite anime of all time](https://www.crunchyroll.com/shin-sekai-yori-from-the-new-world/episode-1-the-season-of-new-leaves-611571) this is a somewhat central idea and I've been thinking
 about it in one way or another for many years, so I finally decided to give it a real try.
 
-What giving an idea a real try entails is essentially letting it sort of sit in your mind for a while and then starting acting on it, in small ways first, until it sinks into your body fully and becomes second nature.
-One way I've always found useful to test this is via dreams. In general, however the "dream you" acts is how your body instinctively acts, so whenever you start noticing that in your dreams the entity in control of you
-is acting according to how your conscious mind thinks it should, it means that both are in sync and the idea is deep enough into you that that's just who you are. On the other hand, if dream you is not acting according
-to how you think he should act then it means the idea hasn't been integrated enough yet.
+What giving an idea a real try entails is essentially letting it sort of sit in your mind for a while and then starting acting on it, in small ways first, and then increasingly more and more until it sinks into your body fully
+and becomes second nature. Every idea in this post is the result of months and years of arguments had with friends both in real life and online in random chatrooms, as that's the best way these ideas can actually develop from
+something abstract into something usable. At least for me, without a lot of arguing and writing and reading it's very difficult to truly internalize a new idea like this.
+
+I also found useful to have ways of testing how internalized an idea is, and I think this is done best via dreams. In general, however the "dream you" acts is how your body instinctively acts, so whenever you start noticing
+that in your dreams the entity in control of you is acting according to how your conscious mind thinks it should, it means that both are in sync and the idea is deep enough into you that that's just who you are.
+On the other hand, if dream you is not acting according to how you think he should act then it means the idea hasn't been integrated enough yet.
 
 In any case, integrating a new idea like this takes some time, and it's still an ongoing process for me, but I'd say I started making progress on it to a bigger extent at the start of this year.
 As I mentioned in the other post, one of the benefits of this coming more naturally is that I became way less focused on results.
