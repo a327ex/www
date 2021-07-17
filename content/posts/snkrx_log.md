@@ -921,10 +921,14 @@ but in [my favorite anime of all time](https://www.crunchyroll.com/shin-sekai-yo
 about it in one way or another for many years, so I finally decided to give it a real try.
 
 What giving an idea a real try entails is essentially letting it sort of sit in your mind for a while and then starting acting on it, in small ways first, and then increasingly more and more until it sinks into your body fully
-and becomes second nature. Every idea in this post is the result of months and years of arguments had with friends both in real life and online in random chatrooms, as that's the best way these ideas can actually develop from
-something abstract into something usable. At least for me, without a lot of arguing and writing and reading it's very difficult to truly internalize a new idea like this.
+and becomes second nature. Every idea in this post is the result of months and years of continued arguments and discussions with lots of people, as that's the best way these ideas can actually develop from
+something abstract into something usable.
 
-I also found useful to have ways of testing how internalized an idea is, and I think this is done best via dreams. In general, however the "dream you" acts is how your body instinctively acts, so whenever you start noticing
+At least for me, without a lot of arguing and writing and reading it's very difficult for this process to happen. And once it starts happening it becomes a feedback loop where you start
+parsing the world through the lens of the idea, and then more and more situations that occur on daily life fit into that mold either positively or negatively, and then you talk to other people about it and it interanalizes more
+and so on.
+
+Another way I've found useful to test how internalized an idea is is via dreams. In general, however the "dream you" acts is how your body instinctively acts, so whenever you start noticing
 that in your dreams the entity in control of you is acting according to how your conscious mind thinks it should, it means that both are in sync and the idea is deep enough into you that that's just who you are.
 On the other hand, if dream you is not acting according to how you think he should act then it means the idea hasn't been integrated enough yet.
 
