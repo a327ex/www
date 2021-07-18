@@ -1055,8 +1055,8 @@ feedback just like I am bound by my game's player's feedback. So you know, NL #1
 really help that much. And now you owe some guy 0.22 bitcoins and 500 trillion stable dollars because making a clone is really expensive.
 
 The moral of the story here is that you actually have absolutely no control over NL playing your game or not. It's not just a matter of the game being good or him liking it or not.
-If you've watched enough streams you know that what makes a good "stream game" or a good "youtube game" is a very delicate balance of a lot of really complicated factors.
-Trying to engineer things so that all these factors align is pretty much impossible.
+If you've watched enough streams you know that what makes a good "stream game" is a very delicate balance of a lot of really complicated factors that also vary a lot by streamer.
+Trying to engineer things so that all those factors align is pretty much impossible.
 
 For instance, NL partly decided to play my game because it was his first auto-battler-like game. If you're trying to engineer a game for him based on what he has played before or what he knows,
 you wouldn't engineer an auto-battler because he hasn't played those. But if you're trying to engineer games based on what he hasn't played yet and just mixing it with a roguelite then chances are he will ignore
