@@ -1,7 +1,7 @@
 +++
 title = "SNKRX's post-release log"
 tags = [
-    "indiedev",
+    "snkrx",
 ]
 date = "2021-05-30"
 images = ["https://cdn.cloudflare.steamstatic.com/steam/apps/915310/header.jpg"]
@@ -925,7 +925,7 @@ and becomes second nature. Every idea in this post is the result of months and y
 something abstract into something usable.
 
 At least for me, without a lot of arguing and writing and reading it's very difficult for this process to happen. And once it starts happening it becomes a feedback loop where you start
-parsing the world through the lens of the idea, and then more and more situations that occur on daily life fit into that mold either positively or negatively, and then you talk to other people about it and it interanalizes more
+parsing the world through the lens of the idea, and then more and more situations that occur on daily life fit into that mold either positively or negatively, and then you talk to other people about it and it internalizes more
 and so on.
 
 Another way I've found useful to test how internalized an idea is is via dreams. In general, however the "dream you" acts is how your body instinctively acts, so whenever you start noticing

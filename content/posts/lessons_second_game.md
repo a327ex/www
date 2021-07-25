@@ -1,7 +1,7 @@
 +++
 title = "Lessons learned from releasing my second game"
 tags = [
-    "indiedev",
+    "snkrx",
 ]
 date = "2021-05-18"
 images = ["https://cdn.cloudflare.steamstatic.com/steam/apps/915310/header.jpg"]
