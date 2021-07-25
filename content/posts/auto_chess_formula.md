@@ -223,12 +223,12 @@ But if they were part of a trend then it means that there's an appetite for this
 Some people have mentioned that games like Luck be a Landlord and Loop Hero also share some autochess-like elements, and if they in fact do (I haven't played them so I don't know) then it's even
 more signals to add to the notion that this is a trend and not just isolated events.
 
-I have a clear bias in having it so that more games using this mechanic are made because, as I mentioned [here](https://www.a327ex.com/posts/snkrx_log/#competition), indie developers exist in a non-zero-sum field.
+I have a clear bias in having it so that more games using these mechanics are made because, as I mentioned [here](https://www.a327ex.com/posts/snkrx_log/#competition), indie developers exist in a non-zero-sum field.
 
-And maybe you, dear reader, an extremely intelligent, handsome and competent developer, end up making the city builder autochess-like that gets hundreds of thousands of reviews, millions of copies sold, billions of
+So maybe you, dear reader, an extremely intelligent, handsome and competent developer, end up making the city builder autochess-like that gets hundreds of thousands of reviews, millions of copies sold, billions of
 cumulative hours played, there's a guy in Venezuela that depends on your game's continued updates for his survival somehow, you have frankly revolutionized the gaming industry.
 
-And your game's players, these elite individuals, these autochess-like connoisseurs, when they're done with your game after hundreds of very well-spent hours, they will ask:
+And your game's players, these elite individuals, these autochess-like connoisseurs, when they're done with your game after hundreds of very well spent hours, they will ask:
 "What is next? What other game will provide me with such depths of rerolling degeneracy?" And in their search they will eventually be enlightened and find the truth, as these letters are eternally
 etched on their minds: S, N, K, R, and X.
 
