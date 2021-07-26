@@ -233,4 +233,4 @@ And your game's players, these elite individuals, these autochess-like connoisse
 etched on their minds: S, N, K, R, and X.
 
 And I will win. And you will win. And they will win. And the guy in Venezuela will win too. Everyone wins. This will truly be a win fiesta for all parties involved. So what are you waiting for?
-Don't you want *millions* of dollars? Go make an autochess-like!
+Don't you want *millions* of dollars? Then go make an autochess-like!
