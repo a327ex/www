@@ -198,7 +198,7 @@ being talked about on [LSF](https://www.reddit.com/r/LivestreamFail/) falls in t
 the effect that has is that threads about that streamer will be upvoted more.
 
 I would consider people like [xQc](https://www.twitch.tv/xQcOW), [Asmongold](https:/www.twitch.tv/Asmongold) and [HasanAbi](https://www.twitch.tv/HasanAbi) to be good examples of people in this group. 
-However, these are just examples, and I would probably say the majority of streamers fits this group to varying degrees. Essentially, one of the problems streamers and youtubers have, which game developers
+However, these are just examples, and I would probably say the majority of streamers fit this group to varying degrees. Essentially, one of the problems streamers and youtubers have, which game developers
 do not generally have, is that it's very hard for their goals to not be focused on numbers.
 
 If you're in this field you have to pay attention to the number of viewers and subscribers you get, because if you let it fall too much you run the real risk of it just collapsing really fast since there are network effects
