@@ -4,7 +4,7 @@ tags = [
   "psychology"
 ]
 date = "2021-07-27"
-images = ["https://i.imgur.com/DSEMwnZ.png"]
+images = ["https://i.imgur.com/fOP8R6L.png"]
 +++
 
 Eventually I want to make an MMO. I've already sort of described it [here](https://github.com/a327ex/blog/issues/67) but that idea will probably change significantly over the years.
@@ -32,7 +32,7 @@ One of the main ideas that seems obviously correct to me now about game communit
 I already partly went over this [here](https://www.a327ex.com/posts/snkrx_log/#developer-interactions), but I thought it'd be nice to expand on it more.
 
 This idea comes from [Curtis Yarvin](https://graymirror.substack.com/), who applies it primarily to politics, but because it's an insight about collective human behavior
-it can also easily be applied to game community management. He explains this concept in multiple posts, but the one that does it best is probably [this one](https://graymirror.substack.com/p/a-brief-explanation-of-the-cathedral).
+it can also easily be applied to game communitiies. He explains this concept in multiple posts, but the one that does it best is probably [this one](https://graymirror.substack.com/p/a-brief-explanation-of-the-cathedral).
 I won't go over his explanation in detail here since the post is pretty self-contained, so you should read it if you want to understand what I'm talking about.
 
 His analysis of how power leaks seems fundamentally correct to me. It's one of those things where once I read it it just made so many things retroactively make sense and I had that sort of eureka moment.
@@ -136,7 +136,7 @@ community to get them to change it, such as having to click lots of things, trad
 The nuance here is that corrupted feedback always comes from a place of trying to justify the usage of power (convince developers to change the game), whereas pure feedback comes from a more neutral and detached perspective.
 And more importantly, like all feedback, corrupted feedback can be either positive or negative. The positive form will take the form of praising power (praising the developer), but the negative form will generally
 take the form of blackmailing, because that's all you can do when you're addicted to but denied power: you can cope with some kind of bargain, like "if you don't change this I'll stop playing!",
-which PoE's subreddit also gets a lot of.
+which PoE's subreddit also gets a lot of:
 
 {{< figure src="https://i.imgur.com/dm8bGT2.png" >}}
 
@@ -188,7 +188,7 @@ They're basically just doing their best and entertaining their audience.
 
 I would consider people like [MOONMOON](https://www.twitch.tv/moonmoon), [forsen](https://www.twitch.tv/forsen), [LIRIK](https://www.twitch.tv/lirik) and [Mathil1](https://www.twitch.tv/Mathil1)
 to be a few examples of people in this group that I happen to watch. Basically as a developer this group is fine, perfect even. You can expect them to act like a reasonable and intelligent person would act in their situation,
-which is that if they like your game and it works for their stream they will play it, and if they don't like it or it doesn't work they won't. Very simple, very easy, not really a mystery at all.
+which is that if they like your game and it works for their stream they will play it, and if they don't like it or it doesn't work then they won't. Very simple, very easy, not really a mystery at all.
 
 The other group though, "actual influencers", are people who I would consider to be similar to the redditors in PoE's subreddit. They have been corrupted by power and they're addicted to it. But this isn't as bad as it seems,
 because in our society everyone is like this to some extent. They just happen to be in a field that rewards this particular orientation more than most other fields.
@@ -470,7 +470,7 @@ Other than that I feel like dealing with this issue will require hiring addition
 
 ### Interviews
 
-Interviews and podcasts to streamers, youtubers and journalists are a pretty unconditional no. As I've already explained, I generally have nothing against individuals in these professions, but the dynamics of the it make it so that
+Interviews and podcasts to streamers, youtubers and journalists are a pretty unconditional no. As I've already explained, I generally have nothing against individuals in these professions, but the dynamics of it make it so that
 giving an interview to one person, however reasonable they are, signals me incorrectly to their peers and that potentially leads to problems.
 
 Interviews with players, such as AMAs, Q&As, etc are undesirable but I'm not 100% against them. This is simply because any kind of mass event that brings a lot of attention to me at the same time is something that raises my
@@ -482,17 +482,27 @@ then I probably want to avoid talking to that person.
 
 ### Dev streams
 
-Development streams like the ones [Jonathan Blow](https://www.twitch.tv/j_blow) are good. I'm not really going to do any of them in the near future but I'm not against it. The main thing is that it has to be clearly
+Development streams like the ones [Jonathan Blow](https://www.twitch.tv/j_blow) does are good. I'm not really going to do any of them in the near future but I'm not against it. The main thing is that it has to be clearly
 focused on game development. If the people watching it are doing it because they're players of your game then that's a bad sign, since it can easily lead to power leaks, as in streams people get pretty mentally close to the streamer,
 perhaps more so than in any other situation.
 
+### Talks
+
+Presentations in general are undesirable but I'm also not 100% against them. The main reason is that like with AMAs and Q&As, they tend to raise your status, and more status = bad.
+I'd much rather write long posts like this one that most people won't read than give a talk.
+
+However, sharing information with other developers is good, so that's why I'm not 100% against them. Obviously there are certain events like GDC for instance which I would never give a talk to,
+primarily because I don't like how the talks are hidden behind a paywall, but also because they have all these weird rules about what you can talk about, like the talk can't be too negative, and you can't mention
+other games by name, and so on. I understand why people from San Francisco would come up with these rules, but you know, it's just not for me.
+
 ## Creativity
 
-This entire post is somewhat focused on me not wanting to draw too much attention to myself. Re-reading it I can easily see how people might feel it is unreasonably defensive and how they might get the wrong idea,
-that I don't want attention on myself because I don't want to deal with all the drama or the insults or whatever that comes with it if I fall on the wrong side of having attention on myself.
+This entire post is somewhat focused on me not wanting to draw too much attention to myself. Re-reading it I can easily see how people might feel it is unreasonably defensive and somewhat paranoid.
+And I can also see how someone might get the wrong idea, that I don't want attention on myself because I don't want to deal with all the drama or the insults or whatever that comes with it if I fall on
+the wrong side of having attention on myself.
 
-However, I am someone who actively enjoys stuff like that. I like conflict, I like arguing, I like being the center of attention. There's nothing that I like more than everyone very visibly telling me I'm wrong
-and then it turns out I'm right. I would feel extremely at home being at the center of some big drama and I would be able to defend myself well. But I've also come to realize that this is somewhat of a flaw in myself,
+However, I am someone who actively enjoys stuff like that. I like conflict, I like arguing, I like debates, I like being the center of attention. There's nothing that I like more than everyone very visibly telling me I'm wrong
+and then it turns out I'm right. I would feel extremely at home being the center of some big drama and I would be able to defend myself well. But I've also come to realize that this is somewhat of a flaw in myself,
 and I've been actively trying to reign in these instincts that I have to engage in conflict and trying really hard to not give in to them.
 
 At the same time, I've also come to realize that these instincts are what allow me to be creative in the way that I am, and likely what allowed me to be *successfully* creative. Creativity is about
@@ -500,14 +510,15 @@ useful idea generation. And from a personality perspective, to be creative you h
 
 But it's not enough to generate useful ideas, you have to generate useful ideas that haven't been generated by others. And to do that you need
 to be willing to go where other people haven't gone before. Part of that will be controlled by a trait called politeness, which is essentially your ability or inability to be out doing your own thing without much concern
-for what others will think of it, some real [sigma male](https://www.youtube.com/watch?v=EDB4z-6u40g) stuff. More seriously, this idea is also captured by [this series of tweets](https://twitter.com/palladiummag/status/1317554070949818368).
+for what others will think of it, some real [sigma male](https://www.youtube.com/watch?v=EDB4z-6u40g) stuff. More seriously, this idea is also captured by 
+[this series of tweets](https://twitter.com/palladiummag/status/1317554070949818368).
 
-So you know, when I want to reduce the amount of attention on myself I'm both rejecting this inherent instinct I have for conflict because I've noticed that it's often times counterproductive, but I'm also
+So you know, when I want to reduce the amount of attention on myself I'm both rejecting this inherent instinct I have for conflict and attention because I've noticed that it's often times counterproductive, but I'm also
 protecting my ability to be usefully creative, as I need to be able to go for ideas and on tangents that might be wrong to eventually get to something that is uniquely right. And I wouldn't be able to do that
 if I had to worry about my general social standing as a developer.
 
-And as if it was a message from God himself, the moment I truly realized and internalized all these thoughts and that I decided that I would just make games, regardless of how popular they got,
-the first game I end up releasing gets extremely popular primarily because the idea is good. So you know, it's very hard for me to not conclude everything I concluded so far.
+And as if it was a message from God himself, the moment I truly internalized all these thoughts and that I decided that I would just make games, regardless of how popular they got,
+the first game I end up releasing gets extremely popular primarily because the idea is good. So it's just very hard for me to not conclude everything I've concluded so far.
 
 In summary, as a developer it's best if you're invisible. By default gamers don't care about who makes their games, they just want to play good ones.
 To the degree that you have to be visible you have failed, and you should work to fix things so that you can go back to not mattering.
