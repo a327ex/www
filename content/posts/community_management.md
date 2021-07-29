@@ -4,7 +4,7 @@ tags = [
   "psychology"
 ]
 date = "2021-07-27"
-images = ["https://i.imgur.com/fOP8R6L.png"]
+images = ["https://i.imgur.com/28u3rwu.png"]
 +++
 
 Eventually I want to make an MMO. I've already sort of described it [here](https://github.com/a327ex/blog/issues/67) but that idea will probably change significantly over the years.
