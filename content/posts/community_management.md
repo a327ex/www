@@ -202,7 +202,7 @@ However, these are just examples, and I would probably say the majority of strea
 do not generally have, is that it's very hard for their goals to not be focused on numbers.
 
 If you're in this field you have to pay attention to the number of viewers and subscribers you get, because if you let it fall too much you run the real risk of it just collapsing really fast since there are network effects
-at play. When you spend years having to worry about numbers like this it is *very* hard to detach yourself from them, and so if you're not careful what this does is that it makes you become a slave to popularity.
+at play. When you spend years having to worry about numbers like this it is *very* hard to detach yourself from them, and so if you're not careful what this does is that it makes you a slave to popularity.
 
 In this context, popularity is the same as status which is the same as power. So at the end of the day they are addicted to power. But they are addicted to power *through* their audience, 
 because their audience is what allows them to have this power, which is an interesting dynamic.
