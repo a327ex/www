@@ -207,9 +207,12 @@ at play. When you spend years having to worry about numbers like this it is *ver
 In this context, popularity is the same as status which is the same as power. So at the end of the day they are addicted to power. But they are addicted to power *through* their audience, 
 because their audience is what allows them to have this power, which is an interesting dynamic.
 
-And so from the perspective of a developer, the way to deal with people like this, essentially drug addicts, is the same way you deal with the polluted lake or with the corrupted subreddit, which is to never let these people
-taste power in the first place. You have no control over most aspects of their lives, of course, but you do have control over their interaction with you and your game. And so that interaction should be primarily one of denial because
-the main thing they want from you is status.
+And so from the perspective of a developer, the way to deal with people like this, essentially drug addicts, is the same way you deal with the polluted lake or with the corrupted subreddit, which is to never let them
+taste power in the first place. You have no control over most aspects of their lives, of course, but you do have control over their interaction with you and your game. And so that interaction should be primarily one of denial.
+
+If your game is popular these people will want to play it because they're addicted to popular things and they don't want to miss out on the new hot popular game that came out. And if they really like it and play it
+for longer than just 1 day then, like everyone else, they'll start looking to you to fix problems they have with the game, but because they're addicted to power and status,
+they'll also look at you as a sort of status source.
 
 A recent example of this is [this interaction of Asmongold with a viewer](https://www.twitch.tv/videos/1095930908?t=3h37m02s),
 [thread here](https://www.reddit.com/r/LivestreamFail/comments/oqeuw5/asmon_putting_down_stream_viewer_for_not_being_a/). A lot of people focused on how he's mean to the viewer
@@ -239,10 +242,6 @@ do the contrast of "this is what a good developer who listens to their community
 
 I personally think that Blizzard deserves it, I really don't think there's a company that I actively dislike more than them. But from the perspective of a developer this is a perfect example of what a status-led individual
 in his position might do if they decide they really don't like you.
-
-People like this, who have been in this environment suffused with power for so long, have very little concept in their heads of a developer who would disagree with bending to their will because they don't understand people who
-would willingly reject power and status, since they wouldn't do it themselves. And because plenty of developers are willing to go along with this they have been trained over the years to think and behave from this very 
-status hungry perspective.
 
 What this all means is that when it comes to influencers, if the only types that existed were the normal guys then everything would be fine. As a developer you'd be able to interact with them to your heart's
 content and all would be well. But because there are a lot of status hungry ones out there, once you agree to interact with a normal one, you signal to the hungry ones that you're a status dispenser. 
