@@ -182,6 +182,8 @@ I've failed at what I set out to do.
 I focused a lot on subreddits so far but the same dynamic applies to streamers and youtubers, although with them it's a slightly more complicated situation. Do I want to go over influencers in more detail?
 It's a longer explanation with a few more conditionals, but I guess it's worth going over the short version of it.
 
+### Status
+
 Essentially, I consider that there are two groups of influencers. In my head I call them "normal guys" and "actual influencers". Normal guys are dudes just like you and me who happen to be streamers or youtubers.
 They are people who act like a normal human being, probably mostly keep to themselves, and also probably consider themselves lucky to have landed a job such as streaming.
 They're basically just doing their best and entertaining their audience.
@@ -256,6 +258,50 @@ happened to be it this time. So, the lesson here is that you want to be a machin
 
 Note that pretty much everything I've said in this post happens subconsciously. No one is going around consciously thinking about these things. These are the basest and most fundamental drives in people
 and I only get to think about them like this because I'm extremely smart & handsome, but most people just go through life without really thinking about things from these perspectives too much.
+
+### Business risk
+
+There are also more practical reasons to consider more careful interactions with influencers, but there are slightly less interesting. One is that just from a business risk standpoint, if influencers
+are having a large effect on your game's popularity then that means the game isn't yours anymore. This can be both a good thing and a bad thing.
+
+For instance, because ARPGs are kinda niche (they aren't actually niche but they also are never going to reach Fortnite levels of popularity I don't think), streaming ARPGs is a risky thing.
+If you're an ARPG streamer you're kinda having to hop from game to game, and all of these games are kinda bad in their own ways, and so it's very hard to "make it" in that space. But if you have a company
+like GGG, who has a good game that has updates every 3 months, providing some stability to the space, then it's much easier for you to make a living.
+
+And so what happens is that there are quite a lot of streamers who are primarily PoE streamers. These people will generally not act like the status hungry streamers might and just casually trash your game,
+because they understand that your game's success is the same as their success. In this situation you're winning because you get a baseline of streamers playing your game (since they depend on it),
+and you also get a baseline of players because people watching the streamer play the game are generally also playing the game. 
+
+So it's very tempting to cater to these influencers as much as you can because if you're both happy with each other's work then you both win. But again, there's a lot of nuance to it.
+
+For instance, Asmongold has been a WoW streamer for as long as possible. He was in the same situation as the PoE streamers, which is that whenever he tried to switch to another game
+his viewcount would drop dramatically. So he would always have to go back to WoW. But now that he has found another competing MMO that gets him a higher viewcount, he has easily switched from WoW and
+decided to trash the game on his way out. Again, Blizzard deserves it, but I don't really see why the same dynamic couldn't play out in the future for PoE.
+
+When you initially cater to these influencers who are already sort of frustrated that they have to rely on your game to make a living, and then for whatever reason you have to stop catering to them (i.e. with lots of nerfs) and
+now they have run interference for you even though they don't really want to, this creates tension. And if conditions are right, like another patch that is very controversial is released, eventually this tension
+might just lead these people to quit the game in this very drastic and aggressive way.
+
+On the other hand, if you don't cater to them at all, like for instance, you don't release updates every 3 months and thus you add no stability to the situation and make it harder for people to plan around you,
+then you lose out on a lot of very obvious potential good, but you also give less control of the game to them. You can also have the stability and let people plan around you, but then not interact directly with them
+whatsoever, which would be giving them more control but not as much. But this also potentially adds tension since these people would definitely want to hear from you (as they're making a living from your game), and being
+a silent wall wouldn't work as well.
+
+### Cancellings
+
+Another reason to consider more careful interactions with influencers is that we live in age where people overall are hungry for status. And this manifests itself a lot in the form of status destruction (aka "cancel culture").
+Influencers live in an environment where status management is important, therefore they'll want to distance themselves from you if you're deemed by the population at large to be someone that deserve to be taken from your
+high status position to a low status one.
+
+I happen to be someone that could very easily fit this mold, as I like going on tangents of all sorts that may be wrong/impolite, and so from my perspective it just makes a lot of sense to not rely at all on influencers
+since I know that it's all "fake", and that it's going to go away the moment people just read the kinds of things I'm writing.
+
+At the same time, what matters to people cancelling others is that they're taking someone from high status to low status. But if you're low status in the first place then you're not an attractive
+target. So one strategy is to just try to keep your status as low as possible, and that requires very few interactions with influencers, since interactions with influencers by default are high status events.
+
+Both of these reasons, "business risk" and "cancellings" are weaker manifestations of the more core issue, which is status/power. Because this is such a core issue for human beings it's something that's relevant everywhere, 
+and analyzing everything from this perspective is bound to get some good results. I feel like my analysis of community interactions through this lens has led me on a pretty different and weird path, but I feel like it's the correct
+one for what I'm trying to do.
 
 ## Guidelines 
 
@@ -496,9 +542,8 @@ other games by name, and so on. I understand why people from San Francisco would
 
 ## Creativity
 
-This entire post is somewhat focused on me not wanting to draw too much attention to myself. Re-reading it I can easily see how people might feel it is unreasonably defensive and somewhat paranoid.
-And I can also see how someone might get the wrong idea, that I don't want attention on myself because I don't want to deal with all the drama or the insults or whatever that comes with it if I fall on
-the wrong side of having attention on myself.
+This entire post is somewhat focused on me not wanting to draw too much attention to myself.  And I see how someone might get the wrong idea, that I don't want attention on myself because I don't want to deal with
+all the drama or the insults or whatever that comes with it if I fall on the wrong side of having attention on myself.
 
 However, I am someone who actively enjoys stuff like that. I like conflict, I like arguing, I like debates, I like being the center of attention. There's nothing that I like more than everyone very visibly telling me I'm wrong
 and then it turns out I'm right. I would feel extremely at home being the center of some big drama and I would be able to defend myself well. But I've also come to realize that this is somewhat of a flaw in myself,
