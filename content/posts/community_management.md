@@ -222,8 +222,12 @@ but I don't really have a problem with that. What happened here is that Asmongol
 Then a bunch of viewers pointed out the obvious, which is that that kind of special treatment is unfair, and then the argument followed from there. You can see another streamer defending those kinds of ideas
 [here](https://livestreamfails.com/clip/120110).
 
-Now, from a pragmatic perspective, it's totally reasonable for developers to do these kinds of things for streamers. As Soda says, these bigger streamers and youtubers actually provide a lot of value, so it makes perfect
-sense for them to be treated in a special manner above other players. But as you might guess, I disagree with that strongly.
+And even in the past you also had similar situations, specifically with GGG and PoE, that started the same debate:
+
+{{< youtube AZiQRFOptMU >}}
+
+Now, from a pragmatic perspective, it's totally reasonable for developers to do these kinds of things for streamers. As Soda and Asmongold mention, these bigger streamers and youtubers actually provide a lot of value (although
+it depends on the game and it also depends on the streamer), so it makes perfect sense for them to be treated in a special manner above other players. But as you might guess, I disagree with that strongly.
 
 The problem is that most of these streamers asking for special treatment are not asking for it for practical purposes, they're doing it for status purposes. Deep down they want these special treatments because they want to 
 flex/increase their status, and so they'll naturally gravitate towards situations where this can happen.
@@ -236,7 +240,7 @@ This is, again, a very important but subtle distinction to make. Even though the
 reasonable and pure, it fundamentally comes from a different place, and that place is generally worse.
 
 So once the streamers are given power, they'll want power again and again. If you comply they will play your game, and if they enjoy it they might even make your game extremely popular.
-But if at any point after that you decide to refuse them their drug they will get angry and they might even decide to retaliate. 
+But if at any point after that you decide to refuse them their drug they will get angry and they might even decide to retaliate through their audience.
 
 Asmongold has been doing that with Blizzard lately and it's absolutely vicious. In case you didn't know, he basically spends a few hours of his stream going over Blizzard's recent lawsuit and just shitting on them in
 every possible way imaginable. He's started playing FF14 and has been trying very hard to drive as many people from WoW as possible. And he also [interviewed Chris](https://www.youtube.com/watch?v=Y6_fQumEAWE) as a way to clearly
@@ -250,8 +254,8 @@ content and all would be well. But because there are a lot of status hungry ones
 
 And if you're a
 status dispenser but you decide you don't want to interact with the status hungry influencer because, frankly, he kind of smells and his pupils are dilated, then you've potentially just bought a fight with someone for no good
-reason. In his head it's not the fact that you refused him, it's the fact that you refused him but you didn't refuse the normal guy. This makes his status inherently lower, so now he doesn't like you and decides to trash your 
-game for everyone to see because you dared refuse him his drug.
+reason. In his head (and in his audience's head) it's not the fact that you refused him, it's the fact that you refused him but you didn't refuse the normal guy.
+This makes his status inherently lower, so now he doesn't like you and decides to trash your game for everyone to see because you dared refuse him his drug.
 
 And *that*, in itself, will get him his new highs. You see, he doesn't need your game or your status. He just needs his highs. And he can create it out of thin air if he wants to, he just needs a really good excuse. You just
 happened to be it this time. So, the lesson here is that you want to be a machine, but you want to be a machine of game development, and not one of status distribution.
