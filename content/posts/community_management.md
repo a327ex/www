@@ -261,7 +261,7 @@ and I only get to think about them like this because I'm extremely smart & hands
 
 ### Business risk
 
-There are also more practical reasons to consider more careful interactions with influencers, but there are slightly less interesting. One is that just from a business risk standpoint, if influencers
+There are also more practical reasons to consider more careful interactions with influencers, but these are slightly less interesting. One is that just from a business risk standpoint, if influencers
 are having a large effect on your game's popularity then that means the game isn't yours anymore. This can be both a good thing and a bad thing.
 
 For instance, because ARPGs are kinda niche (they aren't actually niche but they also are never going to reach Fortnite levels of popularity I don't think), streaming ARPGs is a risky thing.
@@ -290,7 +290,7 @@ a silent wall wouldn't work as well.
 ### Cancellings
 
 Another reason to consider more careful interactions with influencers is that we live in age where people overall are hungry for status. And this manifests itself a lot in the form of status destruction (aka "cancel culture").
-Influencers live in an environment where status management is important, therefore they'll want to distance themselves from you if you're deemed by the population at large to be someone that deserve to be taken from your
+Influencers live in an environment where status management is important, therefore they'll want to distance themselves from you if you're deemed by the population at large to be someone that deserves to be taken from your
 high status position to a low status one.
 
 I happen to be someone that could very easily fit this mold, as I like going on tangents of all sorts that may be wrong/impolite, and so from my perspective it just makes a lot of sense to not rely at all on influencers
@@ -542,7 +542,8 @@ other games by name, and so on. I understand why people from San Francisco would
 
 ## Creativity
 
-This entire post is somewhat focused on me not wanting to draw too much attention to myself.  And I see how someone might get the wrong idea, that I don't want attention on myself because I don't want to deal with
+This entire post is somewhat focused on me not wanting to draw too much attention to myself. And as I've explained this is because I want to keep my status low.
+But I see how someone might get the wrong idea, that I don't want attention on myself because I don't want to deal with
 all the drama or the insults or whatever that comes with it if I fall on the wrong side of having attention on myself.
 
 However, I am someone who actively enjoys stuff like that. I like conflict, I like arguing, I like debates, I like being the center of attention. There's nothing that I like more than everyone very visibly telling me I'm wrong
