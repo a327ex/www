@@ -207,11 +207,15 @@ people will hold you accountable. But how will they do it exactly? That's right,
 
 The only power they have, which you've now given them, is to be upset that the patch was bad or that it wasn't delivered in time. And how great of a power is that?
 There's nothing they can actually do, so all you're doing is further training them to ask you for changes and further frustrating them when those changes
-don't happen.
+don't happen. 
 
-Another drawback of promises is that when there is one, the patch coming in the first place is taken as a given, and so it's taken for granted.
-When there's no promise and the patch comes it's always a pleasant surprise, and similarly if it doesn't come then it's not as devastating, both
-because players haven't learned to expect it, but also because they're not being given fake power, and so they aren't as frustrated.
+So this is a power leak, but it's sort of a fake power leak. With the normal one you leak power because you implement people's suggestions and that lets them feel powerful, but with
+this one you promise them something, which is the ability for them to hold you accountable via the promise that the patch will come every 3 months and that it's going to be good,
+but then if you fail them the promise is broken, which leads to even more frustration because they actually can't do anything about it.
+
+Another drawback is that when there is a promise, the patch coming in the first place is taken as a given, and so it's taken for granted.
+When there's no promise and the patch comes it's always a pleasant surprise and you feel like a kid who got a nice gift from your grandma or something, but
+more importantly, if the patch doesn't come then it's not as devastating, both because players haven't learned to expect it, but also because they're not being given fake power, and so they aren't as frustrated.
 
 Finally, the main drawback of promises is that they're essentially a cope from the developer. This is a point that the CS:GO video touches on lightly
 when he says that when promises are made people think about the future of the game rather than how it is now. And I'm definitely guilty of this with SNKRX.
@@ -221,10 +225,10 @@ that, they started playing the game more because the promise did its job, which 
 
 But this is a cope because it's a much stronger position, but also a riskier one, to do the updates without actually promising any future ones. It's stronger
 because you're not leaking power and whoever decides to play your game is playing it because of its state now, and not because it's going to be
-better in the future. But it's riskier because this structure not existing, people who would have otherwise played the game might decide not to.
+better in the future, but it's riskier because with this structure not existing, people who would have otherwise played the game might decide not to.
 
 For instance, Northernlion started playing SNKRX right after I said that I would update it every week. I don't know if both things are related, but if they
-are then this is a massive loss to the game if I hadn't made the promise in the first place. So it clearly works, and the opposite clearly
+are then this would have been a massive loss to the game if I hadn't made the promise in the first place. So it clearly works, and the opposite clearly
 means catastrophic failure. 
 
 But this is the kind of risky thing where, you know, now that I don't have to worry about financials, it can either fail
@@ -234,13 +238,13 @@ but it also means the community is uncorrupted by power, and such communities ar
 corrupted ones.
 
 There's also another more subtle problem with the structure that promises add, which is that because they're a cope, they're essentially a form of fake
-success in a way. Ideally you want people to keep playing the game because it is fun and addicting, and not because of the structures of promises, 
+success in a way. Ideally you want people to keep playing the game because it is fun and addicting, and not because of the promises, 
 or because of streamers, or any other set of things that are not directly related to the game's quality.
 
 Essentially, if the game's success is built on those structures it means that the problems the game has haven't been solved, they've just been postponed.
 For most developers this is exactly what they want because they're running companies and employing people, and so giving the game life beyond what it naturally
 would have is always desirable. But for me? I'm not bound to anyone like that, I have no responsibilities to anyone but myself, and so I can take the way riskier
-path of having to actually solve the game's retention at the most fundamental level possible and risk the game dying than having to keep doing updates at a
+path of having to actually solve the game's retention at the most fundamental level possible and risk the game dying rather than having to keep doing updates at a
 predictable schedule and coping while worrying about player numbers.
 
 I focused somewhat on GGG and Valve for this discussion, and I think they're good examples of this dichotomy. Valve definitely takes the riskier approach
@@ -264,7 +268,7 @@ on when you're trying to engineer a long lasting community. For instance, one un
 reason for this is that edgier people are lower in politeness, which is one dimension of the trait agreeableness, and people lower in politeness 
 tend to be contrarians.
 
-Contrarian communities are essentially self-propelling communities because any behavior that becomes the norm will be rebelled against, which will renew
+Contrarian communities are essentially self-propelling and self-renewing communities because any behavior that becomes the norm will be rebelled against, which will renew
 the community and prevent it from becoming stagnant. This is a very important property that is extremely visible on sites like 4chan, for instance, that no one
 talks about because I guess no one is paying attention. But it's as clear as day to me that this is true. 
 
@@ -275,7 +279,7 @@ see this as even the most popular games ever eventually die out, even though the
 
 You could look at this and explain it as just "well I guess after 10 years of playing League of Legends people finally got tired", but it's really an
 excuse. After 15 years of using 4chan people didn't get tired, so 4chan must be doing something right whereas all these other communities are doing something
-wrong. In any case, this was a massive tangent and I could go on about it, but lets get back on track.
+wrong. In any case, this was sort of a tangent and I could go on about it forever, so lets get back on track.
 
 ## Influencers
 
@@ -309,10 +313,10 @@ because their audience is what allows them to have this power, which is an inter
 This problem also affects game developers sometimes, and I would say this is the same dynamic that affects GGG when it comes to their 3 month league promise.
 It's not surprising that Chris mentions Kripparian as the source for the idea of having a rigid schedule, because it's the kind of thing that makes perfect
 sense for streamers. These are people who need, for their professional safety, to make the number their primary concern, so they will do everything to at least
-make sure that the number doesn't fall too much. But as I said before, I don't think it works as well for game developers.
+make sure that the number doesn't fall too much.
 
-Either way, because they have to care about the number not going down, it's also hard for them to have goals that are not tied to the number going up,
-because who doesn't want the number to go up, right? And so this dynamic played out over the years corrupts them just like the redditors in the subreddit.
+Because they have to care about the number not going down, it's also hard for them to have goals that are not tied to the number going up,
+because who doesn't want the number to go up, right? And so this dynamic played out over the years corrupts them in this very ugly way and makes them become very status hungry.
 
 So from the perspective of a developer, the way to deal with people like this, essentially drug addicts, is the same way you deal with the polluted lake or with the corrupted subreddit, which is to never let them
 taste power in the first place. You have no control over most aspects of their lives, of course, but you do have control over their interaction with you and your game. And so that interaction should be primarily one of denial.
