@@ -217,20 +217,20 @@ Finally, the main drawback of promises is that they're essentially a cope from t
 when he says that when promises are made people think about the future of the game rather than how it is now. And I'm definitely guilty of this with SNKRX.
 
 Once I decided that I would update the game often I both told people what I would do (update it every week) and then I did that. And once people noticed
-that they started playing the game more because the promise did its job, which is to add reliability and structure to an otherwise unpredictable situation.
+that, they started playing the game more because the promise did its job, which is to add reliability and structure to an otherwise unpredictable situation.
 
-But this is a cope because it's a much stronger, but also riskier, position to do the updates without actually promising any future updates. It's stronger
-because you're not leaking power to others, in that, whoever decides to play your game is playing it because of its state now, and not because it's going to be
-better in the future. And it's riskier because this structure not existing, people who would have otherwise played the game might decide not to.
+But this is a cope because it's a much stronger position, but also a riskier one, to do the updates without actually promising any future ones. It's stronger
+because you're not leaking power and whoever decides to play your game is playing it because of its state now, and not because it's going to be
+better in the future. But it's riskier because this structure not existing, people who would have otherwise played the game might decide not to.
 
-For instance, Northernlion started playing the game right after I said that I would update it every week. I don't know if both things are related, but if they
+For instance, Northernlion started playing SNKRX right after I said that I would update it every week. I don't know if both things are related, but if they
 are then this is a massive loss to the game if I hadn't made the promise in the first place. So it clearly works, and the opposite clearly
 means catastrophic failure. 
 
 But this is the kind of risky thing where, you know, now that I don't have to worry about financials, it can either fail
 catastrophically or succeed massively. The catastrophic failure means that the game doesn't get that many more players and dies, but I'm personally
 not affected. But the massive success? That means the game is fundamentally good, because people aren't playing it due to what will come in the future,
-but it also the community is uncorrupted by power, and such communities are generally going to be much better at keeping the game alive in the long run than
+but it also means the community is uncorrupted by power, and such communities are generally going to be much better at keeping the game alive in the long run than
 corrupted ones.
 
 There's also another more subtle problem with the structure that promises add, which is that because they're a cope, they're essentially a form of fake
@@ -241,7 +241,7 @@ Essentially, if the game's success is built on those structures it means that th
 For most developers this is exactly what they want because they're running companies and employing people, and so giving the game life beyond what it naturally
 would have is always desirable. But for me? I'm not bound to anyone like that, I have no responsibilities to anyone but myself, and so I can take the way riskier
 path of having to actually solve the game's retention at the most fundamental level possible and risk the game dying than having to keep doing updates at a
-predictable schedule.
+predictable schedule and coping while worrying about player numbers.
 
 I focused somewhat on GGG and Valve for this discussion, and I think they're good examples of this dichotomy. Valve definitely takes the riskier approach
 despite being a massive company, and it shows in their failures with Underlords and Artifact but also in their massive successes. GGG doesn't, 
@@ -256,7 +256,7 @@ In an MMO it would be absolutely disastrous if most discussions were centered on
 of the game itself or the game's community. An MMO is fundamentally a community experience and the discussions of this experience should be focused on the community, and to the degree that they're focused on anything else then I've failed at what I set out to do.
 
 But more importantly, like Chris says, I want my MMO to be a game that will be played forever. And so I have to make sure that the community is a community
-that will last forever, because an MMO is as much as the game as it is its community. And communities corrupted by power have a very predictable lifetime,
+that will last forever, because an MMO is as much the game as it is its community. And communities corrupted by power have a very predictable lifetime,
 and it's definitely not forever.
 
 This analysis so far mostly focused on power because that's what I've been thinking about the most lately, but there are other traits to be focused
