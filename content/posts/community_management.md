@@ -156,11 +156,22 @@ they also run multiple tournaments for the game so they have somewhat of an acti
 community.
 
 There could be an argument here that I'm doing a sort of unfair comparison by comparing a moment where PoE is unpopular and Dota is neutral. And so if I were looking at Dota's subreddit right after Valve implemented
-an unpopular change, it would have the same level of threads directed at Valve as there were directed at PoE. And this argument would be roughly correct.
+an unpopular change, it would have the same level of threads directed at Valve as there were directed at PoE. And this argument would be roughly correct, but there are some nuances.
 
-However, and this is unfortunate because I won't be able to prove it with pictures or anything, the difference between both subreddits remains even when PoE's is neutral. What happens when PoE is not going through any
-particular problem, like at the end of a league, is that still, most threads are focused on GGG with requests for improvements to the game. And when the game is doing really well you also get tons of threads praising GGG.
-There are rarely moments where the focus isn't GGG, and I think the idea of power leakage cleanly explains why this happens.
+First, the difference between both subreddits remains even when PoE's is neutral. What happens when PoE is not going through any particular problem, 
+like at the end of a league, is that still, most threads are focused on GGG in one way or another, generally with requests for improvements to the game.
+And when the game is doing really well you also get tons of threads praising GGG and talking about how they're amazing.
+The point is that there are rarely moments where the focus isn't GGG, and I think the idea of power leakage cleanly explains why this happens.
+
+Second, one thing that's noticeable when Valve disappoints Dota players is that more often than not the response is one of acceptance, 
+rather than one of denial/anger/bargain. You can look at threads like this for an example:
+
+{{< figure src="https://i.imgur.com/iSzL8Ry.png" >}}
+
+And both the thread creator and the comments are much more lighthearted and accepting of the situation (the thread title is sarcastic). This is because
+Valve never promised an update when people thought one would come, so as one of the commenters mentioned, even the bargaining stage of the disappointment
+takes a different form, not one of blackmailing because these players intuitively understand that they have no power at all, but one of pleading,
+as in "please give us any information at all".
 
 For a subreddit that is completely 100% ignored by the developers, we can look at [PUBG's](https://www.reddit.com/r/PUBATTLEGROUNDS/):
 
@@ -171,22 +182,111 @@ towards images/gifs/videos and want things to be text only. However, video games
 
 In any case, when comparing all 3 subreddits in terms of active users and also comparing the number of people playing the game, PoE's is clearly ahead of the other 2, and PUBG is clearly last. So there are clear benefits
 to managing your game's subreddit like GGG has done so far. It is *very* obvious that GGG being as active as they are with reddit, but also with streamers, has massively contributed to the success of their game. So it's easy
-for me to point at flaws without having appreciation for the positives of it. But I feel like the positives are obvious enough that they're not really worth mentioning.
+for me to point at flaws without having appreciation for the positives of it. But I feel like the positives are obvious enough that they're not really worth 
+going over too much, and also most of them have hidden drawbacks that are hard to notice unless you're looking at the problem from an odd/different angle.
 
-When I look at this I'm also looking at it from the perspective of how I'm going to handle my future MMO. In an MMO it would be absolutely disastrous if most discussions were centered on me or on people working with me, instead
-of the game itself or the game's community. An MMO is fundamentally a community experience and the discussions of this experience should be focused on the community, and to the degree that they're focused on anything else then 
-I've failed at what I set out to do.
+### Promises
+
+For instance, in the first video I posted in this thread, the CS:GO developer mentions that one of the reasons Valve doesn't like promising things to players
+is because it allows them to be more flexible and responsive to player demands. This makes sense and is logical, but there's a deeper reason why
+promises shouldn't be made, and I only came to realize this in the process of writing this post.
+
+One of the things a promise does is that it lets people plan around you. In PoE's GDC talk one of things Chris mentions is that the game really started
+becoming more popular once they switched to a predictable release schedule:
+
+{{< youtubestartend tmuy9fyNUjY 1080 >}}
+
+And as Chris mentions, there are a lot of benefits to this. But one drawback is that making people plan around you further makes
+things about *you*. This is pretty obvious, right? Dota players aren't as disappointed *at Valve* when there's no patch because there's no promise by Valve that
+every 4 months there will be a patch. Consequently, this makes things less about Valve, which corrupts people less as Valve isn't leaking as much power,
+which makes their response to disappointment less aggressive and dramatic.
+
+So a promise is fundamentally another form of power leakage, which is unexpected and something that I didn't think about when starting writing this article but that
+totally makes sense. As a developer when you make a promise you're essentially forming a contract with people about your game, and if you fail
+people will hold you accountable. But how will they do it exactly? That's right, they can't actually hold you accountable because they have no power.
+
+The only power they have, which you've now given them, is to be upset that the patch was bad or that it wasn't delivered in time. And how great of a power is that?
+There's nothing they can actually do, so all you're doing is further training them to ask you for changes and further frustrating them when those changes
+don't happen.
+
+Another drawback of promises is that when there is one, the patch coming in the first place is taken as a given, and so it's taken for granted.
+When there's no promise and the patch comes it's always a pleasant surprise, and similarly if it doesn't come then it's not as devastating, both
+because players haven't learned to expect it, but also because they're not being given fake power, and so they aren't as frustrated.
+
+Finally, the main drawback of promises is that they're essentially a cope from the developer. This is a point that the CS:GO video touches on lightly
+when he says that when promises are made people think about the future of the game rather than how it is now. And I'm definitely guilty of this with SNKRX.
+
+Once I decided that I would update the game often I both told people what I would do (update it every week) and then I did that. And once people noticed
+that they started playing the game more because the promise did its job, which is to add reliability and structure to an otherwise unpredictable situation.
+
+But this is a cope because it's a much stronger, but also riskier, position to do the updates without actually promising any future updates. It's stronger
+because you're not leaking power to others, in that, whoever decides to play your game is playing it because of its state now, and not because it's going to be
+better in the future. And it's riskier because this structure not existing, people who would have otherwise played the game might decide not to.
+
+For instance, Northernlion started playing the game right after I said that I would update it every week. I don't know if both things are related, but if they
+are then this is a massive loss to the game if I hadn't made the promise in the first place. So it clearly works, and the opposite clearly
+means catastrophic failure. 
+
+But this is the kind of risky thing where, you know, now that I don't have to worry about financials, it can either fail
+catastrophically or succeed massively. The catastrophic failure means that the game doesn't get that many more players and dies, but I'm personally
+not affected. But the massive success? That means the game is fundamentally good, because people aren't playing it due to what will come in the future,
+but it also the community is uncorrupted by power, and such communities are generally going to be much better at keeping the game alive in the long run than
+corrupted ones.
+
+There's also another more subtle problem with the structure that promises add, which is that because they're a cope, they're essentially a form of fake
+success in a way. Ideally you want people to keep playing the game because it is fun and addicting, and not because of the structures of promises, 
+or because of streamers, or any other set of things that are not directly related to the game's quality.
+
+Essentially, if the game's success is built on those structures it means that the problems the game has haven't been solved, they've just been postponed.
+For most developers this is exactly what they want because they're running companies and employing people, and so giving the game life beyond what it naturally
+would have is always desirable. But for me? I'm not bound to anyone like that, I have no responsibilities to anyone but myself, and so I can take the way riskier
+path of having to actually solve the game's retention at the most fundamental level possible and risk the game dying than having to keep doing updates at a
+predictable schedule.
+
+I focused somewhat on GGG and Valve for this discussion, and I think they're good examples of this dichotomy. Valve definitely takes the riskier approach
+despite being a massive company, and it shows in their failures with Underlords and Artifact but also in their massive successes. GGG doesn't, 
+and that has led them to a lot of stability and success in a very hard section of the market, but I think that their decisions have leaked way too much
+power and I personally haven't seen a community that has been corrupted like this ever be purified by the developers, mostly because no one ever reaches
+the conclusions I've reached in this article in regards to the correct ways to act to not leak power, but also because even if they do reach the right conclusions,
+it's very hard to mass reprogram people like that. What generally happens when this is attempted is that people just leave with a bad taste in their mouths
+and never come back.
+
+When I look at this I'm also looking at it from the perspective of how I'm going to handle my future MMO.
+In an MMO it would be absolutely disastrous if most discussions were centered on me or on people working with me, instead
+of the game itself or the game's community. An MMO is fundamentally a community experience and the discussions of this experience should be focused on the community, and to the degree that they're focused on anything else then I've failed at what I set out to do.
+
+But more importantly, like Chris says, I want my MMO to be a game that will be played forever. And so I have to make sure that the community is a community
+that will last forever, because an MMO is as much as the game as it is its community. And communities corrupted by power have a very predictable lifetime,
+and it's definitely not forever.
+
+This analysis so far mostly focused on power because that's what I've been thinking about the most lately, but there are other traits to be focused
+on when you're trying to engineer a long lasting community. For instance, one unexpected one is that communities that are "edgy" last longer. The simple
+reason for this is that edgier people are lower in politeness, which is one dimension of the trait agreeableness, and people lower in politeness 
+tend to be contrarians.
+
+Contrarian communities are essentially self-propelling communities because any behavior that becomes the norm will be rebelled against, which will renew
+the community and prevent it from becoming stagnant. This is a very important property that is extremely visible on sites like 4chan, for instance, that no one
+talks about because I guess no one is paying attention. But it's as clear as day to me that this is true. 
+
+This of course has limits, because at some point
+the edginess and contrarianness makes it so that the community is too undesirable for newcomers, but like everything it's a balance. You can go for
+a community that will last a long time, or you can go for a community that appeals to everyone. Trying to do both will generally not work, and we can
+see this as even the most popular games ever eventually die out, even though the developers keep pushing updates of higher and higher quality.
+
+You could look at this and explain it as just "well I guess after 10 years of playing League of Legends people finally got tired", but it's really an
+excuse. After 15 years of using 4chan people didn't get tired, so 4chan must be doing something right whereas all these other communities are doing something
+wrong. In any case, this was a massive tangent and I could go on about it, but lets get back on track.
 
 ## Influencers
 
-I focused a lot on subreddits so far but the same dynamic applies to streamers and youtubers, although with them it's a slightly more complicated situation. Do I want to go over influencers in more detail?
+The same power leakage dynamic applies to streamers and youtubers, although with them it's a slightly more complicated situation. Do I want to go over influencers in more detail?
 It's a longer explanation with a few more conditionals, but I guess it's worth going over the short version of it.
 
 ### Status
 
 Essentially, I consider that there are two groups of influencers. In my head I call them "normal guys" and "actual influencers". Normal guys are dudes just like you and me who happen to be streamers or youtubers.
-They are people who act like a normal human being, probably mostly keep to themselves, and also probably consider themselves lucky to have landed a job such as streaming.
-They're basically just doing their best and entertaining their audience.
+They are people who act like a normal human being, probably mostly keep to themselves, and are basically just doing their best and entertaining their audience.
+I guess all streamers fit this category to varying degrees, but it's very easy to identify people who are mostly in it rather than not.
 
 I would consider people like [MOONMOON](https://www.twitch.tv/moonmoon), [forsen](https://www.twitch.tv/forsen), [LIRIK](https://www.twitch.tv/lirik) and [Mathil1](https://www.twitch.tv/Mathil1)
 to be a few examples of people in this group that I happen to watch. Basically as a developer this group is fine, perfect even. You can expect them to act like a reasonable and intelligent person would act in their situation,
@@ -195,10 +295,7 @@ which is that if they like your game and it works for their stream they will pla
 The other group though, "actual influencers", are people who I would consider to be similar to the redditors in PoE's subreddit. They have been corrupted by power and they're addicted to it. But this isn't as bad as it seems,
 because in our society everyone is like this to some extent. They just happen to be in a field that rewards this particular orientation more than most other fields.
 
-What this means is that they fundamentally are addicted to *status*. These are people who want to matter and who want to be relevant at all costs. As a general rule, for bigger streamers, any one of them that's constantly
-being talked about on [LSF](https://www.reddit.com/r/LivestreamFail/) falls in this group. Because what these streamers do is that they'll go over LSF posts on their streams, which means that their viewers will go on LSF, and overtime
-the effect that has is that threads about that streamer will be upvoted more.
-
+What this means is that they fundamentally are addicted to *status*. These are people who want to matter and who want to be relevant at all costs.
 I would consider people like [xQc](https://www.twitch.tv/xQcOW), [Asmongold](https:/www.twitch.tv/Asmongold) and [HasanAbi](https://www.twitch.tv/HasanAbi) to be good examples of people in this group. 
 However, these are just examples, and I would probably say the majority of streamers fit this group to varying degrees. Essentially, one of the problems streamers and youtubers have, which game developers
 do not generally have, is that it's very hard for their goals to not be focused on numbers.
@@ -209,7 +306,15 @@ at play. When you spend years having to worry about numbers like this it is *ver
 In this context, popularity is the same as status which is the same as power. So at the end of the day they are addicted to power. But they are addicted to power *through* their audience, 
 because their audience is what allows them to have this power, which is an interesting dynamic.
 
-And so from the perspective of a developer, the way to deal with people like this, essentially drug addicts, is the same way you deal with the polluted lake or with the corrupted subreddit, which is to never let them
+This problem also affects game developers sometimes, and I would say this is the same dynamic that affects GGG when it comes to their 3 month league promise.
+It's not surprising that Chris mentions Kripparian as the source for the idea of having a rigid schedule, because it's the kind of thing that makes perfect
+sense for streamers. These are people who need, for their professional safety, to make the number their primary concern, so they will do everything to at least
+make sure that the number doesn't fall too much. But as I said before, I don't think it works as well for game developers.
+
+Either way, because they have to care about the number not going down, it's also hard for them to have goals that are not tied to the number going up,
+because who doesn't want the number to go up, right? And so this dynamic played out over the years corrupts them just like the redditors in the subreddit.
+
+So from the perspective of a developer, the way to deal with people like this, essentially drug addicts, is the same way you deal with the polluted lake or with the corrupted subreddit, which is to never let them
 taste power in the first place. You have no control over most aspects of their lives, of course, but you do have control over their interaction with you and your game. And so that interaction should be primarily one of denial.
 
 If your game is popular these people will want to play it because they're addicted to popular things and they don't want to miss out on the new hot popular game that came out. And if they really like it and play it
@@ -287,13 +392,12 @@ now they have run interference for you even though they don't really want to, th
 might just lead these people to quit the game in this very drastic and aggressive way.
 
 On the other hand, if you don't cater to them at all, like for instance, you don't release updates every 3 months and thus you add no stability to the situation and make it harder for people to plan around you,
-then you lose out on a lot of very obvious potential good, but you also give less control of the game to them. You can also have the stability and let people plan around you, but then not interact directly with them
-whatsoever, which would be giving them more control but not as much. But this also potentially adds tension since these people would definitely want to hear from you (as they're making a living from your game), and being
-a silent wall wouldn't work as well.
+then you lose out on a lot of very obvious potential good, but you also give less control of the game to them. And this also has all the other benefits
+I already mentioned in the promises section.
 
 ### Cancellings
 
-Another reason to consider more careful interactions with influencers is that we live in age where people overall are hungry for status. And this manifests itself a lot in the form of status destruction (aka "cancel culture").
+Another reason to consider more careful interactions with influencers is that we live in age where people overall are hungry for status. And this manifests itself a lot in the form of status destruction, or "cancel culture".
 Influencers live in an environment where status management is important, therefore they'll want to distance themselves from you if you're deemed by the population at large to be someone that deserves to be taken from your
 high status position to a low status one.
 
@@ -311,6 +415,22 @@ one for what I'm trying to do.
 
 With all of this said, I can expand on what my guidelines regarding community interactions should be for me. 
 These are guidelines that are valid for games I make now, but that also should work for the eventual MMO.
+
+### Promises
+
+No promises of any kind. No plans for future updates, no roadmaps, no describing what's going to be in the next update, no dates, no anything.
+This is a very radical and risky stance but it's clear to me now that it's the correct way to act. This means people won't be thinking about the game's future,
+which means that feedback will be less corrupted. It also means that the focus on me will be even lower, as there's no expectation of anything from the developer.
+
+I will also try this with SNKRX going forward. The only promise I've already made is that the game will be rewritten from scratch and that I'll keep
+supporting it for at least 1 year. These are still promises but they're not as bad as "there will be one update every week" or "the rewrite will be done
+in 1 month" (lol, what was I thinking).
+
+One obvious thing here is updates have to come and the faster they come the better. If people are just left without updates for too long then that will have
+a predictable effect which is that the game will be played less, and the secondary effect is that all the supporting structures for the game, like streamers
+and youtubers, will also play it less as they notice that their analytics for the game aren't as good anymore.
+
+So even though there should be no promises, updates should obviously happen as quickly as they reasonably can.
 
 ### Small places
 
