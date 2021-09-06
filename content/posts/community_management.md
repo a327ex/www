@@ -406,7 +406,7 @@ Influencers live in an environment where status management is important, therefo
 high status position to a low status one.
 
 I happen to be someone that could very easily fit this mold, as I like going on tangents of all sorts that may be wrong/impolite, and so from my perspective it just makes a lot of sense to not rely at all on influencers
-since I know that it's all "fake", and that it's going to go away the moment people just read the kinds of things I'm writing.
+since I know that [it's all fake](https://twitter.com/CohhCarnage/status/1434611216987697160), and that it's going to go away the moment people just read the kinds of things I'm writing.
 
 At the same time, what matters to people cancelling others is that they're taking someone from high status to low status. But if you're low status in the first place then you're not an attractive
 target. So one strategy is to just try to keep your status as low as possible, and that requires very few interactions with influencers, since interactions with influencers by default are high status events.
