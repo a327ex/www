@@ -1,7 +1,7 @@
 +++
 title = "Auto chess formula"
 tags = [
-    "ideaguying"
+    "indiedev", "ideaguying"
 ]
 date = "2021-07-25"
 images = ["https://i.imgur.com/DSEMwnZ.png"]

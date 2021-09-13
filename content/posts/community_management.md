@@ -1,7 +1,7 @@
 +++
 title = "Community management"
 tags = [
-  "psychology"
+  "indiedev", "psychology"
 ]
 date = "2021-07-27"
 images = ["https://i.imgur.com/28u3rwu.png"]
