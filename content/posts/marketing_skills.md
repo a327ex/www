@@ -143,4 +143,4 @@ As Hot_Domme said, there's no avoidance of risk either way. So it's going to be 
 I was able to clearly realize that this was the reason why I got angry as I was replying to the e-mail that someone sent me, so thanks to that person for the questions. So yea, this entire post was just me going to therapy
 with myself I guess.
 
-[Subscribe to my newsletter](https://buttondown.email/a327ex) if you want to get these posts in your inbox.
+[Subscribe to my newsletter](https://buttondown.email/a327ex) if you want to get posts like this one in your inbox.
