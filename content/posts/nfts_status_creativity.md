@@ -4,11 +4,9 @@ tags = [
     "crypto",
     "psychology"
 ]
-date = "2021-10-27"
-images = ["https://i.imgur.com/y3HjaYa.png"]
+date = "2021-10-29"
+images = ["https://i.imgur.com/B3srhZk.png"]
 +++
-
-# Crypto
 
 I've been following crypto since 2012 and I first got interested in it mostly for academic reasons. It was an interesting development in computer science and I followed it somewhat closely for a couple of years. I feel like I have a fairly good understanding of it, but I've been really on and off about paying attention to further developments since like 2014-2015, so if anything I say here is wrong, please feel free to correct me and I'll update the post.
 
