@@ -106,6 +106,12 @@ This is a future where, because of Bitcoin's tokenization technology, everything
 
 I don't know how long what I described here will take to happen, maybe 10, 20 or 30 years, or maybe it won't even happen at all... But even the possibility of this future is extremely whitepilling to me and it is fundamentally why I really like NFTs.
 
+### Example: ultra.io
+
+I found out about this project called [ultra.io](https://ultra.io/) when [someone told me about it on twitter](https://twitter.com/DairyJohn1/status/1454262041431076865) after posting this article. This project essentially implements everything that I mentioned here and a bunch of other things as well.
+
+This particular project seems more centralized than the imagined one I described, and the fees are also pretty high (15%) compared to what they could be, so I'm actually not too excited about it. But if you wanted a live example of everything that I described this would be it.
+
 # Artists & gamedevs
 
 Now for the rest of this article. So far I've described why I like NFTs. But now we must understand why others don't like it. And as a game developer it's my job to understand the behaviors of the masses at the deepest levels possible, and so that's what I'm gonna do.
@@ -224,10 +230,14 @@ Their creations are within the bounds of what's acceptable, and so they can't tr
 
 What this means when it comes to crypto and NFTs is that, in my opinion, they're a field that a lot, if not the most, truly creative energy right now. It's where a lot of new things are happening and where the unknown is being brought forth to fundamentally change things. You can tell this is the case because people still don't understand what NFTs are or what value they have. Any idea that is immediately understandable by everyone isn't truly new, so at the very least we can tell that NFTs are, in fact, new. If they are useful or not that's up to time to decide.
 
-What is important is that if you're a creative person you should understand that this is how creatives work. They create things that might be tremendously wrong, but that might also be tremendously right. No one knows which is which until it's obvious and then in hindsight people say that they knew it all along. So if you want to be truly creative, you need to be willing to be tremendously wrong, otherwise you're not really creating that much value.
+What is important is that if you're a creative person you should understand that this is how creatives work. They create things that might be tremendously wrong, but that might also be tremendously right. No one knows which is which until it's obvious and then in hindsight people say that they knew it all along. So if you want to be truly creative, you need to be willing to be tremendously wrong, otherwise you're not really creating that much value. Another way of putting it is [like this](https://twitter.com/jmrphy/status/1445473664460226561):
+
+{{< figure src="https://i.imgur.com/2cFflcq.png" >}}
+
+{{< figure src="https://i.imgur.com/7XzlbPC.png" >}}
 
 Can creatives who are extremely agreeable and care a lot about their status still be successful in their fields? Absolutely. Gaming especially is a constantly growing field, so to be successful you don't really have to innovate that much.
 
-But if you want to aim higher and try to really be usefully creative as much as you can, and to occupy the role of a creative in society as much as you can, then you can't really be too agreeable nor care too much about your status. You have to be willing to be wrong, to look stupid, to be a clown, and to be cringe. And you have to be willing to keep being creative despite all that!
+But if you want to aim higher and try to really be usefully creative as much as you can, and to occupy the role of a creative in society as much as you can, creating as much value as you can, then you can't really be too agreeable nor care too much about your status. You have to be willing to be wrong, to look stupid, to be a clown, and to be cringe. Only when you're willing to let that happen will you be able to find valuable things that no one else can, and truly make the world a better place in the process.
 
 [Subscribe to my newsletter](https://buttondown.email/a327ex) if you want to get posts like this one in your inbox.
