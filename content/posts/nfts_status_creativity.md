@@ -212,13 +212,13 @@ Having all that said, both status and agreeableness are the main reasons why I t
 
 To be creative you have to be open to new experiences. This is a trait that refers to your ability to think outside the box, to make connections between things that weren't previously connected, to break down borders and mix and match things so that something new emerges out of it. Pretty much everyone who decides to make games is higher on openness than the average person.
 
-One way you can see this clearly is in the phenomenom of gamedevs who can never finish a game. To finish a game you have to stick to the same project for a longer period than you might want, and you have to resist the temptation to go for a new idea. For highly open people, "new" is always a big motivator, and so whenever a game gets to that middle period where it's mostly a grind, "new" becomes ever more attractive and it makes people drop their games without finishing them.
+One way you can see this clearly is in the phenomenon of gamedevs who can never finish a game. To finish a game you have to stick to the same project for a longer period than you might want, and you have to resist the temptation to go for a new idea. For highly open people, "new" is always a big motivator, and so whenever a game gets to that middle period where it's mostly a grind, "new" becomes ever more attractive and it makes people drop their games without finishing them.
 
 As an aside, something else that follows from this is that certain drugs, like psychotropics, *increase* your levels of openness permanently, as mentioned in the video below:
 
 {{< youtubestartend 35e5i6FQuMw 232 >}}
 
-What this means is that if you're already highly open, and you have trouble finishing games, you definitely don't want to take any psychotropics because they will increase your openness levels even further which means you really won't be able to stick to anything for any reasonable period of time. Now, if I had to guess, at least 50% of artists & gamedevs have already done those drugs at least once, so, you know... Don't do it if you haven't already!
+What this means is that if you're already highly open, and you have trouble finishing games, you definitely don't want to take any psychotropics because they will increase your openness levels even further which means you really won't be able to stick to anything for any reasonable period of time. Now, if I had to guess, at least 50% of artists & gamedevs have already done those drugs at least once, so that would explain a lot of trouble people have with finishing games in the first place. So don't do them if you haven't already!
 
 In any case, to be creative you have to be open, OK. But another trait that helps is also being disagreeable. The role of a creative individual is creating things that haven't been created before, right? It's making connections that no one has made, it's bringing forth new knowledge from the vast unknowns. That's what moves society, that's what has enabled us to prosper as much as we have today.
 
@@ -228,7 +228,7 @@ Their creations are within the bounds of what's acceptable, and so they can't tr
 
 {{< figure src="https://i.imgur.com/xwpGoAp.png" >}}
 
-What this means when it comes to crypto and NFTs is that, in my opinion, they're a field that a lot, if not the most, truly creative energy right now. It's where a lot of new things are happening and where the unknown is being brought forth to fundamentally change things. You can tell this is the case because people still don't understand what NFTs are or what value they have. Any idea that is immediately understandable by everyone isn't truly new, so at the very least we can tell that NFTs are, in fact, new. If they are useful or not that's up to time to decide.
+What this means when it comes to crypto and NFTs is that, in my opinion, they're a field with a lot of truly creative energy right now. It's where a lot of new things are happening and where the unknown is being brought forth to fundamentally change things. You can tell this is the case because people still don't understand what NFTs are or what value they have. Any idea that is immediately understandable by everyone isn't truly new, so at the very least we can tell that NFTs are, in fact, *new*. If they are useful or not that's up to time to decide.
 
 What is important is that if you're a creative person you should understand that this is how creatives work. They create things that might be tremendously wrong, but that might also be tremendously right. No one knows which is which until it's obvious and then in hindsight people say that they knew it all along. So if you want to be truly creative, you need to be willing to be tremendously wrong, otherwise you're not really creating that much value. Another way of putting it is [like this](https://twitter.com/jmrphy/status/1445473664460226561):
 
@@ -238,6 +238,6 @@ What is important is that if you're a creative person you should understand that
 
 Can creatives who are extremely agreeable and care a lot about their status still be successful in their fields? Absolutely. Gaming especially is a constantly growing field, so to be successful you don't really have to innovate that much.
 
-But if you want to aim higher and try to really be usefully creative as much as you can, and to occupy the role of a creative in society as much as you can, creating as much value as you can, then you can't really be too agreeable nor care too much about your status. You have to be willing to be wrong, to look stupid, to be a clown, and to be cringe. Only when you're willing to let that happen will you be able to find valuable things that no one else can, and truly make the world a better place in the process.
+But if you want to aim higher and try to really be usefully creative as much as you can, and to occupy the role of a creative in society as much as you can, creating as much value as you can, then you can't really be too agreeable nor care too much about your status. You have to be willing to be wrong, to look stupid, to be a clown, and to be cringe. Only when you're willing to let that happen will you be able to find valuable things that no one else can because you're constantly looking where no one else is.
 
 [Subscribe to my newsletter](https://buttondown.email/a327ex) if you want to get posts like this one in your inbox.
