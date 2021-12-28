@@ -103,7 +103,7 @@ brought back to reality. Nothing you say other than giving them their drug will 
 
 In general, if you look at any situation like this, be it [Fight Knight's drama](https://twitter.com/search?q=%22fight%20knight%22&src=typed_query),
 [Tripwire's CEO's firing](https://twitter.com/CohhCarnage/status/1434611216987697160), or [Factorio's anti-cancel culture comments](https://twitter.com/factoriogame/status/1406038185424134144),
-you always have the same exact thing happening: status hungry people are looking to destroy someone because they want to make the world a better place. 
+you always have the same exact thing happening: status hungry people are looking to destroy someone because they have a misguided notion of what it means to make the world a better place. 
 
 One of the reasons why I've decided to largely not interact with influencers has a lot to do with this. You never know when a CohhCarnage type of character is going to decide to come for you with his entire audience
 because you said something he doesn't like. 
