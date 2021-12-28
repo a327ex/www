@@ -8,7 +8,7 @@ date = "2021-12-28"
 images = ["https://i.imgur.com/W5nMd2N.png"]
 +++
 
-Recently I got in trouble over saying the n-word. Yes, that's right. More specifically, I said that I had a generally positive view on <!--more-->them... Gamers currently don't take kindly to folks with these newfangled fancy ideas
+Recently I got in trouble over saying the n-word. Yes, that's right. More specifically, I said that I had a generally positive view on them... Gamers currently don't take kindly to folks with these newfangled fancy ideas
 'round these parts, so this kind of pushback isn't unexpected. What was surprising was that, like in 'em good ol' days, I even got called an "n-word lover" by this here boy what calls himself 'DANDEE L'OREO':
 
 {{< figure src="https://i.imgur.com/EugeCbw.png" >}}
