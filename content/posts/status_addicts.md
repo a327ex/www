@@ -4,7 +4,7 @@ tags = [
     "indiedev",
     "psychology",
 ]
-date = "2021-12-27"
+date = "2021-12-28"
 images = ["https://i.imgur.com/W5nMd2N.png"]
 +++
 
