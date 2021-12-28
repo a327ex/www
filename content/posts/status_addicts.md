@@ -113,13 +113,13 @@ For instance, if I'm generally a good boy with no heretical opinions whatsoever 
 suddenly becomes very large, because I went very quickly from "good boy" to "bad boy", and this would instantly make me a very juicy piece of meat for these predator-influencers.
 
 One of the ways of preventing this from happening is just sort of keeping your status relatively low at all times. Mostly keeping to yourself, sometimes writing posts like this one full of somewhat heretical opinions,
-and not interacting too much with influencers. Essentially you want to make sure status addicts understand the kind of person you are and that that understanding very clearly makes them to believe that you are both low status
+and not interacting too much with influencers. Essentially you want to make sure status addicts understand the kind of person you are and that that understanding very clearly leads them to believe that you are both low status
 and also hard to attack.
 
 For instance, I generally write very long posts because I know that most people won't read through them entirely. This still lets me get my ideas out, but it also makes potential attackers have to work
 harder to successfully target me. And since these attackers are just dumb predators looking for their next meal, chances are they'll get bored and will look for someone else to stalk.
 
-Either way, the point being, the people are hungry and they want to eat. There are practical reasons to be nonconfrontational and to make yourself a hard target, but there are also more fundamentally, uh,
+Either way, the point being, the people are hungry and they want to eat. These are the practical reasons to be nonconfrontational and to make yourself a hard target, but there are also more fundamentally, uh,
 philosophical ones:
 
 ## Non-naive compliance
@@ -217,7 +217,7 @@ compared to other indiedev communities, it just feels that way to me, and at lea
 
 ## Creative sovereignty
 
-Abandoning any intention of being relevant, making a difference, creating a change, or accruing status is also beneficial for the maintenance of a creator's creative sovereignty.
+Abandoning any intention of being relevant, making a difference, creating change, or accruing status is also beneficial for the maintenance of a creator's creative sovereignty.
 
 To be creative you have to be open to new experiences and you have to be able to generate lots of new and interesting ideas. But to be usefully creative you also have to be somewhat disagreeable, since
 you want to generate ideas that other people haven't generated before, and to do that you have to be willing to go to places that most people aren't going.
