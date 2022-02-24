@@ -11,17 +11,12 @@ Agreeableness is one of the traits in the [big five personality index](https://e
 This is a statistically derived survey-based personality assessment tool devised by psychologists over the past few decades.
 
 It can be divided into two subtraits: compassion and politeness. The compassionate are more likely to empathize with people, to care about their feelings, to be concerned for them,
-and to want to be connected with them and affiliate with them emotionally. They're essentially better at feeling other people's emotions and they're driven to help those in need and to alleviate their suffering.
-Politeness refers to the tendency to avoid aggression, to not exploit people, to not take advantage of them, and to respect things like social rules and norms, as well as authority more generally.
+to want to be connected with them and affiliate with them emotionally. Politeness refers to the tendency to avoid aggression, to not exploit people, to not take advantage of them, and to respect things like social rules and norms, as well as authority more generally.
 
-You would think that more compassion and more politeness is always good. And even in most psychology papers I read it's clear that most authors are fairly high in agreeableness, as they rarely seem to show an appreciation or even
-understanding of the positives of low agreeableness generally. This is one of the reasons why I find it hard to take most results from these people seriously, despite using their theory (as an aside, I only use their theory because
-it seems correct based on my experience using it, if it turned out that phrenology, or physiognomy or even astrology yielded me good results in real life, I'd be writing this article about those theories instead), but that's not
-even the biggest problem.
+You would think that more compassion and more politeness is always good, but that's wrong! As a general rule, for all personality traits, the extremes always have pros and cons.
 
-The biggest problem is that most people don't seem to acknowledge the downsides of high agreeableness that much. Some of its downsides are well known, but by and large people just assume that more agreeableness = better.
-As a general rule, for all traits, the extremes always have pros and cons. The general public understands this for extroversion and introversion, so you never see people saying that more extroversion or more introversion
-will make the world a better place. But you constantly see people saying that more empathy will make the world a better place. This is wrong and this post will explore how and why that's the case.
+The general public understands this for extroversion and introversion, for instance, so you never see people saying that more extroversion or more introversion
+will make the world a better place. But you constantly see people saying that more empathy will make the world a better place. So this post will explore how and why that's wrong.
 
 But before we get into it we have to look at some
 
@@ -76,15 +71,15 @@ failing to account for some very significant biological differences between peop
 
 ## Conflict avoidance and moral binaryism
 
-The best way I've found of thinking about the downsides of agreeableness is with the broad concepts of conflict avoidance and moral binaryism.
+Now for the actual post. The best way I've found of thinking about the downsides of agreeableness is with the broad concepts of conflict avoidance and moral binaryism.
 These don't map 100% to the compassion/politeness subdivision, but it's a good way to think about it.
 
-So the highly polite are fundamentally driven by conflict avoidance. They want to be in good standing with their peers and this leads them to avoid short and medium term conflict at all costs.
-This happens because politeness seems to be related to aggression suppression more generally, and so it stands to reason that those with very high stats in it will suffer from this problem.
+The highly polite are fundamentally driven by conflict avoidance. They want to be in good standing with their peers and this leads them to avoid short and medium term conflict at all costs.
+This happens because politeness seems to be related to aggression suppression more generally, and so it stands to reason that those with very high stats in it will be like this.
 
-Whereas the highly compassionate have a tendency of what I call "moral binaryism", which is to divide people into good vs. evil, or more accurately prey vs. predators.
+On the other hand, the highly compassionate have a tendency of what I call "moral binaryism", which is to divide people into good vs. evil, or more accurately prey vs. predators.
 Strong levels of compassion likely evolved as a sort of maternal instinct out of a need to care for infants in their earlier days where they're 100% vulnerable, 
-which is a perfectly reasonable instinct to have in that situation, but it's clearly not one that scales well beyond that, especially in our world where most people are very safe.
+which is a perfectly reasonable instinct to have in that situation, but it's not one that scales well beyond that, especially in our world where most people are very safe.
 
 These two broad classes of downsides play out in some specific types of behaviors that are common among the highly agreeable, such as
 
@@ -122,17 +117,17 @@ Another consequence of their conflict avoidant nature is that the highly agreeab
 because they fear standing out negatively and being judged poorly by others.
 
 On top of that, their moral binaryism tells them it's okay to punish and hurt everyone who doesn't fall in line with their conformist line of thinking.
-You can see this very clearly in display with two different but similar types of people: crazy religious old lady and crazy social justice girls.
+You can see this very clearly in display with two different but similar types of people: crazy religious old ladies and crazy social justice girls.
 
-Both share the traits of very high compassion and very high orderliness, which is one aspect of conscientiousness, and essentially it corresponds to people who are organized, have a routine, stick to plans,
-are tidy, clean, etc. But one downside of high orderliness is that they also tend to see the world in more black and white terms and be more judgemental of others. This coupled with the prey vs. predator
+Both share the traits of very high compassion and very high orderliness, the latter being one aspect of conscientiousness, corresponding to the tendency people have to be organized, have a routine, stick to plans,
+be tidy, clean, etc. But one downside of high orderliness is that they also tend to see the world in more black and white terms and be more judgemental of others. This coupled with the prey vs. predator
 tendency of the highly compassionate creates a combination that can be very toxic.
 
 The crazy religious old lady who divides the world into sinners vs. non-sinners and goes outside with huge signs saying all sinners will burn in hell has the exact same personality type
 as the crazy social justice girl who divides the world into racists/homophobes/misogynists/transphobes vs all the good people who aren't these things and thinks that the former are all on the wrong side of history.
 
 Some people have described [in detail](https://www.unqualified-reservations.org/2007/09/how-dawkins-got-pwned-part-1/) the historical reasons for why this is the case, but suffice to say that this is
-caused partly by an overabundance of compassion, which causes people to act in the ways you see them acting online, trying to cancel everyone and just basically destroying anyone they deem to be evil.
+caused partly by an overabundance of compassion, which causes people to act in the ways you see them acting online and in real life, trying to cancel everyone and just basically destroying anyone they deem to be evil.
 
 ### Trading games
 
@@ -151,15 +146,19 @@ agriculture was invented.
 ### Vulnerability to sociopaths
 
 The other main problem the highly agreeable have is that they're very vulnerable to actual predators, especially the ones that can convincingly mask themselves as prey, such as the more apt sociopaths,
-the kind you see in movies. The most common type of sociopath is just someone who's very impulsive and exploitative but who lacks the intelligence or just overall capacity to deceive people too much, so they just resort
+the kind you see in movies.
+
+The most common type of sociopath is just someone who's very impulsive and exploitative but who lacks the intelligence or overall capacity to deceive people too much, so they just resort
 to more primitive types of coercion. Those people are easy enough to identify and stay away from.
 
 But the ones that most people think of, the cold calculating evil genius types, those are more rare, but they're still around enough to matter, and the easiest people for them to manipulate and deceive are naive highly
 agreeable types who think that people are generally good and that if they do bad things it's just because of their circumstances, or how they were brought up, or such similar excuses.
 
-Paradoxically, even though the highly compassionate have a tendency towards dividing people into prey vs. predators, they have a very hard time doing so for people who don't have the usual predator tells. What routinely
-happens is that someone highly naive and agreeable goes through life without meeting anyone like this, but eventually they do, realize they've been had in some really nasty way, realize that there are *evil* people in the
-world who are just born this way, and then either have some kind of mental breakdown or have to spend a lot of time in therapy coping with this fact, since it basically upends how they view people generally.
+Paradoxically, even though the highly compassionate have a tendency towards dividing people into prey vs. predators, they have a very hard time doing so for people who don't have the usual predator tells.
+
+What routinely happens is that someone highly naive and agreeable goes through life without meeting anyone like this, but eventually they do, realize they've been had in some really nasty way,
+realize that there are *evil* people in the world who are just born this way, and then either have some kind of mental breakdown or have to spend a lot of time in therapy coping with this fact,
+since it basically upends how they view people generally.
 
 This in turn makes their prey vs. predator system overly sensitive and they're now more likely to overcompensate and to too easily identify people as predators, even when they're just normal people who are disagreeing
 with them or who have a different worldview.
@@ -173,11 +172,13 @@ people, they might be doing horrible things but they're doing them very nicely a
 All of this put together can make the highly agreeable person more easily resentful and full of hidden anger.
 
 Because they are incapable of confronting people head on, are more easily exploitable, and will more easily place people who they feel are wronging them into the evil camp,
-they will often resort to talking behind people's backs, harboring feelings of envy/hatred towards them, being passive aggressive, and overall just harboring negative feelings towards another person
+they will often resort to talking behind people's backs, harboring feelings of envy/hatred towards them, being passive aggressive, and overall just having lots of negative feelings towards another person
 but never really working towards resolving them in any meaningful way, since that involves conflict.
 
 Usually normal relations between people have a period of boundary setting, where both people are figuring out where the other person's boundaries are, having a few disagreements when these boundaries are
-violated, but then moving on and continuing to do what they need to do. For highly disagreeable pairs of people this can be rather extreme at first, but it generally leads to a very solid understanding of where the
+violated, but then moving on and continuing to do what they need to do.
+
+For highly disagreeable pairs of people this can be rather extreme at first, but it generally leads to a very solid understanding of where the
 two people stand, which often leads to better results in the long run. As someone highly disagreeable myself, some of my best and longer lasting relations are with other highly disagreeable people where we generally started
 off on the wrong foot for one reason or another, but then eventually figured it out and were able to move past it.
 
@@ -191,7 +192,6 @@ perfect slaves. But over the years this obviously puts a strain on them and fill
 
 And this is all very sad, and there are many such cases of it.
 Current society does these people a disservice because the mantra is that being compassionate and polite is always good, without any appreciation for how it goes wrong.
-Hopefully this post can help some of these people.
 
 ## Real life examples
 
@@ -201,20 +201,24 @@ Hopefully this post can help some of these people.
 
 {{< figure src="https://i.imgur.com/Q6SwMkO.png" >}}
 
-The thread likens them to sociopaths, the posts the quotes are coming from are hailing the x-altruists as heroes and singing their praises, and in my opinion both ways of viewing the issue are wrong.
+The thread likens them to sociopaths, the posts the quotes are coming from are hailing the x-altruists as heroes and singing their praises, and in my opinion both ways of viewing the issue are both right and wrong in some important
+ways.
+
 It's a much cleaner explanation to consider that x-altruists are people extremely high in compassion but extremely low in politeness. You've probably already met someone like this, a very argumentative vegan, for example.
 
 Their veganism happens because of their high levels of compassion, and their argumentativeness happens because of their low levels of politeness. As for the sociopath-like x-altruists, which would be a very extreme case of this,
 it's the same thing, except that their prey vs. predator sensor is used to direct their sociopathic/low politeness behavior, and they also have a bunch of other traits that make them more like a sociopath,
 like high intelligence and extroversion, and low conscientiousness and neuroticism.
 
-Everything that both the articles mention and that pmarca's thread implies fit into this model neatly, which gives me more confidence that it's right. For another example, I have a general rule, more of a guideline really,
-of not trusting people in positions of power (in competitive fields) who are vegans. This is because this is a very good signal that they have this high compassion + low politeness personality make up, since to be a vegan you need
+Everything that both articles mention and that pmarca's thread implies fit into this model neatly, which gives me more confidence that it's right. For another example, I have a general rule, more of a guideline really,
+of not trusting people in positions of power (in competitive fields) who are vegans.
+
+This is because this is a very good signal that they have this high compassion + low politeness personality make up, since to be a vegan you need
 high compassion, and to be successful in a competitive field you need to be fairly low in politeness. So when I watch a video like this, for instance:
 
 {{< youtube pVlkFW43820 >}}
 
-I get many red flags all at once from it. The reason is that the x-altruist, even if he's not a full on sociopath, always has a very good reason to act incorrectly.
+I get many red flags all at once from it. The reason is that the x-altruist, even if he's not a full on sociopath, always has a very good reason to act immorally.
 This guy, for instance, runs a crypto exchange. I don't for 1 second doubt that he's going to donate all his money to charity. But this also gives him a very good reason to take as much money as possible
 from all the degenerates gambling on crypto using his exchange, using as many shady methods as he can think of (which are still legal because crypto regulation is slow), and he will feel absolutely no remorse doing this because he's
 doing it for a very good cause.
@@ -229,7 +233,7 @@ In a way I view people like this as the most dangerous types of people, because 
 Since we're talking about sociopaths, when gamergate first started I remember everything that happened on the first few days
 very clearly because during those two days before the event blew up I was writing [these](https://github.com/a327ex/blog/issues/3) [articles](https://github.com/a327ex/blog/issues/4) on my old blog.
 
-Those 2 days were interesting because I wrote the first article during the first day, and then when I was done I started browsing 4chan to see what was going on.
+Those two days were interesting because I wrote the first article during the first day, and then when I was done I started browsing 4chan to see what was going on.
 I found some threads about [thezoepost](https://thezoepost.wordpress.com/), I read it, and I immediately was like, "yea this girl is either a sociopath or at least has BPD", and then didn't think much of it and went to sleep.
 
 On the next day I wrote the 2nd article and then again, went online to see what was happening. Except this time people were up in arms because threads about thezoepost were being deleted from everywhere on the internet, even on 4chan.
@@ -241,7 +245,7 @@ with game developers, because for one reason or another, most of them seem to be
 Fast forward a few years and she did it again, this time [getting someone killed](https://www.google.com/search?q=alec+holowka+suicide). But enough about UnburntWitch, and while she is in fact a good example of how the highly
 agreeable are continually vulnerable to sociopaths, one thing that really didn't escape from my mind from this suicide event was the contrast between how a few people who were involved with Alec acted.
 
-[bombsfall wrote a very detailed account](https://medium.com/@bombsfall/alec-2618dc1e23e) of his time with Alec, and a few portions of it really stuck with me:
+[bombsfall wrote a detailed account](https://medium.com/@bombsfall/alec-2618dc1e23e) of his time with Alec and a few portions of it were interesting:
 
 {{< figure src="https://i.imgur.com/0VLHzQf.png" >}}
 
@@ -286,7 +290,7 @@ Anyone who guilt trips often and portrays themselves as victims repeatedly shoul
 
 ### NFTs & crypto
 
-I've already spoken quite a lot about NFTs and crypto in other posts, but there are 3 specific ways in which agreeableness plays on people's dislike of the space.
+I've already spoken quite a lot about NFTs and crypto in other posts, but there are three specific ways in which agreeableness plays on people's dislike of the space.
 
 The first is that as mentioned previously, the highly agreeable dislike trading games, and the space is fundamentally about making everything tradeable. So it's no real surprise that people who think that
 people should be able to make a living without monetizing their skills won't like the concept of NFTs, even if it makes it easier for them to make a living off their art.
@@ -303,21 +307,20 @@ Whereas the highly agreeable can't as easily ignore scams happening around them,
 is full of scams left and right then they will naturally feel like the field is full of predators who need to be destroyed, which in a way it is, but in other ways it isn't.
 
 Which brings us to the third way, which is that because crypto is a field that's so risky, it's more friendly towards the highly disagreeable, and essentially that makes it more friendly towards people who want to take risks,
-who want to be able to win and lose, who want to be responsible, who like competition, and all the attributes that come with low levels of agreeableness (including the scams). This is also why until some fundamental issues are solved
-it's going to be a field that attracts men more than women, since men are more disagreeable than women, and there's also this:
+who want to be able to win and lose, who want to be responsible, who like competition, and all the attributes that come with low levels of agreeableness (including the scams).
 
-{{< figure src="https://i.imgur.com/4edIsCz.png" >}}
+This is also why until some fundamental issues are solved it's going to be a field that attracts men more than women, since men are more disagreeable than women.
+But because it's such a disagreeable field it also creates these [nice situations](https://twitter.com/foldfinance/status/1491615483002429442) full of healthy competition, which is what male environments generally have a
+good deal of:
 
-Which, if true, would be neatly explained by differences in disagreeableness between races in America, which I don't know if exist or not and I haven't researched it. But if these differences exist then, as mentioned previously,
-even a small difference in disagreeableness at the averages will result in oversized effects at the extremes, which would explain the higher rates of crypto usage but also higher rates of incarceration. Again, I don't know if these
-differences actually exist, so this is pretty speculative.
+{{< figure src="https://i.imgur.com/lkYLh09.png" >}}
 
 Either way, crypto and NFTs really are an interesting case where quite a lot of things aligned poorly (like chip shortages) and made pretty much everyone hate them, but it's also an interesting case study for these types of AoE
-psychological tools since people display quite a lot of irrational behavior which can only be reasonably explained by essentially biology, which is what this model does.
+psychological tools since people display quite a lot of irrational behavior which can only be reasonably explained by biology, which is what these personality models do.
 
 ### Difficulty and accessibility
 
-The last example I have is about discussions around difficulty and accessibility in games. This is purely a discussion about agreeableness, even though no one involved in these discussions looks at it this way. For instance:
+The last example I have is about discussions around difficulty and accessibility in games. This is purely a discussion about agreeableness, even though no one involved in them looks at it this way. For instance:
 
 {{< figure src="https://i.imgur.com/SGmTUhA.png" >}}
 
@@ -327,32 +330,36 @@ And it's wrong because it fails to account for people's personalities.
 
 To understand this, we can look at how FromSoft came to prominence with Dark Souls. Back when DS was released they decided to market it as a hard game for hardcore gamers because back then indie games were not a super huge thing yet,
 and AAA games were very handholdy and easy, they still are today, but were even more so back then. It's reasonable as a big company to want to include as many people as possible in your games, and thus make them very handholdy and easy.
-The problem is that this excludes two fairly big personality types, which are the highly conscientious and the highly disagreeable. Both of these groups, which are a fairly big portion of gamers (remember all of these traits follow a normal distribution) are interested in pursuing actions of high value. The conscientious will prefer such actions that are grindy, while the disagreeble will prefer such actions that are competitive, but both share the same core, which
+
+The problem is that this excludes two fairly big personality types, which are the highly conscientious and the highly disagreeable. Both of these groups are interested in pursuing actions of high value. The conscientious will prefer such actions that are grindy, while the disagreeble will prefer such actions that are competitive, but both share the same core, which
 is what they want to achieve things that other people find difficult to do.
 
 This is how these personalities work and it makes sense that they'd have evolved this way, as this goes back to the men thing where men will be more likely to be extreme on various traits. Well, in this case, there are many men
-who will pour their every being into a hard task simply because it's hard, and it doesn't really matter what it is, as long as other people can't achieve it easily. This is because this increases their status, and that increases
-the chances they'll have sex. Yes, beating Dark Souls will probably not increase your chances of having sex but what I mean is that that's just how people are wired.
+who will pour their entire being into a hard task simply because it's hard, and it doesn't really matter what it is, as long as other people can't achieve it easily.
 
-So when all AAA games are easy and indie games aren't really a thing yet, a company like FromSoft can market their game to this forgotten personality type and because their games were well done they had a lot of success with
-that strategy.
+This increases their status, and that increases the chances they'll have sex. Now, beating Dark Souls will probably not increase your chances of having sex but what I mean is that that's just how people are wired.
+
+So when all AAA games are easy and indie games aren't really a thing yet, a company like FromSoft can market their game to this forgotten personality type and because their games were well done they will have a lot of success with
+such strategy.
 
 So to go back to the tweet above, the fundamental reason why people care about easy modes in games is that easy modes decrease the value of the action they care about achieving. If beating a hard game is a high value action,
-adding an easy mode to it immediately decreases its value, and thus makes it less attractive to this personality type. It doesn't matter if the game is single player, because it's about how many people can achieve the given task, and
+adding an easy mode to it immediately decreases its value, and thus makes it less attractive to this personality type.
+
+It doesn't matter if the game is single player, because it's about how many people can achieve the given task, and
 not about how each person plays the game. Even Steam understands this, as achievements that are achieved by a low percentage of players glow a little more:
 
 {{< figure src="https://i.imgur.com/aejmi4k.png" >}}
 
 All discussions around this issue are of a very pure form where it's just two sides talking past each other because they're essentially arguing that they want games to be made to appeal to their biological traits
 better. In my opinion it's clear that the "all games should have easy modes" crowd is wrong, but at the same time if somehow every developer (including indies) came to believe this, it would just create an opening like the one
-FromSoft had, and so it would literally be a case of the invisible hand of the market solving the issue.
+FromSoft had, and so it would be a case of the invisible hand of the market eventually solving the issue.
 
---- 
+## END
 
 So yea, that's all I wanted to say about this. If you're highly agreeable hopefully you learned something about yourself from this post, and otherwise hopefully you learned that things are more complicated than
 "if everyone was more compassionate the world would be a better place!".
 
 If things were this easy humanity would have solved most of its problems long ago, and just because we live in an age of somewhat high technological progress
-we shouldn't assume that we have magically solved the problems of the human spirit.
+we shouldn't assume that we have magically solved the problems of the human spirit, because we haven't.
 
 [Subscribe to my newsletter](https://buttondown.email/a327ex) if you want to get posts like this one in your inbox.

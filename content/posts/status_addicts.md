@@ -1,5 +1,5 @@
 +++
-title = "Status Addicts"
+title = "Status addicts"
 tags = [
     "indiedev",
     "psychology",
