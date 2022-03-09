@@ -8,12 +8,12 @@ images = ["https://i.imgur.com/AKSEJnM.png"]
 +++
 
 I've played [Super People's closed beta](https://store.steampowered.com/app/1190340/SUPER_PEOPLE/) for about 300 hours for the past month or so. I have a pretty good understanding of the game by now and I managed to reach a good rank 
-(~#40 global, although if the game was properly populated I'd probably barely be able to reach top 500 at most, since I'm not *that* good). The point being that everything I'll say comes from a place of good and fair experience.
+(~#40 global, although if the game was properly populated I'd barely be able to reach top 500 at most, since I'm not *that* good). The point being that everything I'll say comes from a place of good and fair experience.
 
 {{< figure src="https://i.imgur.com/5Aj6pfB.png" >}}
 
-The main reason for writing this post is that Super People has a few interesting design problems that tie in with issues I've been thinking about recently relating to openness, conscientiousness, roguelites and MMOs, so
-I thought it'd be worth writing it down.
+The main reason for writing this post is that Super People has a few interesting design problems that tie in with issues I've been thinking about recently relating to [openness](https://en.wikipedia.org/wiki/Openness_to_experience)
+and [conscientiousness](https://en.wikipedia.org/wiki/Conscientiousness) and how they tie in with game design so I thought it'd be worth writing it down.
 
 ## Overview
 
@@ -27,7 +27,7 @@ Surprisingly, I also never felt that way about other players, because it could e
 never felt unfair, so whatever the devs are doing with their netcode is really good.
 
 In any case, the main difference SP has to PUBG is that SP has some heavier RPG elements, namely classes (with ults), passives, and gear upgrading.
-Most of the problems the game has happen here, and I'll go over 2 of these problems in some detail. But before that, some overview of the game's
+Most of the problems the game has happen here, and I'll go over them in some detail as well as how I'd change them to make the game better. But before that, some overview of the game's
 
 ### Classes
 
@@ -162,7 +162,7 @@ without running out of it, but you can't spend the 500 without running out event
 adds even more variety to everything.
 
 The fact that the game has so much inherent variety to it is an important point to understand that I'll focus on more later, but I went through the trouble of describing many of the ways in which this happens so that anyone who
-hasn't played the game can have an idea of how thoroughly the devs changed the game as compared to PUBG or even the more wacky random BRs like Fortnite.
+hasn't played the game can have an idea of how thoroughly the devs changed the game when compared to PUBG or even the more wacky random BRs like Fortnite.
 
 ### Levelling
 
@@ -202,14 +202,13 @@ As for conscientiousness, it's about process orientation, predictability, organi
 
 {{< figure src="https://i.imgur.com/rb7BDDD.png" >}}
 
-Conscientiousness subdivides into orderliness and industriousness, and so generally all games that are simulating industry are going to appeal to those traits a lot.
-
-As an example of a very low openness but medium/high conscientiousness type game we can look at this:
+Conscientiousness subdivides into orderliness and industriousness, and so generally all games that are simulating industry are going to appeal to those traits a lot. As an example of a very low openness but medium/high
+conscientiousness type game we can look at this:
 
 {{< figure src="https://i.imgur.com/J4SYAbJ.png" >}}
 
 This is your average MMO. You have your NPCs, quests, quest markers, some games have autopathing to where you have to go do your quests... It's very on rails and exploration-free, but also very relaxing for someone who just wants
-to sit down and spend some time doing something fairly mindless. And it also tends to be fairly grindy, which appeal to the industrious nature of the highly conscientious.
+to sit down and spend some time doing something fairly mindless. And it also tends to be fairly grindy, which appeals to the industrious nature of the highly conscientious.
 
 You can even look at my game for instance:
 
@@ -218,16 +217,16 @@ You can even look at my game for instance:
 The auto chess formula where you have to combine different units to gain bonuses and also take care of your economy has a good mix of both traits in it. Finding out about new classes, new builds and combos, etc, appeals to the
 highly open, whereas building an economy, figuring out when to spend vs. when to save appeals to the highly conscientious.
 
-In general any time you have accumulation of resources you're appealing more to the more conscientious because that's just what they enjoy. The reason they like grinding in MMOs, or why they like gacha games, and so on,
-comes from this same place of accumulating resources over time. Many people are highly motivated by this particular aspect in games.
+In general any time you have accumulation of resources you're appealing to the more conscientious because that's something they really enjoy. This is one of the reasons why they like grinding in MMOs, or gacha games,
+or ARPGs and so on.
 
-It's also very clear that this is the case with roguelites, for which there's a big divide from a high level design perspective: "pure" roguelites and roguelites with progress between runs. The pure ones appeal more to the highly
-open, whereas the ones with progress in between runs appeal more to the highly conscientious. This also explains why most gamedevs prefer the pure roguelites, since gamedevs tend to be higher in openness (as that's what's necessary
+This is also very visible with roguelites, for which there's a big divide from a high level design perspective of "pure" roguelites vs. roguelites with cumulative progress between runs. The pure ones appeal more to the highly
+open, whereas the ones with cumulative progress appeal more to the highly conscientious. This also explains why most gamedevs prefer the pure ones, as gamedevs tend to be higher in openness (since that's what's needed
 to be a creative person).
 
-The solution that devs settled on was to keep each run relatively pure, but to have unlocks between runs that get added to the pool of items added. This appeals to the conscientious nature in people since they are "building" something
-in between runs, but without actually letting power leak into them. This is an example of a good solution that is harmonius for all personality types, even though the games with actual progress between runs (like say Hades) will appeal
-more strongly to the highly conscientious.
+The solution that most devs settled on that felt less wrong was to keep each run relatively pure, but to have unlocks between runs that get added to some pool of items. This appeals to the conscientious nature in people since they
+are "building" something in between runs, but without actually letting power leak into each run, thus keeping them pure. This is an example of a good solution that is harmonious for all personality types, even though the games with
+actual progress between runs (like say Hades) will appeal more strongly to the highly conscientious.
 
 And this is also without taking into account that a roguelite by itself is a highly open type of game since it's all about exploration and variety and so on. For a roguelite that goes very hard on appeal to the highly open
 we can look at Noita:
@@ -237,20 +236,21 @@ we can look at Noita:
 I've played Noita very briefly so correct me if I'm wrong. But as far as I understand it in Noita there's no progression nor unlocks between runs. It's the purest type of roguelite you can get. But it also happens that there's quite
 a lot of exploration you can do in any given run, to the point where most Noita threads I see are all about discussing lore and the mysteries the game has rather than the gameplay.
 
-This is something that also appeals to the highly open because openness subdivides into two rough categories: openness and intellect. Intellect largely maps to what I've talking about so far, the need for variety, combining
-existing things into new ones, and so on. Whereas openness maps more to affinity towards aesthetics, art, and the more softer and spiritual types of things you would attach to "openness to experience". In games, this softer
-type of openness maps more to an interest in lore, mysteries, story, fantasy, etc. So Noita is a game that fully appeals really well to both types, while not appealing at all to the highly conscientious.
+This is something that also appeals to the highly open because openness subdivides into two rough categories: openness and intellect. Intellect largely maps to what I've talking about so far, the need for exploration, variety,
+combining existing things into new ones, and so on. Whereas openness maps more to affinity towards aesthetics, art, and the more softer and spiritual types of things you would attach to "openness to experience". In games, this softer
+type of openness maps more to an interest in lore, mysteries, story, fantasy, etc. So Noita is a game that fully appeals really well to both subtypes of openness, while not appealing at all to the highly conscientious.
 
 This is one of the reasons why I think despite being a great game, it has about 40k reviews, compared to the 120k+ that most of the other great roguelites of similar quality have. Because the game is designed to appeal
-only to one personality type its potential audience is lower, and thus despite being a really popular game and having the potential to be one of the really big ones, it fails to get there. This isn't to say that this is a big thing,
-of course, but just to highlight the importance of looking at these high level designs from a personality perspective.
+only to one personality type its potential audience is lower, and thus despite being a really popular game and having the potential to be one of the really big ones, it fails to get there. This isn't to say that this is a bad thing,
+of course, but just to highlight how important it might be to look at high level design decisions from a personality perspective, since they can help you place your game more correctly with respect to the kinds of audiences you
+want playing it.
 
 For another game that has a good combination of appeal to the open and the conscientious we can look at the recently released Elden Ring. Especially, this video which somehow made its way to my feeds:
 
 {{< youtube 4HF9lYsLQN4 >}}
 
 Here Asmongold is essentially complaining that he isn't highly open enough to deal with the game's exploration requirements, which makes sense, since he's an MMO player. AFAIK he's still playing the game but this is a very good
-example of how these traits manifest in individuals. Notice that he has a hard time explaining exactly why he doesn't like that aspect of the game because people generally don't have the concept of "openness" in their heads.
+example of how these traits manifest in individuals. Notice that he has a hard time explaining exactly why he doesn't like that aspect of the game, since people generally don't have the concept of "openness" in their heads.
 
 And of course, this discussion surrounding Elden Ring's general lack of direction also creates images such as:
 
@@ -258,18 +258,18 @@ And of course, this discussion surrounding Elden Ring's general lack of directio
 
 People inherently understand that this is wrong, despite plenty of games being EXACTLY like this, because they can intuitively sense that Elden Ring is properly designed and doesn't really need any of the UI markers.
 However it's also important to understand that the people who are asking for more direction in a game like Elden Ring aren't necessarily wrong, they just have a different personality. It's fine if the game doesn't cater
-to their particular personality type, but it's important as a developer to understand that they aren't *wrong*.
+to their particular personality type, but it's important as a developer to understand that they aren't *objectively wrong*.
 
 In any case, you can even see this division even when people look at what went wrong with matchmaking systems over the past decade+:
 
 {{< figure src="https://i.imgur.com/6jU01CR.png" >}}
 
 Here the "wacky gamer" is someone more open, they like exploration, variety and borderlessness. Whereas the "stoner zone" is someone fairly low in openness (not necessarily high in conscientiousness) who just wants to do the same
-thing over and over and relax. This would be the equivalent to Asmongold and MMO players in general too. Finally the "hardcore gamer" is someone low in agreeableness and high in conscientiousness, and that mix tends to end up
+thing over and over and relax. This would be the equivalent to Asmongold and MMO players in general. Finally the "hardcore gamer" is someone low in agreeableness and high in conscientiousness, and that mix tends to end up
 being highly competitive.
 
 All of these examples to say that this divide exists in people and it's clearly visible via different game mechanics and who they end up appealing to. But the most important thing of all is that if you're designing a game you
-want to create your mechanics such that they appeal to both personality types in a harmonious way.
+want to create your mechanics such that they appeal to all personality types in a harmonious way.
 
 The big five personality index is a good tool for AoE behavioral analysis, that is, understanding how groups of people behave. But it's also a very high level and low resolution tool. You could think of the biological behavior of 
 groups of people as the highest level of analysis possible, and then the assembly code that runs on the computer as the lowest level possible.
@@ -277,33 +277,31 @@ groups of people as the highest level of analysis possible, and then the assembl
 To make a good game, you want all levels of analysis, from the highest to lowest, to be harmonious. Any feature you add into the game should make sense from a personality perspective, from a general game design perspective (is it fun),
 from an actual implementation perspective (does it feel good to play), it should work well with other mechanics, and it should also run properly at 60fps and without bugs.
 
-People can intuitively tell when a game comes together at all those levels, and they can also intuitively tell when it doesn't. And so you want your games to come together in this way...
-
-And now, finally, after all this I can talk about what I wanted to talk about in this post all along, which is
+People can intuitively tell when a game comes together at all those levels, and they can also intuitively tell when it doesn't. And so you want your games to come together in this way... Which brings me to
 
 ## Super People's design
 
 As I just mentioned, you want all aspects in your game to align, and the highest level of analysis you can start with, that also happens to be the lowest effort to change generally, is with personality traits.
 
-In a BR we can see that the base game itself is competitive in nature, and so by default it's something that's going to appeal to the a lot to the highly disagreeable and somewhat to the highly conscientious.
+In a battle royale we can see that the base game itself is competitive in nature, and so by default it's something that's going to appeal to the a lot to the highly disagreeable and somewhat to the highly conscientious.
 But because the game emulates such a fundamental set of actions, which is what both animals and humans have evolved to do - you know, hunting, being hunted, finding food/resources, and all that wrapped up in a higher order
 goal/plan (not dying to the circle and winning) - we can say that this is a very neutral and pure type of game from a personality perspective, meaning, it's going to make use of all your traits equally and none of them are
-going to be too favored over another, which helps explain the popularity of the genre, since this means it'll naturally appeal to everyone.
+going to be too favored over another, which helps explain the popularity of the genre, since it just naturally appeals to everyone.
 
-Knowing this, we can start looking at other elements individually:
+Knowing this, we can start looking at other elements in SP individually:
 
 ### Classes and class selection
 
-By definition the addition of classes adds variety to the game, which favors the highly open. Even if all you do is play with a single class, you still need to learn how to play against the other 11 ones and learn the intricacies
-of each match up, which simply requires more cognitive power, which is something the highly open enjoy.
+By definition the addition of classes adds variety to the game, which favors the highly open. Even if all you do is play with a single class, you still need to learn how to play against the other 11 and learn the intricacies
+of each match up.
 
 The way class selection currently works in SP doubles down on this, since you can't reliably choose one class to play at all times. This IMO is an even bigger push towards openness than the addition of classes, since here you
 start messing with how people learn. There's this meme about breadth-first vs. depth-first learning:
 
 {{< figure src="https://i.imgur.com/frQjOMf.png" >}}
 
-Which is nothing more than the distinction between high openness and high conscientiousness. The highly open will be breadth-first learners, since they like variety and exploration more, whereas the highly conscientious will be
-depth-first learners because they are more process oriented and bordered and so on. This of course doesn't apply only to learning, but to thinking, doing, etc.
+Which is nothing more than the distinction between openness and conscientiousness. The highly open will be mostly breadth-first learners, since they like variety and exploration more, whereas the highly conscientious will be
+mostly depth-first learners because they are more process oriented and bordered and so on. This of course doesn't apply only to learning, but to thinking, doing, etc.
 
 For instance, I'm very obviously highly open, and you can tell from the way I write my articles alone. Despite this article being laid out linearly, it's clearly a very circular type of post. I'm pulling out lots of examples
 and circling around a point, and then once enough examples have been given I can very easily make the point, as once you've seen enough instances of it it's obvious what binds everything together. And then this point gets repeated
@@ -312,15 +310,17 @@ further because now it's a part of a knowledge structure and so you can start us
 This way of thinking is very common and it's also very common for people who aren't highly open to generally reject it. There are many people who can't follow arguments of this type and when they encounter someone doing it
 they will say things like "why is that guy so rambly, why does he take so long to make his point".
 
-When it comes to games this also matters, as is the case for Super People. If people are forced to play random classes instead of classes they want to play then as a designer you're favoring the highly open
-at the cost of the highly conscientious. In genres like roguelites this may be desirable, since roguelites are by default an open genre, but for something like a BR which is pure (and which also needs tons of players to work)
-you're probably better served not forcing your hand either way.
+When it comes to games this also matters, as if people are forced to play random classes instead of classes they want to play then as a designer you're favoring the highly open
+at the cost of everyone else. In genres like roguelites this may be desirable, since roguelites are by default an open genre, but for something like a BR which is neutral (and which also needs tons of players to work)
+you're probably better served not forcing your hand too much either way.
 
-People want to be able to play a single class, get really good at it, learn how to play against other classes, and only then start venturing out into other classes. It's just how a good portion of the population
-approaches things and there's nothing that can be done to change this. So the solution for SP here is simple: let people choose their class. If as a designer you want to encourage variety then also add a button that lets people
-play a random class and give out a gold reward (gold doesn't change gameplay in any way) for anyone who chooses this option, but that's about as far as I'd go.
+People want to be able to play a single class, learn how to play against other classes, get really good at it, and only then start venturing out into playing other classes. It's just how a good portion of the population
+approaches things and there's nothing that can be done to change this.
 
-The game already adds classes, which adds lots of variety to an otherwise pure genre, so you don't want to double down on it and force even more variety on people without really good reason.
+So the solution for SP here is simple: let people choose their class freely. If as a designer you want to encourage variety then also add a button that lets people
+play a random class and give out a gold reward for anyone who chooses this option, for instance.
+
+The game already adds classes, which adds lots of variety to an otherwise pure genre, so you don't want to double down on it and force even more variety on people without really good reasons.
 
 ### Levelling + passives
 
@@ -331,8 +331,7 @@ ratios for different stats for each class.
 This is something SP already has, like, for instance, generally melee oriented classes have a higher HP pool and/or defense. But this levelling system also plays well with the passive system, since it also lets you give out
 one passive per level randomly, which adds some variety to how each game goes since you can't rely on having specific passives early on.
 
-Overall I wouldn't change anything about this system. Its changes to the BR formula are very inoffensive but also necessary.
-One thing that some people really don't like about SP is that it has a higher TTK (time to kill than most BRs, certainly higher than PUBG. But this, again, is a necessary change due to the addition of classes.
+As an aside, one thing that some people really don't like about SP is that it has a higher TTK (time to kill) than most BRs, certainly higher than PUBG. But this, again, is a necessary change due to the addition of classes.
 If everyone has passives and ults and whatnot, it would feel really bad if you got instantly killed without having even a chance to defend yourself using your abilities, so the higher TTK fixes this problem.
 
 Overall I wouldn't change anything about the levelling and passive systems, as they feel like inoffensive and necessary changes to the BR formula and they're also integrated into the game well enough to be harmonious.
@@ -364,7 +363,7 @@ If you have no goal/plan and you're just wandering around aimlessly you're going
 it, since you had no plan to look back on and go "which part of the plan went wrong".
 
 So the argument that could be made here is that adding material markers gives people some small amount of direction so that they aren't wandering as aimlessly. But this feels like a weak argument because now that they were given
-this tool that allows them to not think, they'll be even more aimlessly and will just follow the material markers without further planning. So in the end it also doesn't help.
+this tool that allows them to not think, they'll be even more aimless and will just follow the material markers without any planning. So in the end it also doesn't help.
 
 Overall my solution for this system is to remove it completely. Gear should be found across the world randomly at various levels. So you find Lv.1 armor or Lv.4 armor randomly like you can now, and you can't really know for sure
 that if you just grind out the materials you'll be able to have a full Lv.5 set of gear.
@@ -379,11 +378,11 @@ summon a normal vehicle at level 1. So, if you look at a map of the game:
 {{< figure src="https://superpeoplewiki.com/assets/img/maps/orbisland.jpeg" >}}
 
 One thing you notice is that like most BRs, there are "urban" and "rural" areas. Urban areas have higher loot density, whereas rural ones have lower. The driver class enables a player to drop in rural areas only and move between
-them quickly, since he has a car from level 1, which means that he can loot at the same speed (or faster) than someone in an urban area, with way lower risk, since most people drop in urban areas rather than rural ones.
+them quickly, since it has a car from level 1, which means that it can loot at the same speed (or faster) than someone in an urban area, with way lower risk, since most people drop in urban areas rather than rural ones.
 So removing material grind from the game makes the driver more OP because he simply can cover more ground and find more impactful loot (rather than materials) without having to worry about fighting other players as much.
 
 There are many possible ways to fix this, like increasing loot quality in urban areas, but this unintentionally buffs classes that benefit from being in urban areas, like the SWAT. You can also just directly nerf the driver,
-but I personally would just make a chance like this and then wait and see. Currently the most problematic class in the game is the shotgun master, so it probably makes sense to do things to buff other classes instead and see
+but I personally would just make a change like this and then wait and see. Currently the most problematic class in the game is the shotgun master, so it probably makes sense to do things to buff other classes instead and see
 how people react to the changes.
 
 So overall, remove all gear grind and materials, and let people find items purely randomly.
@@ -399,20 +398,20 @@ and then when you open the box in-game those items will be there:
 {{< figure src="https://i.imgur.com/BoNFfFR.png" >}}
 
 This makes sense if you want to add some predictability to any given round, like, for instance, if you're playing the marine class, it gets a 20% damage buff when your weapons are using silencers. But silencers are somewhat
-rare to find because they're arguably the best attachment in the game, so to get around the fact that you're probably not going to find them you can add them to your personal supply. Similarly, if your specialized weapon is the X401
+rare to find because they're arguably the best attachment in the game, so to get around the fact that you're probably not going to find them you can add them to your personal supply. Similarly, if your specialized weapon is the X40A1
 sniper rifle, it's way better to use it with an extended magazine, except that the one it needs is one specific for snipers which is also hard to find, so it makes sense to add it to the personal supply.
 
-Another example are shotgun masters, who absolutely need their super jump, which is a blue ability rather than their ult. Being a blue ability it can happen that by the time the personal supply drops you still don't have it, and
-since you absolutely need it to play the class properly, since it's functionally your ult, it makes sense to add multiple blue capsules to the personal supply.
+Another example are shotgun masters, who absolutely need their super jump, which is a blue passive/ability rather than their ult. Being a blue passive/ability it can happen that by the time the personal supply drops you still don't
+have it since passives are given out randomly, and since you absolutely need it to play the class properly, as it's functionally your ult, it makes sense to add multiple blue capsules to the personal supply.
 
 Essentially this system is a way of adding some consistency and predictability to the game. The more items you add the more gold it costs to open the box, so currently it's not something you can do every single round,
 but it still works well enough for the purpose its supposed to serve. This is a system that I wouldn't really change.
 
 ### Armory
 
-Finally, the armory system. With this you can craft specific weapons that deal less damage than normal but have special effects by collecting blueprints. These blueprints can be found in the map and they're also dropped whenever
-a player dies. This is IMO the weirdest system that the game has. It's definitely a grind and also adds some predictability to your matches, so it definitely appeals to the conscientious side, but the fact that the special effects
-crafted weapons get are chosen randomly makes it somewhat unharmonious.
+Finally, the armory system. With this you can craft specific weapons that deal less damage than normal but have special effects. You can craft these weapons with blueprints that can be found in-game, either as random loot or when
+they drop from when a player dies. This is IMO the weirdest system that the game has. It's definitely a grind and also adds some predictability to your matches, so it definitely appeals to the conscientious side, but the fact that
+the special effects crafted weapons get are chosen randomly makes it somewhat unharmonious.
 
 {{< figure src="https://i.imgur.com/BjCAZpy.jpeg" >}}
 
@@ -420,18 +419,18 @@ If you look at the image above you can see a mythical M416S, which is the highes
 or impactful at all. That, coupled with the fact that they're random, makes this system really kind of lame.
 
 I would change this so that weapon effects are both way more impactful and also not random. So if you craft a mythical weapon you can choose maybe 3 effects, and they'll be things like +25% headshot damage or something, and not -4%
-enemy accuracy if you shoot his legs. This makes the game more unfair, in that a player with a Lv.500 account who has crafted the best weapons will always do better than a player with a Lv.1 account who hasn't done anything, but it's
-the kind of price you have to pay to appeal to people who enjoy building out their accounts over time.
+enemy accuracy if you shoot the enemy's legs. This makes the game more unfair, in that a player with a Lv.500 account who has crafted the best weapons will always do better than a player with a Lv.1 account who's on their first match,
+but it's the kind of price you have to pay to appeal to people who enjoy building out their accounts over time.
 
 ## Summary
 
-So to summarize, here's a comparison of what the systems looked like and what they'd look like with changes:
+So to summarize, here's what the game's system currently look like:
 
-* Classes: they add variety to the game (+open)
+* Classes: adds variety to the game (+open)
 * Class selection: random class selection adds even more variety (+open)
-* Levelling + passives: adds a bit of predictability and grinding but passives are given randomly (neutral)
+* Levelling + passives: predictability and grinding, but passives are random (neutral)
 * Gear grinding: adds quite a lot of grinding to each round (+cons)
-* Personal supply: adds a lot of predictability to each round (+cons)
+* Personal supply: adds some predictability to each round (+cons)
 * Armory: adds some predictability and grind, but weapon effects are random (neutral)
 
 And so if we look at this we have a game that's roughly neutral on the whole, with some additions favoring the highly open, some favoring the highly conscientious, and some pulling both ways and ending up neutral.
@@ -459,8 +458,13 @@ But with SP because each round length is fairly fixed and small, you have to go 
 In this case, class selection, personal supply and armory are all systems that happen outside any given match but that add predictability to it.
 
 The armory system is the only one that you can effectively be grinded, so there's still room for an additional system that lets the conscientious feel like they're working towards something/accumulating something over multiple rounds.
-Technically there already are systems which somewhat fit this, the first being the game's ranking system (normal MMR stuff) and then gold as a currency. But these feel somewhat weak, so I'm not sure about it.
+Technically there already are systems which somewhat fit this, the first being the game's ranking system (normal MMR stuff) and then gold as a currency. But these feel somewhat weak, so I'd add yet another grindy system that feels
+more compelling. What it would be exactly though kind of beats me, I'm not feeling like too much of an ideaguy as I write this...
 
 Either way, that's all I wanted to say about this game's design. At all other levels of analysis this game is designed properly. Animations, shooting, driving, map design, netcode, class design, etc, everything is implemented properly
-and it's hard for the find flaws with any of it. The biggest flaws are definitely in all this high level stuff that's more subtle to reason about and it would be sad to see this game not get the popularity it deserves due to mistakes
-here. Great game otherwise, I'll probably end up playing it for 1000+ hours if it doesn't die too quickly after release.
+and it's hard for the find flaws with any of it. The biggest flaws are definitely in all this high level stuff that's softer and more subtle to reason about, and it would be sad to see this game not get the popularity it deserves due
+to easily correctible mistakes here.
+
+Devs will 100% not read this but still feels like a good exercise to write it all out anyway. Great game, I'll probably end up playing it for a few thousand hours if it doesn't die too quickly after release.
+
+[Subscribe to my newsletter](https://buttondown.email/a327ex) if you want to get posts like this one in your inbox.
