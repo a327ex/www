@@ -12,8 +12,7 @@ I've played [Super People's closed beta](https://store.steampowered.com/app/1190
 
 {{< figure src="https://i.imgur.com/5Aj6pfB.png" >}}
 
-The main reason for writing this post is that Super People has a few interesting design problems that tie in with issues I've been thinking about recently relating to [openness](https://en.wikipedia.org/wiki/Openness_to_experience)
-and [conscientiousness](https://en.wikipedia.org/wiki/Conscientiousness) and how they tie in with game design so I thought it'd be worth writing it down.
+The main reason for writing this post is that Super People has a few interesting design problems that tie in with issues I've been thinking about recently relating to [openness](https://en.wikipedia.org/wiki/Openness_to_experience), [conscientiousness](https://en.wikipedia.org/wiki/Conscientiousness) and game design so I thought it'd be worth writing it down.
 
 ## Overview
 
