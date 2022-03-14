@@ -12,9 +12,9 @@ This past weekend Super People's devs ran a [test session](https://store.steampo
 {{< youtube 4HY6zKYKALc >}}
 
 In my [previous post](https://www.a327ex.com/posts/super_people_design_review/) I went over the game's design and outlined a few things I'd change to likely improve player counts, and they were mostly focused around
-removing conscientiousness-oriented mechanics from the game itself, and adding them to the metagame that happens between rounds instead.
+removing conscientiousness-oriented mechanics from the game itself and adding them to the metagame that happens between rounds instead.
 
-The devs ended up removing crafting, which is good, but they also decreased the game's TTK. I initially thought higher TTK was a good thing because:
+The devs ended up removing crafting, which is good, but they also decreased the game's TTK. I initially thought higher TTK was a good thing:
 
 >As an aside, one thing that some people really don’t like about SP is that it has a higher TTK (time to kill) than most BRs, certainly higher than PUBG. But this, again, is a necessary change due to the addition of classes.
 If everyone has passives and ults and whatnot, it would feel really bad if you got instantly killed without having even a chance to defend yourself using your abilities, so the higher TTK fixes this problem.
@@ -29,12 +29,12 @@ getting 10+ kills every match, especially the shotgun masters which rely on this
 With lower TTK this changed pretty dramatically. Quite a few players who I know are really good and who used to terrorize me are now forced to play less aggressively because they can't get away with as much as before,
 and thus what happened is that they would make it to the final circles less often and with less kills than before.
 
-This is a pretty good instance of a well known effect in game design which has been described here:
+This is a pretty good instance of how luck affects a game's design, an effect which has been described here:
 
 {{< youtubestartend dSg408i-eKw 1548 >}}
 
-In a battle royale, with 60 players, what ends up happening is that people of all skill levels are matched together, and if the BR rewards skill too much then only the more skilled players end up having fun, while everyone else
-just keeps getting killed match after match. You can think of "fun" as a resource that the game generates, and your goal as a designer is to make it so that the [Gini index](https://en.wikipedia.org/wiki/Gini_coefficient) of fun
+In a battle royale, with 60 players, what ends up happening is that people of all skill levels are matched together, and if the game rewards skill too much then only the more skilled players end up having fun, while everyone else
+just keeps getting killed over and over. You can think of "fun" as a resource that the game generates, and your goal as a designer is to make it so that the [Gini coefficient](https://en.wikipedia.org/wiki/Gini_coefficient) of fun
 is not very high. 
 
 You want lesser skilled players to be able to occasionally kill very skilled players, since if that doesn't happen then over time lesser skilled players will leave and you end up with a dwindling population of very skilled players,
@@ -47,17 +47,19 @@ This is what happened to one of my favorite BRs, Battlerite Royale:
 At the end of this video the author mentions that the BR version of Battlerite failed because it was paid, or because they broke their promises to the existing fanbase. This is the same as people saying that Artifact failed
 because of the payment model. It's perhaps the most visible part of the failure, but it's not the actual reason.
 
-Many games have been released with worse payment models or broken promises, but they still managed to succeed. If the actual game is good, *it will succeed*, regardless of whatever is happening around it. So all of these games
+Many games have been released with worse payment models or broken promises, but they still managed to succeed. If the game is actually good, *it will succeed*, regardless of whatever is happening around it. So all of these games
 failed because they weren't good enough, and the way in which they weren't good enough is that they simply didn't cater to new players as much as they should.
 
 The more tasteful way of catering to new players is with randomness, because it's something that skilled players can still work around without it feeling too unfair, and in this case with SP the TTK change perfectly achieves this,
-as it increases the chances that more skilled players will be caught offguard by their lesser peers.
+as it increases the chances that more skilled players will be caught offguard by their lesser peers and thus keeps newer players playing for longer than they otherwise would.
 
-In my previous post I also mentioned that the removal of crafting should be offset by the addition of conscientiousness-oriented mechanics outside the game, namely letting players choose their classes instead of it being random,
-and making the armory more powerful and less random. If I had to focus on only one of them I'd definitely focus on classes not being random, as this is easily the one that will mess up new players the most, but I already
-made the argument for this in that post so I won't repeat it here.
+---
 
-Finally, to end this post, some small adjustments I'd do regarding drop rates. While crafting grind was removed, capsule grind wasn't. Finding capsules is still too grindy/hard and should be easier, especially on earlier levels.
+And now for other changes. In my previous post I also mentioned that the removal of crafting should be offset by the addition of conscientiousness-oriented mechanics outside the game, namely letting players choose their classes
+instead of it being random, and making the armory more powerful and less random. If I had to focus on one of them I'd definitely focus on classes not being random, as this is easily the one that will mess up new players the
+most, but I already made the argument for this in that post so I won't repeat it here.
+
+Finally, some small adjustments I'd do regarding drop rates. While crafting grind was removed, capsule grind wasn't. Finding capsules is still too grindy/hard and should be easier, especially on earlier levels.
 
 Along with this, due to the removal of Lv.1 gear from drops, now it's a lot easier to go without finding armor/helmet for long periods of time. One match I spent like 10 minutes looting without finding neither armor nor helmet and
 only was able to get them after I killed someone. One easy way to solve this is to increase the drop rate for Lv.2 gear/helmet, but another more permanent way that also fixes the capsule issue is to enforce drops for certain items
