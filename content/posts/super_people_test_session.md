@@ -66,9 +66,8 @@ only was able to get them after I killed someone. One easy way to solve this is 
 per location.
 
 You could look at a BR map as a graph. Each location that can spawn items is a node that's connected to neighboring nodes. To ensure that you can't go too long without finding gear/helmet/capsules, you can run some code
-on this graph to ensure that at least one of these items exists every *N* nodes. Or you could divide the graph into clusters and run that same code for each cluster. You could also integrate node distance into this, since for rural
-areas nodes will be fairly spaced out from each other, meaning that you'd need the number *N* or the cluster size to be smaller or larger depending on node density as measured with node distance.
+on this graph to ensure that at least one of these items exists every *N* nodes. Or you could divide the graph into clusters and run the constraint code for each cluster. You could also integrate node distance into this,
+since for rural areas nodes will be fairly spaced out from each other, meaning that you'd need the number *N* or the cluster size to be smaller or larger depending on node density as measured by node distance.
 
-In any case, lower TTK was an interesting and surprising change that I didn't realize was so important for this game, but that now seems obvious. So I wrote this post to ammend the last one.
-
-Overall I'm fairly happy with how this game is going and the devs seem to be on top of things, so hopefully this doesn't end up being another BR that I really like that just dies :sob:
+Some fairly small changes but they were noticeable enough to be worth of a mention. In any case, lower TTK was an interesting and surprising thing that I didn't realize was so important for this game, but that now seems obvious.
+Overall I'm fairly happy with how this game is going and the devs seem to be on top of things, so hopefully it does well once it releases!
