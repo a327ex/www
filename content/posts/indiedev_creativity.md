@@ -18,7 +18,7 @@ Eventually the devs gave in and implemented a full version... that no one ended 
 {{< youtube 5AEFygPyGFU >}}
 
 In this case it didn't work out, but that's how experiments should go. You try out a bunch of stuff and eventually you get somewhere good. The more different the thing you try is, the higher the chances
-that it will take you from a locally optimal solution to a more globally optimal one.
+that it will eventually take you from a locally optimal solution to a more globally optimal one.
 
 {{< figure src="https://i.imgur.com/WyhF2ST.png" >}}
 
