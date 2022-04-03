@@ -4,7 +4,7 @@ tags = [
     "indiedev", "psychology"
 ]
 date = "2022-04-03"
-images = ["https://i.imgur.com/3XTQjMv.jpeg"]
+images = ["https://i.imgur.com/jB1udMG.jpeg"]
 +++
 
 April Fool's Day is a great example of how agreeableness acts as a blocker on creativity.
