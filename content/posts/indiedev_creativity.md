@@ -169,7 +169,9 @@ He couldn't handle it due to apparent mental issues, and then he just disappeare
 
 {{< youtube d_T1StgldnM >}}
 
-There's something really appealing to me about this path. Not the mental issues, but the disappearing. The constant rebuilding from scratch and trying something new again and again. As the anime girl below says:
+There's something really appealing to me about this story and this path. Not the mental issues, but the disappearing. The constant rebuilding from zero and trying something new again and again.
+
+As the anime girl below says:
 
 > Destruction is not the antithesis of creation. Rather, it's the prerequisite, and its ultimatum. We give birth to the new by a self-destructive act.
 
