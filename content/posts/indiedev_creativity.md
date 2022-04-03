@@ -55,8 +55,8 @@ lots of areas that remain largely unconquered, like say RTSs or MMOs for indie p
 
 Creatively, however, indie games have *not* progressed that much. One way to look at this is to consider the types of games that succeed on the technical vs. creative categories.
 
-Most games currently succeed on technical ability. They're games that look good, that are programmed well, that feel good to interact with, and that have lots of attention and effort spent on making sure that these elements
-are executed well. Gamers generally reward games that are produced with a certain standard of quality, and achieving this standard is hard, so this is the safest category to be in.
+Most games currently succeed on technical ability. They're games that look good, that are programmed well, that feel good to interact with, and that have lots of attention, effort and time (generally 3+ years) spent on making sure
+that these elements are executed well. Gamers generally reward games that are produced with a certain standard of quality, and achieving this standard is hard, so this is the safest category to be in.
 
 If you make games that have high technical quality, it's very likely that you will see success. For instance, there doesn't exist a world where a game that looks like [Cuphead](https://store.steampowered.com/app/268910/Cuphead/)
 doesn't see some sizable amount of success. There aren't many games that look good like that, and so it just stands out on its technical quality alone.
