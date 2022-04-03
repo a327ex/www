@@ -27,7 +27,7 @@ If the social cost of experimentation is high, there are only two ways around it
 ## Indiedev creativity
 
 When [Jonathan blow said](https://gamedaily.biz/article/910/casual-connect-indie-development-is-stagnant-says-braid-creator-jonathan-blow?amphtml=1&__twitter_impression=true) that indiedevs didn't progress the medium as much as was
-expected 10+ years ago, he was kinda right and kinda wrong.
+expected 10+ years ago, he was kinda right and kinda wrong:
 
 {{< youtubestartend WKYEJmkIPlo 93 >}}
 
@@ -40,12 +40,16 @@ I'll assume `2` as true because while I am a gameplay maximalist, I somewhat dis
 With that in mind, we should try to see if `1` is true.
 
 Thematically indie games have progressed. While maybe there are [too many indie games being made about depression](https://twitter.com/TheAfroSmash/status/1351989566773878784), overall I think everyone agrees that the
-variety and quality of themes, stories, moods and so on have been consistently increasing. For pretty much every niche topic you could think of there's at least one game - even if it's just a low effort shitpost -
-made about it. Part of this is due to Steam's fairly lax game acceptance policy and overall success as a platform, which has made indie gamedev more viable as a career and thus attracts more developers who will go on to make
+variety and quality of themes, stories, moods and so on have been consistently increasing. 
+
+For pretty much every niche topic you could think of there's at least one game - even if it's just a low effort shitpost - made about it.
+Part of this is due to Steam's fairly lax game acceptance policy and overall success as a platform, which has made indie gamedev more viable as a career and thus attracts more developers who will go on to make
 more games about more subjects.
 
 Technically indie games have also progressed. It's now easier than ever to make games, and increasingly it takes less effort to make something that looks good and runs well on multiple platforms.
-You can also clearly see the group's technical progress. If you look at the quality of technical discourse around indie gamedev (for artists and programmers alike) it has definitely increased, as a result of both more experienced
+You can also clearly see the group's technical progress.
+
+If you look at the quality of technical discourse around indie gamedev (for artists and programmers alike) it has definitely increased, as a result of both more experienced
 developers sharing their advice, but also people just having had more time to converge on better solutions for common problems. This has naturally led to an increase in technical quality for indie games as a whole. There are still
 lots of areas that remain largely unconquered, like say RTSs or MMOs for indie programmers, but eventually those will become easier as well.
 
@@ -60,14 +64,14 @@ doesn't see some sizable amount of success. There aren't many games that look go
 Games that succeed on creativity alone are generally the opposite. They're likely made by amateurs, and thus will have low technical quality. They won't look that good, maybe they won't run that well, maybe they will even be lacking
 on juice, but something about their design will grip people despite all those faults.
 
-By its nature you would expect that successful games in the creative category would exist in lower numbers than successful games in the technical category, which is largely what happens in reality.
-But what you wouldn't expect, if the creative category was being properly explored by indie devs, would be for these successful games to succeed on fairly small creative iterations.
+By its nature you would expect that those games would exist in lower numbers than successful games in the technical category, which is largely what happens in reality.
+But what you wouldn't expect, if the creative category was being properly explored by indie devs, would be for these creatively successful games to succeed on fairly small creative contributions.
 
 What I mean by this is the following: look at a game like Vampire Survivors, or even my own SNKRX. These are games that have succeeded on the creative category - their technical merits are partly dubious, but they're definitely
 addicting. However, their creative contribution is not actually that involved. Both games can be summarized as "auto-attacking + build-making" games, which is just putting two things that already existed together.
 
-It shouldn't be this easy to succeed on creativity after 10+ years of experimentation, if indiedevs had been properly exploring. Which can only mean that they haven't actually been exploring properly.
-What have they been doing instead? Well, the answer to that has to do with
+There's a lot to how exactly you put two things together, but it really shouldn't be this easy to succeed on creativity after 10+ years of experimentation, if indiedevs had been properly exploring the creative dimension properly. 
+Which can only mean that they haven't actually been doing that. What have they been doing instead? Well, the answer to that has to do with
 
 ## Agreeableness
 
@@ -78,7 +82,7 @@ If you care too much about reviews, likes, your reputation, and all the other st
 effect on your creativity. Games that win on creativity tend to come from amateurs because haven't won yet, they have no status to lose, so they will more easily take chances on wild and silly ideas.
 
 The video below explains this argument very well. The main difference is that this guy is talking about geniuses, but for the context of this discussion you can swap "genius" for "creative indiedev", as you don't really need outlier
-high IQ to be make meaningful contributions to indie games (although it probably helps). Everything else he says though applies perfectly:
+high IQ to make meaningful contributions to indie games (although it probably helps). Everything else he says though applies perfectly:
 
 {{< youtubestartend Bf821SFBGcA 548 >}}
 
@@ -91,10 +95,10 @@ As an indiedev you should not care about reviews, likes, your reputation and bas
 you should expose yourself to as many comments around your games as possible, but it means that your emotions have to be neutral.
 
 A negative review shouldn't make you feel sad for a day or multiple days. A positive review shouldn't make you feel happy for a day or multiple days.
-If you feel anything at all, your emotions should be punctual and brief. Other people's opinions should have no real sway over you.
+If you feel anything at all, your emotions should be punctual and brief. Other people's opinions should have no real, long lasting sway over you.
 
 For instance, if someone you kinda like and respect on twitter follows you and that makes you feel really good, it means you should probably turn the retarded schizoposting up to 11 for a while because if they can't handle that 
-it means they'll unfollow you eventually, and better they unfollow now than later. That's the kind of disagreeable instinct you need to have.
+it means they'll unfollow you eventually, and better they unfollow now than later. That's the kind of disagreeable instinct you need to have. Become ungovernable
 
 ### Development time
 
@@ -119,7 +123,8 @@ Similarly, artists are much more likely to feel envious of others. If they see s
 This comes from a place of deep insecurity and from the misguided notion that games are a reflection of their creators. Seeing a cool game makes them think about how uncool their games are, which makes them think about how 
 uncool they are, and so on.
 
-The way to solve this is very simple: don't emotionally attach yourself to your games. 
+The way to solve this is very simple: don't emotionally attach yourself to your games. Again, easier said than done, but you should be aware that this is a bad pattern of behavior if your goal is being more creative.
+
 By achieving this you will naturally be able to experiment more and take more risks because a game failing will not emotionally reflect poorly on you, just like a game succeeding will not emotionally reflect well on you.
 All games, both yours and other people's, will just be the artifacts that they are, and you will be able to look at them in a more truthful way, unclouded by the poor judgement that comes with tying your identity to them.
 
@@ -137,30 +142,38 @@ on the #gamedev tag about the new game you're making, right? So it's fine.
 
 You can also join more disagreeable gamedev communities, such as [AGDG](https://boards.4channel.org/vg/catalog#s=agdg), and start getting more into this mindset. For instance, you might find that the threads have quite a lot of
 low quality posts as it's a fairly unfiltered place. But your ability to be emotionally unbothered by those posts is the exact same ability needed to be emotionally unbothered by negative reviews. So practicing this 
-is a good way to actually become emotionally detached from your games.
+is a good way to actually become more emotionally detached from pixels on your screen.
 
-Similarly, you might find that as you grow your account and release more games (with a low dev duration) that your games are succeeding or not based on their creative qualities above all else. And as some
+Similarly, you might find that as you grow your account and release more games (with low dev duration) that those games are succeeding or not based on their creative qualities above all else. And as some
 of these games may find big successes, maybe even higher than anything you've made before, you'll realize that things like luck and other excuses people use are just not real. Another very disagreeable belief that naturally 
 spirals out into more disagreeable ideas which I covered in previous posts.
 
 Because your games have short dev cycles, you'll also naturally feel less attached to them. If you do things like releasing all their source code + art + maybe even IP on permissive licenses, that will only increase
-the detachment. And with this detachment comes more objective and clearheaded thinking.
+the detachment. 
 
----
+As you experiment more and eventually succeed more you will also gain more confidence in your abilities, which will make you a less insecure person in general. Envy comes from insecurity, so as you become more secure, you
+should also becomes less envious, which feeds back into attaching yourself less to your games, which leads to better decision making, and so on.
 
-As the anime girl below says:
+You can get into a very good and virtuous cycle where you're experimenting more, increasing your creative skills, releasing more and more games, caring less and less about other people's opinions, and eventually you will 
+reach some super enlightened state of creativity and probably become one with the collective unconscious, or something.
+
+## END
+
+There's this japanese indiedev/musician who didn't want his songs to be too well known. He always named them something weird and unsearchable, but eventually they became popular anyway because they were so good.
+He couldn't handle it due to apparent mental issues, and then he just disappeared.
+
+{{< youtube ok7UX3utzvI >}}
+
+{{< youtube C9PFVo1FEwU >}}
+
+{{< youtube d_T1StgldnM >}}
+
+There's something really appealing to me about this path. Not the mental issues, but the disappearing. The constant rebuilding from scratch and trying something new again and again. As the anime girl below says:
 
 > Destruction is not the antithesis of creation. Rather, it's the prerequisite, and its ultimatum. We give birth to the new by a self-destructive act.
 
 {{< figure src="https://i.imgur.com/Q2EtEks.png" >}}
 
-Except for jester days, society is not suddenly going to become more accepting of change and weirdness in general. If you want to properly explore ideas, you must necessarily not care about the social costs attached to doing so.
-Creativity is inexorably linked with low status, weird and unpopular ideas. You shouldn't expect the material rewards of success to come from doing this, but you stand a good chance if you do it properly, as most indiedevs are not
-really serious about exploring the creative dimension.
-
-So force yourself to not care with something like the anonymous dev reset, or just by paying attention to your behavior over time and trying to decrease your agreeable tendencies. I've described quite a lot of agreeable behaviors
-and their downsides [in this post](https://www.a327ex.com/posts/cons_compassion/), so you can read that for some more specific descriptions.
-
-Become more disagreeable, become less focused on status and more focused on truth, and more creativity will follow.
+So start anew, become more disagreeable, become less focused on status and more focused on truth, and more creativity will naturally follow.
 
 [Subscribe to my newsletter](https://buttondown.email/a327ex) if you want to get posts like this one in your inbox.
