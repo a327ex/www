@@ -155,8 +155,11 @@ the detachment.
 As you experiment more and eventually succeed more you will also gain more confidence in your abilities, which will make you a less insecure person in general. Envy comes from insecurity, so as you become more secure, you
 should also becomes less envious, which feeds back into attaching yourself less to your games, which leads to better decision making, and so on.
 
-This way you can get into a very good and virtuous cycle where you're experimenting more, increasing your creative skills, releasing more and more games, caring less and less about other people's opinions, and eventually you will 
-reach an enlightened state of creativity where you become a being of pure light, zeroes and ones flowing in and out of your chakras... You have finally become one with collective unconscious. So what are you waiting for?
+This way you can get into a very good and virtuous cycle where you're experimenting more, increasing your creative skills, releasing more and more games, caring less and less about other people's opinions...
+
+And eventually you will reach an enlightened state of creativity where you become a being of pure light, zeroes and ones flowing in and out of your chakras, visions of a dead and ancient past flashing incessantly, 
+an alien energy enveloping and devouring the earth, constantly sucking out of it a stream of life into itself, into existence, exhausting, poising and destroying it. Life, in every form, cries from mercy from it; 
+in man for freedom from it, yet none can resist its irresistible pull to live and to live again... Ah, yes. You have finally become one with the collective unconscious. So what are you waiting for?
 
 ## END
 
