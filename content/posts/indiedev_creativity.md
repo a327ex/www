@@ -70,8 +70,8 @@ But what you wouldn't expect, if the creative category was being properly explor
 What I mean by this is the following: look at a game like Vampire Survivors, or even my own SNKRX. These are games that have succeeded on the creative category - their technical merits are partly dubious, but they're definitely
 addicting. However, their creative contribution is not actually that involved. Both games can be summarized as "auto-attacking + build-making" games, which is just putting two things that already existed together.
 
-There's a lot to how exactly you put two things together, but it really shouldn't be this easy to succeed on creativity alone after 10+ years of experimentation, if indiedevs had been properly exploring the creative dimension
-properly. You can repeat this exercise for quite a few types of games and find the same results. Which can only mean one thing: indiedevs haven't actually been exploring the creative dimension properly.
+There's a lot to how exactly you put two things together, but it really shouldn't be this easy to succeed on creativity alone after 10+ years of experimentation, if indiedevs had been properly exploring the creative dimension.
+You can repeat this exercise for quite a few types of games and find the same results. Which can only mean one thing: indiedevs haven't actually been exploring the creative dimension properly.
 What have they been doing instead? Well, the answer to that has a lot to do with
 
 ## Agreeableness
