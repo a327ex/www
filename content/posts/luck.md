@@ -11,11 +11,15 @@ images = ["https://i.imgur.com/MCcMQtl.png"]
 Your body and your mind are you and you are them. Your body speaks to you through instinct, your mind speaks to you through reason.
 You feel in control of your mind because reason is weak, you don't feel in control of your body because instinct is strong.
 
-Body -> mind coercion is the default state. Strong ancient instinct is a natural winner, which is why you eat and play more than you should, and exercise and work less than you should.
-Mind -> body coercion is slow and painful. Convincing your body to do something it doesn't want to takes time and effort - new habits have to be built from scratch, old habits have to be resisted and then forgotten.
+Body to mind coercion is the default state. Strong ancient instinct is a natural winner, which is why you eat and play more than you should, and exercise and work less than you should.
 
-The body -> mind -> body coercion loop can happen subtly with the distortion of the lens through which you parse reality. Suppose your body wants to feel like X.
-This will make your mind filter reality through the lens that makes your body feel like X. Ideas that make you feel like X will instinctively seem right, ideas that don't will instinctively seem wrong.
+Mind to body coercion is slow and painful. Convincing your body to do something it doesn't want to takes time and effort - new habits have to be built from scratch, old habits have to be resisted and then forgotten.
+
+Both body to mind and mind to body processes are happening all the time inside you, and sometimes they can also reinforce each other. This loop can also often happen subtly, via the distortion of the lens through 
+which you parse reality.
+
+Suppose your body wants to feel like X. This will make your mind filter reality through the lens that makes your body feel like X. 
+Suddenly ideas that make you feel like X will instinctively seem right, and ideas that don't will instinctively seem wrong.
 
 As more ideas in your head are serving X, this in turn will make your body seek out X even more, which will make your mind filter for X even more, which will strenghten the loop further.
 Because you are what you practice becoming, this process ends with you becoming an avatar of X.
@@ -31,20 +35,14 @@ Because the mind is weak, any idea that is merely objectively true will coerce i
 Both of these statements are objectively true. But they are not pragmatically true, because the idea of luck feeds your body's need for lack of control,
 which makes you parse reality through a lens of lack of control, which further feeds your body's need for lack of control, and as the loop plays out you will become an avatar of lack of control, which is a person who lacks control.
 
-{{< hint [info] >}}
-Objective truth: scientific truth, a truth that is concerned only with objective reality, reason and logic.
-Pragmatic truth: darwinian truth, a truth that is concerned with fitness, or only what is true enough to lead to better outcomes in the future.
-{{< /hint >}}
-
-{{< hint [info] >}}
-A good idea is one that is both objectively and pragmatically true. A worse idea is one that is only pragmatically but not objectively true.
-A bad idea is one that is both objectively and pragmatically false. But the worst idea is one that is only objectively but not pragmatically true.
-Only this worst idea has the capacity to fool your already weak rational mind into doing something that is wrong for your future without you being able to realize it.)
+{{< hint info >}}
+Objective truth is scientific truth, concerned only with objective reality, reason and logic. While pragmatic truth is darwinian truth, concerned with fitness, or only what is true enough to lead to better outcomes in the future.
 {{< /hint >}}
 
 In this case, the only way to break the loop is through active, conscious rejection of the idea that luck matters or is important. You have to psyop yourself into the belief that luck isn't real to not
-become its avatar and to eventually gain the pragmatic benefits that come from not believing in it. Many people have gamed out this process instinctively - which is incidentally what allows them to be successful - such as 
-contemporary philosopher and part-time streamer, Félix Lengyel:
+become its avatar and to eventually gain the pragmatic benefits that come from not believing in it. 
+
+Many people have gamed out this process instinctively - which is incidentally what allows them to be successful - such as contemporary philosopher and part-time streamer, Félix Lengyel:
 
 {{< youtube GfYHU3jVky4 >}}
 
