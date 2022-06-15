@@ -54,6 +54,7 @@ your body into parsing reality through a lens that gives you more power to affec
 
 Ancients often spoke of destiny. Luck and destiny are both concepts used to explain that which happens outside one's control. However, luck is indeterminate and destiny is determinate. When you get lucky
 it's a random event, a statistical anomaly, it just happened. When you are destined for something, you either become worthy of your destiny and reach it or you are a failure. One idea is clearly more pragmatically true than the other.
+
 Consider Eric Barone's words:
 
 {{< youtube 0ti5bBgEJaw >}}
