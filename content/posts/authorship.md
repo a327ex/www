@@ -4,8 +4,8 @@ tags = [
     "indiedev",
     "psychology",
 ]
-date = "2022-06-16"
-images = [""]
+date = "2022-06-19"
+images = ["https://i.imgur.com/aqLqasi.png"]
 +++
 
 > Information wants to be free, culture follows evolutionary flows — viral memetics — and accreditation, provenance, patents, copyright are all burdens that strangle the free flow of the work and ruin its memetic fitness. 
