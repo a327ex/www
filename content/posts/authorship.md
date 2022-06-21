@@ -103,7 +103,7 @@ These are also all valid points. But I disagree with all of them. And the reason
 X's story can be read as one of the fantasies of a megalomaniacally status hungry and egocentric indiedev. We all have some of that in us, some more than others...
 
 But isn't it interesting how a realistic path for such an indiedev towards one of the highest ego boosts possible, one of the highest status claims there can be, one of the greatest achievements one can achieve - 
-which is your little indie game becoming a cultural hit of such epic proportions that there are even shitty cheaply made animes about it - isn't it interesting how that path requires complete and utter *egolessness*?
+which is your little indie game becoming a cultural hit of such epic proportions that there are even shitty cheaply made anime about it - isn't it interesting how that path requires complete and utter *egolessness*?
 
 Consider what X has to be OK with to go along with his open game's popularity: he has to be OK with people making money off his work, potentially even more than him (I hear that once merch gets going it really makes *a lot* of money);
 he has to be OK with chinese boys stealing his work and releasing his unchanged game on chinese stores, making millions without him seeing a single dime; he has to be OK with disgusting and deranged cryptobros making 🤮 NFTs 🤮 
@@ -183,4 +183,4 @@ So doing it just makes perfect sense, and not doing it is irrational.
 
 X's story will happen, and when it does it will inspire indiedevs all across the world, and a world of completely permissionless remixing will manifest itself. And it will be good.
 
-But while it doesn't happen... why not try to be X yourself?
+But while that doesn't happen... why not try to be X yourself?
