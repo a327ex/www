@@ -97,7 +97,7 @@ You've built it into this thing of great importance in your mind and you're givi
 It doesn't matter, it doesn't mean anything, it's just a number. You could call this monetary nihilism if you'd like.
 
 And did I have to give up my artistic soul to reach this conclusion? Did I have to get an MBA and become some kind of business lord? Did I have to hoard money in my cave like a dragon? No. Because the opposite of 
-hating money is not loving money. There's a third option where you really just don't take it seriously at all and you transcend it. 
+hating money is not loving money. There's a third option where you really just don't take it seriously at all.
 
 When you actively hate something you build it up in importance your mind and you are still operating in its frame. The only way to truly win and make yourself free is by transcending it instead.
 
