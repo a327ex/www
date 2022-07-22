@@ -99,7 +99,7 @@ It doesn't matter, it doesn't mean anything, it's just a number. You could call 
 And did I have to give up my artistic soul to reach this conclusion? Did I have to get an MBA and become some kind of business lord? Did I have to hoard money in my cave like a dragon? No. Because the opposite of 
 hating money is not loving money. There's a third option where you really just don't take it seriously at all.
 
-When you actively hate something you build it up in importance your mind and you are still operating in its frame. The only way to truly win and make yourself free is by transcending it instead.
+When you actively hate something you build it up in importance in your mind and you are still operating in its frame. The only way to truly win and make yourself free is by transcending it instead.
 
 And so when Hakita says this:
 
