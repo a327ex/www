@@ -1,7 +1,7 @@
 baseURL = "https://a327ex.com/"
 languageCode = "en-us"
 title = "adn's web page"
-theme = "book"
+theme = ["hugo-video", "book"]
 
 disablePathToLower = true
 
@@ -13,6 +13,8 @@ disablePathToLower = true
     lineNos = true
     style = "native"
     tabWidth = 2
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [params]
   BookTheme = "dark"
