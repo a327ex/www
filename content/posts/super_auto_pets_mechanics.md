@@ -64,7 +64,13 @@ So from the ant we could start with something like this:
 | --- | --- |
 | `Random ally` | `a random ally` |
 
-The point of laying out the game's mechanics in tables like this is that it makes it easier to visualize and then iterate upon, provided you've chosen the right level of abstraction
+The way to build a unit generally is to take one thing from each table. So the ant would be something like:
+
+* Trigger: faint
+* Effect: stat change
+* Effect target: random ally
+
+And the point of laying out the game's mechanics in tables like this is that it makes it easier to visualize and then iterate upon, provided you've chosen the right level of abstraction
 for your tables. In this case, triggers and effects are very obviously right, so it will work OK.
 
 ### Beaver
@@ -80,7 +86,14 @@ for your tables. In this case, triggers and effects are very obviously right, so
 | --- | --- |
 | `N random allies` | `where N >= 1` |
 
-Just a small change from the previous `random ally` effect target to avoid having to repeat it in the table for multiple targets.
+Just a small change from the previous `random ally` effect target to avoid having to repeat it in the table for multiple targets. The beaver would look like this:
+
+* Trigger: sell
+* Effect: stat change
+* Effect target: 2 random allies
+
+I'm not going to repeat this for every unit. For units where a new trigger/effect/effect target exists, I'll just add the new element and it will be `bolded like this`. 
+And for units that can be built from elements that were previously added then I'll show how they should be built instead.
 
 ### Cricket
 
