@@ -84,4 +84,4 @@ This, of course, can be used for both good and bad. If games can be made to emul
 And it's arguable that most players will choose to play and indulge in fentanyl-shaped games above anything else, but that's perhaps [a discussion for another post](https://twitter.com/a327ex/status/1551328243894161408).
 
 The point is that, for me, "deep instinctive changes" is an important reason for making and playing games and I don't think I'll ever be convinced that games should be "moved on from".
-Games are an endlessly shapeable environment of body training. To consider moving on from them is equivalent to consider moving on from life itself, which would be suicidal and nonsensical.
+Games are an endlessly shapeable environment of body training. To consider moving on from them is equivalent to considering moving on from life itself, which would be suicidal and nonsensical.
