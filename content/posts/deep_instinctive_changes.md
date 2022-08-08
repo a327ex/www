@@ -73,7 +73,7 @@ So allow me to propose that they are not good justifications because they are th
 And you know, if you were to ask me, personally, if I cared about sharing justifications of my professions's reason for existence with a fentanyl dealer, I would say "no". I don't really care.
 But I'm guessing that droqen and other indie developers aren't as... uh, morally flexible as me, so they probably have a problem with it.
 
-And so when you're trying to think about the purpose of making games, you can't defend your profession with the fentanyl dealer's reasoning, as it's obviously a weak line of reasoning.
+And so when you're trying to think about the purpose of making games, you can't defend your profession with the fentanyl dealer's reasoning, as it's obviously a weak argument.
 But more importantly, it doesn't get to the core of what makes games unique. It's not a meaningfully true defense, which is why it feels like bullshit.
 
 The reasoning of "deep instinctive changes" instead feels much closer to something meaningful and strong to me. The fentanyl dealer can't change the fentanyl experience to be anything other than what it is,
