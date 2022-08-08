@@ -70,7 +70,7 @@ They are not good justifications of a profession's reason for existence.
 So allow me to propose that they are not good justifications because they are the same things a fentanyl dealer would say about his business.
 "Growing my fentanyl dealing business is more fun than doing fentanyl", "people who buy fentanyl from me tell me they're having a lot of fun and are happy", "I connected with my friends by doing it since they all do it too".
 
-And you know, if you were to ask me, personally, if I cared about sharing justifications of my professions's reason for existence with a fentanyl dealer, I would say "no". I don't really care.
+And you know, if you were to ask me, personally, if I cared about sharing justifications of my profession's reason for existence with a fentanyl dealer, I would say "no". I don't really care.
 But I'm guessing that droqen and other indie developers aren't as... uh, morally flexible as me, so they probably have a problem with it.
 
 And so when you're trying to think about the purpose of making games, you can't defend your profession with the fentanyl dealer's reasoning, as it's obviously a weak argument.
