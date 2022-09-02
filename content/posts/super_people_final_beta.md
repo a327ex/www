@@ -113,7 +113,7 @@ Given that this is the case, it's obvious that I'll also apply it to game design
 All of this to say, my initial reaction to all these middleground changes right before the beta started was like: there's nothing wrong here necessarily, but it kind of isn't a good sign that they're playing it this safe.
 Still, the game is pretty fun, it's not like the changes are going to ruin it, so let's see what's up before judging it too harshly.
 
-And so it became obvious to me upon playing the final beta for like a few minutes that I made a huge mistake in my entire assessment of this game.
+But it became obvious to me upon playing the final beta for like a few minutes that I made a huge mistake in my entire assessment of this game.
 
 You see, my heart is so pure, my soul so untainted by earthly desires, that in both my previous posts as well as right up to before I played the final beta, I didn't even consider the question of:
 "how are the devs going to monetize this game?"
