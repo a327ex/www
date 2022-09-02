@@ -2,6 +2,7 @@
 title = "Super People design review"
 tags = [
     "design",
+    "super people",
 ]
 date = "2022-03-09"
 images = ["https://i.imgur.com/AKSEJnM.png"]

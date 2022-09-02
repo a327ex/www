@@ -2,6 +2,7 @@
 title = "Thoughts on Super People's test session"
 tags = [
     "design",
+    "super people",
 ]
 date = "2022-03-14"
 images = ["https://i.imgur.com/AKSEJnM.png"]
