@@ -152,6 +152,12 @@ not giving them exactly what they want without adding the option to make them pa
 If your goal is extracing money out of people who have it but don't have time, let's say the 25-34 year old bracket, then it's a perfect strategy. Kids who have no money at all can still enjoy a very good free game
 and not really worry about paying anything for it, while those who don't have time to grind things out can still play the exact game they want and relax for 2-4 hours every day after they come home from work.
 
+And so with this in mind the changes that they made being middleground solutions retroactively makes sense. For instance, if you're going to entirely remove crafting, which is something the highly conscientious like,
+you need go give them back something else. But if you want to primarily monetize the highly conscientious, then what they want shouldn't be given out for free, which thus constrains your ability to remove things like crafting entirely.
+
+So the solution to simplify it and make it a bit less grindy while also not giving out direct class selection is one that is harmonious when you recontextualize it with monetization in mind.
+Which means that their solutions weren't like this because they were playing it safe, but simply because they also needed to take the monetization variable into account.
+
 ### Skin monetization
 
 The game also features skins that players will be able to buy on the cash shop. And their system for it will look something like this:
