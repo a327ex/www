@@ -237,7 +237,7 @@ that the Rumbleverse developers settled on for their game when you compare it, f
 To end this post, an argument could be made that "skill death spirals" aren't a problem. More skilled players *should* consistently beat lesser skilled players and as designers we shouldn't give in to people's worst impulses
 and try to somehow make the game easier/rewarding for people who don't deserve it.
 
-This starts getting into the [difficulty and acessibility](https://www.a327ex.com/posts/cons_compassion/#difficulty-and-accessibility) argument, which is a fine argument to have in general. But in this particular
+This starts getting into the [difficulty and accessibility](https://www.a327ex.com/posts/cons_compassion/#difficulty-and-accessibility) argument, which is a fine argument to have in general. But in this particular
 situation, that of a competitive multiplayer game that has to survive for as long as possible, it seems more pragmatic to not take the Dark Souls side of it and to cater to less skilled players because you simply need to.
 
 If you don't do this your game has a higher risk of dying, and you don't want that, so you have to do it. Of course, you should do it tastefully and carefully, but it should be done regardless.
