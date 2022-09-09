@@ -216,7 +216,7 @@ The possible outcomes are the following:
 
 1. Super People succeeds and Rumbleverse fails 
 2. Rumbleverse succeeds and Super People fails 
-3. Neither game succeds or fails too much and they just sort of survive
+3. Neither game succeeds or fails too much and they just sort of survive
 4. Both games fail
 
 4 is the least interesting one. 3 is probably the one with the highest chance of happening. If 2 happens then it means that match duration/size, queue amount and combat heavy fun weigh more than TTK/luck when it comes to
