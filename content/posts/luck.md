@@ -3,6 +3,7 @@ title = "Luck isn't real"
 tags = [
     "indiedev",
     "psychology",
+    "luck",
 ]
 date = "2022-06-14"
 images = ["https://i.imgur.com/MCcMQtl.png"]

@@ -1,7 +1,7 @@
 +++
 title = "Marketing vs. skills"
 tags = [
-    "indiedev"
+    "indiedev",
 ]
 date = "2021-09-13"
 images = ["https://cdnb.artstation.com/p/assets/images/images/014/155/007/large/randy-vargas-vargasni-ogre-m-det.jpg"]

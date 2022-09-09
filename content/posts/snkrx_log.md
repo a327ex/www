@@ -1,7 +1,9 @@
 +++
 title = "SNKRX's post-release log"
 tags = [
-    "indiedev", "snkrx",
+    "indiedev",
+    "snkrx",
+    "luck",
 ]
 date = "2021-05-30"
 images = ["https://cdn.cloudflare.steamstatic.com/steam/apps/915310/header.jpg"]

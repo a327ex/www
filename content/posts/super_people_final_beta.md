@@ -3,6 +3,7 @@ title = "Thoughts on Super People's final beta"
 tags = [
     "design",
     "super people",
+    "skill death spiral",
 ]
 date = "2022-09-02"
 images = ["https://i.imgur.com/AKSEJnM.png"]
