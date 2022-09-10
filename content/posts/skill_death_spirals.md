@@ -183,8 +183,8 @@ This would predict a stronger skill death spiral for Rumbleverse than for Super 
 ### Lag
 
 Super People's very low TTK means it can match people globally easily, which decreases matchmaking duration.
-Rumbleverse's extremely high TTK and fighting game roots requires all players to be of similar enough ping otherwise the game will feel very unfair.
 
+Rumbleverse's extremely high TTK and fighting game roots requires all players to be of similar enough ping otherwise the game will feel very unfair.
 This contrains the number of available players for matchmaking, especially in smaller regions that aren't NA/EU, and thus contributes to the game's death spiral.
 
 ### Match duration and size
