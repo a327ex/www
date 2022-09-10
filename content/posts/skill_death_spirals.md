@@ -83,6 +83,23 @@ However, Rumbleverse also has extremely easy engagements.
 Because TTK is so high and disengagements are so easy, people are way more likely to engage in combat since it costs less, and thus increase the game's overall randomness/luck.
 This effect is a lot more noticeable in duos than in solos, so if I had to make a wild guess, relative to each other, Rumbleverse's duo queues will die slower than its solo queues.
 
+## Lag
+
+Because Super People's TTK is very low, they can take a "whoever shot first is right" approach to latency. Quite a lot of the times whenever people die it's because they got caught off guard,
+which means that despite it being an FPS game the game works fairly well at high latencies. I'm from Brazil and I'm sometimes playing in 200+ms servers and the game feels fine to me other than the delay on
+actions like picking up items or opening doors.
+
+On SA servers, there's very often also people from China. And sometimes I'm even matched to European players playing against people in like Germany or Turkey, which sounds really impossible but I guess it must be like
+an American server and then everyone in it has like 150+ms to make it more fair or something? The point being, the game works fine with high latency because more often than not latency doesn't come into question in fairly
+determining who died.
+
+This means that Super People has an advantage in terms of matchmaking times because if the game feels fine while people are being matched pretty much globally then it means that it will be that much harder
+for a death spiral to develop.
+
+If you look at games like Battlerite Royale, Spellbreak or Rumbleverse, for instance, which have a higher TTK and are more skill/fighting oriented, then lag matters quite a lot more.
+In Rumbleverse, for instance, most of your attacks have to connect with enemies in a way that disables their ability to move or act, which means that if latency for either party is too high, it will start feeling extremely unfair.
+And this seems to be the case since so far I haven't been matched outside of SA in Rumbleverse even once, despite playing at really odd times sometimes like 5AM.
+
 ## Match duration
 
 Match duration is also a consideration, given that shorter matches directly result in faster queues, which stave off death spirals.
@@ -163,6 +180,13 @@ of the battle. The more skilled person always wins.
 
 This would predict a stronger skill death spiral for Rumbleverse than for Super People, and if this aspect (TTK/luck) is the one that has the most importance, then the difference in results between both games should be large.
 
+### Lag
+
+Super People's very low TTK means it can match people globally easily, which decreases matchmaking duration.
+Rumbleverse's extremely high TTK and fighting game roots requires all players to be of similar enough ping otherwise the game will feel very unfair.
+
+This contrains the number of available players for matchmaking, especially in smaller regions that aren't NA/EU, and thus contributes to the game's death spiral.
+
 ### Match duration and size
 
 Rumbleverse has very low match duration and low requirements on player numbers per match when compared with Super People, which should offset some of its problems when it comes to TTK/luck.
@@ -204,13 +228,14 @@ I can't really ignore it.
 So to summarize, here's what the analysis looks like based on which game does it better from a skill death spiral prevention perspective:
 
 * TTK/luck: Super People
+* Lag: Super People
 * Match duration and size: Rumbleverse
 * Matchmaking queues: Rumbleverse
 * Bots: neutral, maybe a slight edge to Rumbleverse
 * Fun: neutral
 
-And so from this you could say that Super People wins on TTK/luck alone while Rumbleverse kinda wins on everything else. And this is why this comparison is so useful, because to the degree that this little analysis is true,
-it means that depending on how each game performs over the next 6 months to 1 year, I can get a more clear idea on which aspect matters more for BR skill death spirals.
+And so from this you could say that Super People wins on TTK/luck and lag (which is a consequence of having low TTK) while Rumbleverse wins on everything else. And this is why this comparison is so useful,
+because to the degree that this little analysis is true, it means that depending on how each game performs over the next 6 months to 1 year, I can get a more clear idea on which aspect matters more for BR skill death spirals.
 
 The possible outcomes are the following:
 
