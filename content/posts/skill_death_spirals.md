@@ -85,12 +85,12 @@ This effect is a lot more noticeable in duos than in solos, so if I had to make 
 
 ## Lag
 
-Because Super People's TTK is very low, they can take a "whoever shot first is right" approach to latency. Quite a lot of the times whenever people die it's because they got caught off guard,
+Because Super People's TTK is very low, they can take a "whoever shot first is right" approach to latency. Quite often when people die it's because they got caught off guard,
 which means that despite it being an FPS game the game works fairly well at high latencies. I'm from Brazil and I'm sometimes playing in 200+ms servers and the game feels fine to me other than the delay on
 actions like picking up items or opening doors.
 
-On SA servers, there's very often also people from China. And sometimes I'm even matched to European players playing against people in like Germany or Turkey, which sounds really impossible but I guess it must be like
-an American server and then everyone in it has like 150+ms to make it more fair or something? The point being, the game works fine with high latency because more often than not latency doesn't come into question in fairly
+On SA servers, there's very often also people from China and they don't feel like they have a particularly unfair advantage when I fight them. And sometimes I'm even matched to European players playing against people in like 
+Germany or Turkey, which sounds really impossible but I guess it must be like an American server and then everyone in it has like 150+ms to make it more fair or something? The point being, the game works fine with high latency because more often than not latency doesn't come into question in fairly
 determining who died.
 
 This means that Super People has an advantage in terms of matchmaking times because if the game feels fine while people are being matched pretty much globally then it means that it will be that much harder
