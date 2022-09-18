@@ -3,8 +3,8 @@ title = "Self-expression vs. vesselization"
 tags = [
     "indiedev",
 ]
-date = "2022-09-14"
-images = [""]
+date = "2022-09-18"
+images = ["https://i.imgur.com/hikKgZ2.png"]
 +++
 
 I was watching [this talk](https://www.youtube.com/watch?v=YVXkOo5KOzQ) by Edmund earlier and it's a very good one. I think I agree with pretty much everything he says in it, except the very first point:
