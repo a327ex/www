@@ -204,16 +204,12 @@ of wasted potential. The game addict suffers from a much more insidious ailment,
 
 And so when you look at games like Isaac, and other highly addicting roguelites like Slay the Spire, Hades, you know, pick your favorite, all of them share this same problem where, for a small subset of the population,
 they are used as tools to justify their addictions, just like gacha games are. The only difference between them is the resource used, and in my opinion asking for money is not significantly worse than asking for time.
-I could make the argument that asking for time is worse due to its invisible drawbacks, but I'm not really going to make this argument here.
+
+And of course, the negative effects of games aren't limited to roguelites only. Pretty much every other type of game also has a form of this problem in one way or another. 
 
 In any case, you probably don't agree with this entire argument. You're probably thinking of many counter arguments to it right now, and I could preemptively write a retort to all your counter arguments
-but I'm not going to do it here. This post is getting long, I want to be done with it, so it is what it is.
-
-However, I've had this argument with many people before, I've thought about it a lot, and, you know, I'm pretty sure I'm right and I'm pretty sure the equivalence between gachas/roguelites and time/money is as
-solid as an equivalence gets. 
-
-And of course, the negative effects of games aren't limited to roguelites only. Pretty much every other type of game also has a form of this problem in one way or another. But I'll have to leave the full 
-version of all these arguments to a future post. Let's move on and go back to the topic of self-expression.
+but I'm not going to do it here. I've had this argument with many people before, I've thought about it a lot, and, you know, I'm pretty sure I'm right and I'm pretty sure the equivalence between gachas/roguelites and time/money is as
+solid as an equivalence gets. But this post is getting long, I want to be done with it, so I'll have to leave the full version of this argument for another post. Let's move on and go back to the topic of self-expression.
 
 I said at the start of this post that I value flexibility a lot. Another thing that I also value a lot is the ability to be attuned to reality, or to truth. So when Edmund says things like "don't manipulate" or 
 "the dishonesty of selling", it tells me that he isn't very attuned to reality when it comes to making video games.
