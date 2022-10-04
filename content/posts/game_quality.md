@@ -72,7 +72,7 @@ First we need to define what counts as Steam traffic and what counts as external
 and direct search results, and everything else counts as internal Steam generated traffic.
 
 If we add up the percentages we get 15.45% for external traffic and 76.76% for Steam's traffic. This is roughly a 5X multiplier in Steam's advantage. If we were to take the numbers as they are it means that all the
-marketing I did for SNKRX on my own + all the streamers and youtubers that played the game during that period (which are the same previously mentioned influencers that won't play any of my games in the future) amount to 15%
+marketing I did for SNKRX on my own + all the streamers and youtubers that played the game during that period (which are some of the same previously mentioned influencers that won't play any of my games in the future) amount to 15%
 of page vists, while Steam itself amounts to 75-80% of it.
 
 But of course, not all external website, direct navigation and search suggestion page visits can be counted as coming from either my or the influencers' efforts completely. For instance, if someone posts a link to the game
