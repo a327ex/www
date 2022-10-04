@@ -91,7 +91,7 @@ And if we add up the percentages again we get 27.02% for external traffic and 66
 we can say that it's roughly a 5X multiplier instead.
 
 There's a difference here, from 5X to 10X, and there are multiple ways to explain it. One of them is that each game on Steam has something like an internal MMR score. I call this the "point of equilibrium". This is a number or 
-a set of numbers that tells Valve's algorithm how "good" the game is, or how much it deserves to be shown on the store. For instance, a game like Slay the Spire most likely has a very point of equilibrium, because it's just a good game:
+a set of numbers that tells Valve's algorithm how "good" the game is, or how much it deserves to be shown on the store. For instance, a game like Slay the Spire most likely has a very high point of equilibrium, because it's just a good game:
 
 {{< figure src="https://i.imgur.com/EVZHupm.png" >}}
 
