@@ -1,5 +1,5 @@
 +++
-title = "Super People major update"
+title = "Super People's major update"
 tags = [
     "design",
     "super people",
