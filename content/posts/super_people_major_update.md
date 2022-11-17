@@ -207,7 +207,7 @@ And this is largely in line with what I initially suggested the game should be l
 I think these are all very very positive changes. 
 
 The developers didn't talk about this, but since they're making the game more fast-paced and also increasing the limit of players per match, the only way they can make this work while keeping matchmaking times low
-is to decrease the amount of time each match takes to complete. This makes sense, since if you want to increase fighting all you have to do is make the circle decrease faster, which also keeps the game alive for longer
+is to decrease the amount of time each match takes to complete. This makes sense, since if you want to increase fighting all you have to do is make the circle contract faster, which also keeps the game alive for longer
 since people if matches will be shorter people will die faster which makes matchmaking faster.
 
 All of these things are very good for the game's future and if the game performs better than what it did so far after this update, then this will be a very strong signal that this personality trait based analysis of a 
