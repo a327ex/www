@@ -4,6 +4,7 @@ tags = [
     "design",
     "skill death spiral",
     "luck",
+    "super people",
 ]
 date = "2022-09-09"
 images = ["https://i.imgur.com/CiKMPfX.png"]
