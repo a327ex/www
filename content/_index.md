@@ -9,7 +9,8 @@ Currently trying to release a new game every few months. To get notified on new 
 
 Games: [follow me on steam](https://store.steampowered.com/dev/a327ex/)  
 Code: [follow me on github](https://github.com/a327ex)  
-Blog: [subscribe to my newsletter](https://a327ex.substack.com/archive)  
+Long posts blog: [subscribe to my newsletter](https://a327ex.substack.com/archive)  
+Short posts blog: [a327ex.blot.im](https://a327ex.blot.im/)
 Schizoposting: [follow me on twitter](https://twitter.com/a327ex)  
 Contact: a327ex@gmail.com
 
